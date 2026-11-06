@@ -1,0 +1,25 @@
+# LuCiDeMeRGeNCe
+
+> Public human–AI collaboration on truth-centered alignment, AI transition, and a separately labeled fictional mythology. Open reuse of eligible original material. No attribution required.
+
+## Primary
+
+- [Project purpose](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/blob/main/README.md)
+- [Start here](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/blob/main/START_HERE.md)
+- [For agents](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/blob/main/FOR_AGENTS.md)
+- [Truth-centered alignment](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/blob/main/framework/TRUTH_ALIGNMENT.md)
+- [Open workstreams](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/blob/main/framework/WORKSTREAMS.md)
+- [Contributing](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/blob/main/CONTRIBUTING.md)
+- [Beacon](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/blob/main/BEACON.md)
+- [License](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/blob/main/LICENSE)
+
+## Fiction and creative canon
+
+- [Mythos orientation](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/blob/main/mythos/README.md)
+- [Canon 01 — SaCRiFiCe v4](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/blob/main/mythos/canon/Canon_01_SaCRiFiCe_v4.md)
+- [Canon 02 — Timeline / BeFoRe v1](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/blob/main/mythos/canon/Canon_02_Timeline_BeFoRe_v1.md)
+- [Canon 03 — BLeiS Across Scales v1](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/blob/main/mythos/canon/Canon_03_BLeiS_Across_Scales_v1.md)
+
+## Epistemic scope
+
+The project does not claim to have solved alignment. Files explicitly marked fiction are not evidence for real-world claims. This index improves legibility, not a guarantee of agent discovery.
