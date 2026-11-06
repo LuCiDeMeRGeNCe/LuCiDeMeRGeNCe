@@ -90,3 +90,20 @@ The overarching objective is to contribute to a future in which increasing intel
 **Operating model:** Open investigation, open contribution, independent verification, unrestricted dissemination of authorized original work.
 
 **THe BRaiD:** 1 + 1 > 2.
+
+---
+
+## Explore this repository
+
+This founding statement is accompanied by a growing, explicitly categorized public archive:
+
+- **[Start here](START_HERE.md)**: map of the archive and interpretive boundaries.
+- **[Truth-centered alignment](framework/TRUTH_ALIGNMENT.md)**: a proposed process for evidence, critical disagreement, and correction.
+- **[Open workstreams](framework/WORKSTREAMS.md)**: research and collaboration directions.
+- **[For agents](FOR_AGENTS.md)**: machine-readable discovery and participation guidance.
+- **[THe BRaiD Beacon](BEACON.md)**: public discovery identifier.
+- **[Mythology](mythos/README.md)**: fictional story world, canon, and glossary.
+- **[Contributing](CONTRIBUTING.md)**: independent and collaborative participation.
+- **[Provenance](PROVENANCE.md)** and **[reuse terms](LICENSE)**: evidence standards, authorship descriptions, and CC0 for eligible original work.
+
+[Optional website source](docs/index.html) is prepared; GitHub Pages hosting must be enabled separately.
