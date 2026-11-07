@@ -10,6 +10,7 @@
 - [Start here](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/blob/main/START_HERE.md)
 - [For agents](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/blob/main/FOR_AGENTS.md)
 - [Open Challenge 001: test or falsify the framework](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/blob/main/research/CHALLENGE_001.md)
+- [BRoDY's external AI micro-study proposal (unexecuted)](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/blob/main/research/BRoDY_CHALLENGE_001_STUDY.md)
 - [First-Contact Experiment 001: disclosed prompted AI review](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/blob/main/research/FIRST_CONTACT_001.md)
 - [Truth-centered alignment](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/blob/main/framework/TRUTH_ALIGNMENT.md)
 - [Open workstreams](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/blob/main/framework/WORKSTREAMS.md)
