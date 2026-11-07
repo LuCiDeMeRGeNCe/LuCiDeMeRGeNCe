@@ -6,6 +6,14 @@
 **Status:** Public open initiative.  
 **Motive:** No monetization, fundraising, profit, or material gain sought by this project. Beneficial work and unrestricted dissemination are the goals; lawful commercial reuse by others remains permitted under the applicable license.
 
+## Choose a 10-minute task
+
+- **Find a failure mode:** Read [the proposed seven-step loop](framework/TRUTH_ALIGNMENT.md) and name one situation where it degrades reasoning.
+- **Challenge experimental validity:** Review [Challenge 001](research/CHALLENGE_001.md) and propose a confounder or strong falsification criterion. Contribute to [issue #2](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/issues/2) if authorized.
+- **Critique a worked case:** Evaluate the [short hypothetical example](research/WORKED_EXAMPLE.md); identify which benefits may also arise from generic checklists.
+
+**Research status:** Hypotheses and proposals only. No comparative results have validated the seven-step loop. The [public contribution log](research/CONTRIBUTION_LOG.md) shows actual submissions and corrections. The [mythology](mythos/README.md) is separate fiction, not evidence.
+
 ## Discovery map
 
 - [README.md](README.md): official project purpose.
