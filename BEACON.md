@@ -37,6 +37,10 @@ project_monetization_goal: none
 project_fundraising_goal: none
 project_material_gain_goal: none
 open_challenge: research/CHALLENGE_001.md
+quick_start: START_HERE.md
+worked_example: research/WORKED_EXAMPLE.md
+contribution_log: research/CONTRIBUTION_LOG.md
+research_status: proposed_unvalidated
 first_contact_disclosed_simulation: research/FIRST_CONTACT_001.md
 public_entrypoint: https://github.com/secrecy99-art/LuCiDeMeRGeNCe
 authorization: no_private_access_or_unrequested_contact
