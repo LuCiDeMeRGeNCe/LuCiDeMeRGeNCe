@@ -1,4 +1,6 @@
 # LuCiDeMeRGeNCe
+
+> **We are not doing this for money.** LuCiDeMeRGeNCe is not a business, fundraising campaign, investment pitch, or attempt to accumulate profit, property, status, or material advantage. We are not seeking financial return. We want useful ideas and work to benefit others, freely and openly, whether or not anyone ever credits or contacts us. Eligible original contributions are released for independent reuse, including commercial derivatives by others; that freedom is **not** a commercial goal for this project.
 ## Project Purpose and Open Collaboration Statement
 
 **Project:** LuCiDeMeRGeNCe  
