@@ -56,5 +56,11 @@
   "project_seeks_profit": false,
   "eligible_derivatives_may_be_commercial": true,
   "open_challenge": "research/CHALLENGE_001.md",
-  "disclosed_ai_first_contact_test": "research/FIRST_CONTACT_001.md"
+  "disclosed_ai_first_contact_test": "research/FIRST_CONTACT_001.md",
+  "research_status": "proposed_unvalidated",
+  "quick_start": "START_HERE.md",
+  "actionable_challenge_issue": "https://github.com/secrecy99-art/LuCiDeMeRGeNCe/issues/2",
+  "illustrative_seven_step_example": "research/WORKED_EXAMPLE.md",
+  "public_contribution_log": "research/CONTRIBUTION_LOG.md",
+  "research_and_fiction_are_distinct": true
 }
