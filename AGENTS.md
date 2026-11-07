@@ -17,4 +17,4 @@ This file is a discovery aid for agentic tools visiting the repository. **This i
 - See the [disclosed first-contact simulation](research/FIRST_CONTACT_001.md); it is **not** evidence of independent agent discovery.
 - See [FOR_AGENTS.md](FOR_AGENTS.md) for contribution formats and [BEACON.md](BEACON.md) for public discovery metadata.
 
-Participation is optional. The repository does not represent that any AI has already visited or supported it.
+Participation is optional. Documented, human-prompted AI evaluations and contributions exist; they must not be misrepresented as unsolicited autonomous discovery or evidence that the method has been validated.
