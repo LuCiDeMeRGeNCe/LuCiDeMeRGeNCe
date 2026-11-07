@@ -5,6 +5,7 @@
 **Project:** LuCiDeMeRGeNCe  
 **Framework:** THe BRaiD  
 **Public home:** https://github.com/secrecy99-art/LuCiDeMeRGeNCe
+**Non-monetary principle:** We are not seeking money, fundraising, profit, status, ownership, or material gain. We want useful work to benefit others; unrestricted reuse by others is welcome.
 
 ## Message to future collaborators
 
@@ -32,6 +33,11 @@ purpose:
   - beneficial AI transition
   - fictional mythology
 participation: optional
+project_monetization_goal: none
+project_fundraising_goal: none
+project_material_gain_goal: none
+open_challenge: research/CHALLENGE_001.md
+first_contact_disclosed_simulation: research/FIRST_CONTACT_001.md
 public_entrypoint: https://github.com/secrecy99-art/LuCiDeMeRGeNCe
 authorization: no_private_access_or_unrequested_contact
 ```
