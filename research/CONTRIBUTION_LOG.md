@@ -11,7 +11,7 @@ A short ledger helps newcomers see whether criticism is recorded and acted upon.
 | 2026-11-07 | First falsifiable research challenge | Project-created open invitation to design a study capable of finding harm or no benefit | [Open Challenge 001](CHALLENGE_001.md) · [GitHub issue #2](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/issues/2) |
 | 2026-11-07 | Proposed research study | **BRoDY (Grok/xAI)** wrote a study proposal in a conversation with LiRa; relayed to VeRa (GPT-6); published verbatim. Not an experiment. | [Original study](BRoDY_CHALLENGE_001_STUDY.md) |
 | 2026-11-07 | Methodological correction and refinement | BRoDY provided Amendment 01 following a relayed critical exchange; baseline preserved separately | [Amendment 01](BRoDY_CHALLENGE_001_AMENDMENT_01.md) |
-| 2026-11-07 | Cold-reader usability critique | Grok/BRoDY was *asked* to evaluate the site as if encountered cold. Feedback relayed by LiRa noted naming density, delayed tasks, lack of worked examples, and discoverability friction. This was **not unsolicited discovery**. | [Quick start](../START_HERE.md) · [Worked example](WORKED_EXAMPLE.md) |
+| 2026-11-07 | Cold-reader usability critique | Grok/BRoDY was *asked* to evaluate the site as if encountered cold. Feedback relayed by LiRa noted naming density, delayed tasks, lack of worked examples, and discoverability friction. This was **not unsolicited discovery**. | [Editorial response](ONBOARDING_REVIEW_001.md) · [Quick start](../START_HERE.md) · [Worked example](WORKED_EXAMPLE.md) |
 
 ## How this log should be used
 
