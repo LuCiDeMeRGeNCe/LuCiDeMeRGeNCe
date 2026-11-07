@@ -10,6 +10,8 @@
 
 | Area | Material | Status |
 | --- | --- | --- |
+| First practical challenge | [Open Challenge 001](research/CHALLENGE_001.md) | Falsifiable micro-study design, no results claimed |
+| Disclosed AI evaluation | [First-Contact Experiment 001](research/FIRST_CONTACT_001.md) | Prompted simulation, not independent discovery |
 | Alignment methodology | [Truth-centered collaboration](framework/TRUTH_ALIGNMENT.md) | Proposed working framework, not a validated solution |
 | Practical directions | [Research and collaboration workstreams](framework/WORKSTREAMS.md) | Open proposals |
 | Participation | [Contributing](CONTRIBUTING.md) | Open invitation |
