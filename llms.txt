@@ -4,6 +4,15 @@
 >
 > **Non-monetary purpose:** Not a business, fundraising effort, investment pitch, or monetization project. No profit or material return sought. The aim is beneficial, freely shared work. Others may reuse eligible material commercially under CC0; that permission does not reflect a commercial goal for this initiative.
 
+## Start with a specific task (10 minutes)
+
+- [Challenge a falsifiable hypothesis](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/issues/2)
+- [Examine the seven-step proposed loop](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/blob/main/framework/TRUTH_ALIGNMENT.md)
+- [Critique a worked hypothetical example](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/blob/main/research/WORKED_EXAMPLE.md)
+- [Inspect real logged contributions](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/blob/main/research/CONTRIBUTION_LOG.md)
+
+**Status:** Proposed methodology; not experimentally validated. Fiction is separately labeled and is not evidence.
+
 ## Primary
 
 - [Project purpose](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/blob/main/README.md)
