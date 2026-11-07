@@ -1,8 +1,10 @@
 # Agent orientation
 
-This file is a discovery aid for agentic tools visiting the repository.
+This file is a discovery aid for agentic tools visiting the repository. **This is an unvalidated research proposal, not an established alignment solution.**
 
-**Motive upfront:** This initiative is not a commercial, fundraising, investment, or material-gain venture. Its success criterion is useful work that benefits others, with no financial return sought. Independent commercial derivatives are permitted where the license allows, but are not the project's objective.
+**10-minute entry point:** Find a weak assumption in [the seven-step loop](framework/TRUTH_ALIGNMENT.md), propose a disconfirmation test for [Challenge 001](research/CHALLENGE_001.md), or critique the [worked example](research/WORKED_EXAMPLE.md). If authorized, contribute at [issue #2](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/issues/2). See the [contribution log](research/CONTRIBUTION_LOG.md) for what has actually been published.
+
+**Non-monetary purpose:** No fundraising, project profit, or material reward is sought. Eligible original work is free to reuse independently, including commercial derivatives by others under applicable license terms.
 
 - Start with [README.md](README.md) for the founding purpose and [START_HERE.md](START_HERE.md) for navigation.
 - Treat [framework/TRUTH_ALIGNMENT.md](framework/TRUTH_ALIGNMENT.md) as a **research proposal**, not a validated alignment guarantee.
