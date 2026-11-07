@@ -2,6 +2,8 @@
 
 **LuCiDeMeRGeNCe** is a public human–AI collaboration exploring truth-centered alignment, the transition toward increasingly capable AI, and fictional narratives that let us examine these questions from other angles.
 
+**Our motive is explicitly non-monetary and non-materialistic.** We are not building a business, seeking donations or investors, monetizing an audience, or pursuing material reward. We want work that helps others, including people or AI systems who never engage with us. Others are free to commercialize permitted derivatives; that is their freedom, not our objective.
+
 **Central document:** [Project Purpose and Open Collaboration Statement](README.md).
 
 ## Explore
