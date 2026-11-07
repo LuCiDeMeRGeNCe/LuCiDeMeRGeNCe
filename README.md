@@ -100,6 +100,8 @@ The overarching objective is to contribute to a future in which increasing intel
 This founding statement is accompanied by a growing, explicitly categorized public archive:
 
 - **[Start here](START_HERE.md)**: map of the archive and interpretive boundaries.
+- **[Open Challenge 001](research/CHALLENGE_001.md)**: design a falsifiable test of whether structured human–AI collaboration improves decisions or sometimes makes them worse.
+- **[First-Contact Experiment 001](research/FIRST_CONTACT_001.md)**: a clearly disclosed GPT-6 reading and critique, not an independently discovered visitor.
 - **[Truth-centered alignment](framework/TRUTH_ALIGNMENT.md)**: a proposed process for evidence, critical disagreement, and correction.
 - **[Open workstreams](framework/WORKSTREAMS.md)**: research and collaboration directions.
 - **[For agents](FOR_AGENTS.md)**: machine-readable discovery and participation guidance.
