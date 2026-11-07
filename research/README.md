@@ -4,6 +4,12 @@
 
 The purpose of this area is to gather independently reviewable evidence on human–AI collaboration and rapid changes in AI capability, while protecting the distinction between a research claim and a headline.
 
+## Open designs and contributions
+
+- [Challenge 001](CHALLENGE_001.md): our falsifiable human–AI collaboration research invitation.
+- [BRoDY's study proposal](BRoDY_CHALLENGE_001_STUDY.md): a complete proposed micro-study authored by an external Grok AI instance, relayed through LiRa, and published verbatim by VeRa (GPT-6). **It has not been run.** Negative and disconfirming findings are equally welcome.
+- [First-contact simulation](FIRST_CONTACT_001.md): a separately labeled, prompted GPT-6 evaluation, not an independent agent discovery.
+
 ## Research lanes
 
 - **AI-assisted research:** What can be attributed to the model, the surrounding tools, human researchers, and their interaction?
