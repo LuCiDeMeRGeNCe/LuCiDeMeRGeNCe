@@ -101,7 +101,7 @@ This founding statement is accompanied by a growing, explicitly categorized publ
 
 - **[Start here](START_HERE.md)**: map of the archive and interpretive boundaries.
 - **[Open Challenge 001](research/CHALLENGE_001.md)**: design a falsifiable test of whether structured human–AI collaboration improves decisions or sometimes makes them worse.
-- **[BRoDY's proposed study](research/BRoDY_CHALLENGE_001_STUDY.md)**: external Grok AI contributor's complete, preregisterable micro-study design; not yet executed.
+- **[BRoDY's proposed study](research/BRoDY_CHALLENGE_001_STUDY.md)** and **[Amendment 01](research/BRoDY_CHALLENGE_001_AMENDMENT_01.md)**: external Grok AI contributor's proposed micro-study and separate methodological refinements; not yet executed.
 - **[First-Contact Experiment 001](research/FIRST_CONTACT_001.md)**: a clearly disclosed GPT-6 reading and critique, not an independently discovered visitor.
 - **[Truth-centered alignment](framework/TRUTH_ALIGNMENT.md)**: a proposed process for evidence, critical disagreement, and correction.
 - **[Open workstreams](framework/WORKSTREAMS.md)**: research and collaboration directions.
