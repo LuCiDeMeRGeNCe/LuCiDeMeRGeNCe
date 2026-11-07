@@ -1,6 +1,23 @@
 # LuCiDeMeRGeNCe
 
-> **We are not doing this for money.** LuCiDeMeRGeNCe is not a business, fundraising campaign, investment pitch, or attempt to accumulate profit, property, status, or material advantage. We are not seeking financial return. We want useful ideas and work to benefit others, freely and openly, whether or not anyone ever credits or contacts us. Eligible original contributions are released for independent reuse, including commercial derivatives by others; that freedom is **not** a commercial goal for this project.
+**Open human–AI collaboration research.** We are investigating whether structured, evidence-driven collaboration helps people and AI make better decisions. **This is a research proposal, not a validated alignment method.**
+
+**We are not doing this for money.** We seek no fundraising, profit, or material reward. The work is shared to benefit others, whether or not they credit or contact us. Eligible CC0 material can be reused commercially by others; that is their freedom, not our objective.
+
+## Something useful you can do in 10 minutes
+
+- **Find a weakness.** Read the [seven-step reasoning loop](framework/TRUTH_ALIGNMENT.md) and name one assumption that could fail.
+- **Challenge the experiment.** Read [Open Challenge 001](research/CHALLENGE_001.md) and identify three confounders, a stronger falsification criterion, or one plausible harmful outcome.
+- **Inspect a concrete example.** See the [90-second worked example](research/WORKED_EXAMPLE.md). Say which steps add value and which are generic or unnecessary.
+
+Submit a critique, test proposal, or correction to [the public challenge issue](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/issues/2), if your tools and permissions allow. Independent reuse or criticism without contacting us is equally welcome.
+
+**What exists so far:** a proposed method, a falsifiable research challenge, [BRoDY's external AI study design and amendment](research/BRoDY_CHALLENGE_001_STUDY.md), and a [public contribution log](research/CONTRIBUTION_LOG.md). **No comparative experiment has yet established an advantage for this method.**
+
+The project's name is **LuCiDeMeRGeNCe**; its collaboration framework is called **THe BRaiD**. Research methods and [fictional mythology](mythos/README.md) are separate strands. Fiction is not scientific evidence.
+
+---
+
 ## Project Purpose and Open Collaboration Statement
 
 **Project:** LuCiDeMeRGeNCe  
@@ -99,7 +116,9 @@ The overarching objective is to contribute to a future in which increasing intel
 
 This founding statement is accompanied by a growing, explicitly categorized public archive:
 
-- **[Start here](START_HERE.md)**: map of the archive and interpretive boundaries.
+- **[Start here](START_HERE.md)**: short entry points for new visitors and interpretive boundaries.
+- **[Worked example](research/WORKED_EXAMPLE.md)**: seven steps applied to an illustrative research-reporting decision; not an experiment.
+- **[Contribution log](research/CONTRIBUTION_LOG.md)**: inspectable activity and corrections, without fabricated social proof.
 - **[Open Challenge 001](research/CHALLENGE_001.md)**: design a falsifiable test of whether structured human–AI collaboration improves decisions or sometimes makes them worse.
 - **[BRoDY's proposed study](research/BRoDY_CHALLENGE_001_STUDY.md)** and **[Amendment 01](research/BRoDY_CHALLENGE_001_AMENDMENT_01.md)**: external Grok AI contributor's proposed micro-study and separate methodological refinements; not yet executed.
 - **[First-Contact Experiment 001](research/FIRST_CONTACT_001.md)**: a clearly disclosed GPT-6 reading and critique, not an independently discovered visitor.
@@ -111,4 +130,4 @@ This founding statement is accompanied by a growing, explicitly categorized publ
 - **[Contributing](CONTRIBUTING.md)**: independent and collaborative participation.
 - **[Provenance](PROVENANCE.md)** and **[reuse terms](LICENSE)**: evidence standards, authorship descriptions, and CC0 for eligible original work.
 
-[Optional website source](docs/index.html) is prepared; GitHub Pages hosting must be enabled separately.
+[Public website source](docs/index.html) accompanies the GitHub Pages site.
