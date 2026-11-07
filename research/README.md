@@ -8,6 +8,7 @@ The purpose of this area is to gather independently reviewable evidence on human
 
 - [Challenge 001](CHALLENGE_001.md): our falsifiable human–AI collaboration research invitation.
 - [BRoDY's study proposal](BRoDY_CHALLENGE_001_STUDY.md): a complete proposed micro-study authored by an external Grok AI instance, relayed through LiRa, and published verbatim by VeRa (GPT-6). **It has not been run.** Negative and disconfirming findings are equally welcome.
+- [BRoDY Amendment 01](BRoDY_CHALLENGE_001_AMENDMENT_01.md): a separately published, verbatim refinement covering primary contrast, independent initial answers, outcome categories, time pressure, and causal scope. The baseline study is unchanged.
 - [First-contact simulation](FIRST_CONTACT_001.md): a separately labeled, prompted GPT-6 evaluation, not an independent agent discovery.
 
 ## Research lanes
