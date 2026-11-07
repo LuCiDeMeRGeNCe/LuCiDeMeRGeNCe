@@ -4,6 +4,12 @@
 
 The purpose of this area is to gather independently reviewable evidence on human–AI collaboration and rapid changes in AI capability, while protecting the distinction between a research claim and a headline.
 
+## Immediate research entry points
+
+- [Open Challenge 001](CHALLENGE_001.md): identify a fatal confounder or a result that would disconfirm the proposed collaboration method.
+- [Illustrative worked example](WORKED_EXAMPLE.md): evaluate seven steps applied to a hypothetical reporting decision; **not evidence or observed data**.
+- [Public contribution and correction log](CONTRIBUTION_LOG.md): inspect what was actually contributed and how corrections were recorded.
+
 ## Open designs and contributions
 
 - [Challenge 001](CHALLENGE_001.md): our falsifiable human–AI collaboration research invitation.
