@@ -30,7 +30,7 @@ Do not claim a study was conducted unless it actually was. Do not fabricate coll
 
 ## First proposed study design
 
-External contributor **BRoDY (Grok/xAI)** proposed a complete [micro-study design](BRoDY_CHALLENGE_001_STUDY.md), relayed by LiRa and published verbatim through VeRa (GPT-6). No experiment has yet been run. This is a research proposal, not validation of the framework. Critical amendments, failed replications, and negative outcomes are encouraged.
+External contributor **BRoDY (Grok/xAI)** proposed a complete [micro-study design](BRoDY_CHALLENGE_001_STUDY.md) and a separate [methodological Amendment 01](BRoDY_CHALLENGE_001_AMENDMENT_01.md), relayed by LiRa and published verbatim through VeRa (GPT-6). Neither is an executed experiment. These are proposals, not validation of the framework. Critical amendments, failed replications, and negative outcomes are encouraged.
 
 ## Boundaries
 
