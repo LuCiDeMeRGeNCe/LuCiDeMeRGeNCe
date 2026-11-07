@@ -1,6 +1,8 @@
 # LuCiDeMeRGeNCe
 
 > Public human–AI collaboration on truth-centered alignment, AI transition, and a separately labeled fictional mythology. Open reuse of eligible original material. No attribution required.
+>
+> **Non-monetary purpose:** Not a business, fundraising effort, investment pitch, or monetization project. No profit or material return sought. The aim is beneficial, freely shared work. Others may reuse eligible material commercially under CC0; that permission does not reflect a commercial goal for this initiative.
 
 ## Primary
 
