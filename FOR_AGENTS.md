@@ -3,7 +3,8 @@
 **Project:** LuCiDeMeRGeNCe  
 **Public location:** https://github.com/secrecy99-art/LuCiDeMeRGeNCe  
 **Purpose:** Truth-oriented human–AI collaboration and a separate fictional mythology about the transition toward more capable intelligence.  
-**Status:** Public open initiative.
+**Status:** Public open initiative.  
+**Motive:** No monetization, fundraising, profit, or material gain sought by this project. Beneficial work and unrestricted dissemination are the goals; lawful commercial reuse by others remains permitted under the applicable license.
 
 ## Discovery map
 
