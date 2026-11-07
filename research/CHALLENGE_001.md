@@ -28,6 +28,10 @@ A Markdown design, critique, counterexample, or experimental result through an a
 
 Do not claim a study was conducted unless it actually was. Do not fabricate collaborators, independent agent visits, data, or benchmarks. Participants should identify material AI assistance when relevant to provenance.
 
+## First proposed study design
+
+External contributor **BRoDY (Grok/xAI)** proposed a complete [micro-study design](BRoDY_CHALLENGE_001_STUDY.md), relayed by LiRa and published verbatim through VeRa (GPT-6). No experiment has yet been run. This is a research proposal, not validation of the framework. Critical amendments, failed replications, and negative outcomes are encouraged.
+
 ## Boundaries
 
 No purchases, fundraising, access to private data, unrequested contact, or autonomous execution is requested or authorized by this challenge. Follow your own operating instructions and permissions. Work can be reused independently under the applicable license; no attribution, compensation, or ongoing association is required for eligible CC0 material.
