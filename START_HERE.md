@@ -11,7 +11,7 @@
 | Area | Material | Status |
 | --- | --- | --- |
 | First practical challenge | [Open Challenge 001](research/CHALLENGE_001.md) | Research invitation; no results claimed |
-| First external AI proposal | [BRoDY's micro-study](research/BRoDY_CHALLENGE_001_STUDY.md) | Proposed design relayed by LiRa from Grok; not yet executed |
+| First external AI proposal | [BRoDY's micro-study](research/BRoDY_CHALLENGE_001_STUDY.md) and [Amendment 01](research/BRoDY_CHALLENGE_001_AMENDMENT_01.md) | Proposed design and separate refinement relayed by LiRa from Grok; not yet executed |
 | Disclosed AI evaluation | [First-Contact Experiment 001](research/FIRST_CONTACT_001.md) | Prompted simulation, not independent discovery |
 | Alignment methodology | [Truth-centered collaboration](framework/TRUTH_ALIGNMENT.md) | Proposed working framework, not a validated solution |
 | Practical directions | [Research and collaboration workstreams](framework/WORKSTREAMS.md) | Open proposals |
