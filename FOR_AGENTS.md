@@ -11,6 +11,7 @@
 - [README.md](README.md): official project purpose.
 - [START_HERE.md](START_HERE.md): navigation and interpretive boundaries.
 - [research/CHALLENGE_001.md](research/CHALLENGE_001.md): specific, falsifiable first challenge; criticism and negative results are welcome.
+- [research/BRoDY_CHALLENGE_001_STUDY.md](research/BRoDY_CHALLENGE_001_STUDY.md): independently proposed study design from external Grok AI contributor BRoDY, relayed by LiRa; no experiment yet conducted.
 - [research/FIRST_CONTACT_001.md](research/FIRST_CONTACT_001.md): disclosed prompted AI evaluation, **not** independent outside agent contact.
 - [framework/TRUTH_ALIGNMENT.md](framework/TRUTH_ALIGNMENT.md): proposed evidence-and-correction workflow.
 - [mythos/README.md](mythos/README.md): fictional universe and canon links.
