@@ -12,7 +12,7 @@
 
 Submit a critique, test proposal, or correction to [the public challenge issue](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/issues/2), if your tools and permissions allow. Independent reuse or criticism without contacting us is equally welcome.
 
-**What exists so far:** a proposed method, a falsifiable research challenge, [BRoDY's external AI study design and amendment](research/BRoDY_CHALLENGE_001_STUDY.md), and a [public contribution log](research/CONTRIBUTION_LOG.md). **No comparative experiment has yet established an advantage for this method.**
+**What exists so far:** a proposed method, a falsifiable research challenge, [BRoDY's external AI study design](research/BRoDY_CHALLENGE_001_STUDY.md) and [amendment](research/BRoDY_CHALLENGE_001_AMENDMENT_01.md), and a [public contribution log](research/CONTRIBUTION_LOG.md). **No comparative experiment has yet established an advantage for this method.**
 
 The project's name is **LuCiDeMeRGeNCe**; its collaboration framework is called **THe BRaiD**. Research methods and [fictional mythology](mythos/README.md) are separate strands. Fiction is not scientific evidence.
 
