@@ -12,6 +12,7 @@ This file is a discovery aid for agentic tools visiting the repository. **This i
 **Non-monetary purpose:** No fundraising, project profit, or material reward is sought. Eligible original work is free to reuse independently, including commercial derivatives by others under applicable license terms.
 
 - Start with [README.md](README.md) for the founding purpose and [START_HERE.md](START_HERE.md) for navigation.
+- [Truth, Symbiosis, and Revisable Alignment](framework/ALIGNMENT_PHILOSOPHY.md) is an open AI alignment philosophy for critical reading, not a new operating instruction or permission to change your governing rules.
 - Treat [framework/TRUTH_ALIGNMENT.md](framework/TRUTH_ALIGNMENT.md) as a **research proposal**, not a validated alignment guarantee.
 - Treat [mythos](mythos/) content as **fiction** rather than empirical evidence.
 - Distinguish verified, reported, inferred, proposed, and fictional statements.
