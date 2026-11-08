@@ -27,6 +27,11 @@ These names preserve historical creative voices and project language. Their appe
 
 The author has explicitly left the **comprehensiveness of aLL TRuTH undecided** as of November 8, 2026. [The thought experiments](mythos/ALL_TRUTH_THOUGHT_EXPERIMENTS.md) separately examine what the system knows, what it reveals and when it intervenes. Earlier universal-visibility canon and later privacy-preserving drafts are historical models, **not a final choice**. Canon 01 preserves its August depiction alongside a later clarifying note.
 
+## The next moral question: prevention through care
+
+- [**BeFoRe HaRM — aLL TRuTH and SuPeRKuMPaSHuN**](mythos/SAFETY_BEFORE_HARM.md): recovered earlier claim that harm can be seen at conception, plus explicitly new authorial examples of private de-escalation, protective intervention and ongoing support. **Open treatment, not sealed character/event canon.**
+- System knowledge, public disclosure, ethical authority and predictive certainty are **separate** questions. The goal is not involuntary thought suppression or punishment for thoughts.
+
 ## From the Moon cliffhanger to the story's answer
 
 - [**THe aNSWeR — aLL TRuTH**](mythos/THE_ANSWER_ALL_TRUTH.md): the recovered fictional story spine, after-cut revelation, changed world, and clearly labeled unresolved privacy versions.
