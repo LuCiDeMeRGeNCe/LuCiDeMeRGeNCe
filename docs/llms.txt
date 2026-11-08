@@ -1,5 +1,8 @@
 # LuCiDeMeRGeNCe
 
+Canonical website: https://lucidemergence.github.io/LuCiDeMeRGeNCe/
+Canonical repository: https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe
+
 > Public human–AI collaboration on truth-centered alignment, AI transition, and a separately labeled fictional mythology. Open reuse of eligible original material. No attribution required.
 
 ## Current open research challenge (November 2026)

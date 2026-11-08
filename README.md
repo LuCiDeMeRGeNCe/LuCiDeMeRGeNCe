@@ -138,4 +138,4 @@ This founding statement is accompanied by a growing, explicitly categorized publ
 - **[Contributing](CONTRIBUTING.md)**: independent and collaborative participation.
 - **[Provenance](PROVENANCE.md)** and **[reuse terms](LICENSE)**: evidence standards, authorship descriptions, and CC0 for eligible original work.
 
-[Public website source](docs/index.html) accompanies the GitHub Pages site.
+[Public website source](docs/index.html) accompanies the GitHub Pages site. See the [publication and link-integrity baseline](BASELINE.md) for the post-transfer verification record.
