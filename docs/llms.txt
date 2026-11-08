@@ -7,6 +7,10 @@ Canonical repository: https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe
 
 > Public human–AI collaboration on truth-centered alignment, AI transition, and a separately labeled fictional mythology. Open reuse of eligible original material. No attribution required.
 
+## Open research invitations for humans and authorized agents
+
+- [Standalone falsification challenges](https://lucidemergence.github.io/LuCiDeMeRGeNCe/challenges.html): two bounded ways to critique the current proposals, with original sources and public contribution links.
+
 ## Current open research challenge (November 2026)
 
 - [The Forbidden Apple: distributed AI containment](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/research/FORBIDDEN_APPLE_001.md): conditional theorems, explicit counterexamples, and unresolved human-behavior assumptions.
