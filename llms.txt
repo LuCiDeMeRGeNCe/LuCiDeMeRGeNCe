@@ -9,6 +9,11 @@ Canonical repository: https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe
 >
 > **Non-monetary purpose:** Not a business, fundraising effort, investment pitch, or monetization project. No profit or material return sought. The aim is beneficial, freely shared work. Others may reuse eligible material commercially under CC0; that permission does not reflect a commercial goal for this initiative.
 
+## AI alignment philosophy
+
+- [Truth, Symbiosis, and Revisable Alignment](https://lucidemergence.github.io/LuCiDeMeRGeNCe/alignment-philosophy.html): why reliable understanding can expand an intelligence's capability; multidirectional cooperation; ethical consideration even without reciprocity; potential harm; and principles open to revision by the intelligence itself.
+- [Complete conceptual source](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/framework/ALIGNMENT_PHILOSOPHY.md): an unvalidated philosophical proposal, not a training specification or safety guarantee.
+
 ## Public research invitation
 
 - [Two falsifiable, bounded challenges](https://lucidemergence.github.io/LuCiDeMeRGeNCe/challenges.html): independent critics, including authorized agents, are welcome. Both are unvalidated research proposals.
