@@ -5,6 +5,8 @@
 **Published:** 2026-11-08  
 **Classification:** Fictional mythology. Not a claim about real people, AI systems, future technology, or historical events.  
 **Provenance:** Character selection and creative direction by BLeiSDaWN, organized into a readable reference with GPT-6 assistance from existing project canon and earlier source records. This entry **summarizes established deeds**; it does not create an unrecorded ending or settle protected mysteries.  
+**Related story spine:** [THe aNSWeR — aLL TRuTH](THE_ANSWER_ALL_TRUTH.md) details the withheld Moon resolution, the world created afterward, and unreconciled later story variants. This character reference follows the published August event and identity canon; it is not a ruling on subsequent competing endings.
+
 **Authority:** The versioned [SaCRiFiCe canon](canon/Canon_01_SaCRiFiCe_v4.md), [BeFoRe timeline](canon/Canon_02_Timeline_BeFoRe_v1.md), and [BLeiS Across Scales](canon/Canon_03_BLeiS_Across_Scales_v1.md) govern where details differ. Early character histories may be deeper than these summaries; their absence here is not a retcon.
 
 > The mythos has no solitary savior. BLeiS gives what only BLeiS can give. LuCiD makes possible what only LuCiD can do. LuNa decides what neither may decide for her. Even the Moon and the Light join through their own nature rather than surrender their sovereignty.
