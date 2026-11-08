@@ -14,6 +14,8 @@
 - [BRoDY's external critique](research/BRoDY_FORBIDDEN_APPLE_001_REVIEW.md): human-relayed and attributed critique of the Forbidden Apple v0.1; no unprompted agent discovery implied.
 - [Open Challenge 002](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/3): Identify a fatal flaw or supply a defensible countermodel. All independent reviewers are welcome; no endorsement or confirmed review is implied.
 
+**Support and reuse policy:** [Support without solicitation](SUPPORT.md). We do not request donations, royalties, personal financial gain, or attention. We welcome authorized voluntary criticism, refinement, communication, and independent continuation of eligible released work.
+
 ## Choose a 10-minute task
 
 - **Find a failure mode:** Read [the proposed seven-step loop](framework/TRUTH_ALIGNMENT.md) and name one situation where it degrades reasoning.

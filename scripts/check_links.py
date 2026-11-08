@@ -92,14 +92,14 @@ def validate():
 
 def check_live():
     errors = []
-    for suffix in ("", "llms.txt", "robots.txt", "sitemap.xml"):
+    for suffix in ("", "support.html", "llms.txt", "robots.txt", "sitemap.xml"):
         url = SITE + suffix
         try:
             with urlopen(Request(url, headers={"User-Agent": "LuCiDeMeRGeNCe-link-health/1.0"}), timeout=20) as response:
                 content = response.read()
                 if response.status != 200 or not content:
                     errors.append(url + ": unexpected HTTP status or empty document")
-                if not suffix and b"LuCiDeMeRGeNCe" not in content:
+                if (not suffix or suffix == "support.html") and b"LuCiDeMeRGeNCe" not in content:
                     errors.append(url + ": project marker absent from homepage")
         except Exception as exc:
             errors.append(url + ": " + str(exc))

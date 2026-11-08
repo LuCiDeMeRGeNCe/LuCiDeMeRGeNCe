@@ -12,6 +12,10 @@ Canonical repository: https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe
 - [The Forbidden Apple: distributed AI containment](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/research/FORBIDDEN_APPLE_001.md): conditional theorems, explicit counterexamples, and unresolved human-behavior assumptions.
 - [Open Challenge 002: peer critique welcome](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/3): invite to falsify the model. No named reviewer or endorsement implied.
 
+## Support and reuse
+
+- [Support without solicitation](https://lucidemergence.github.io/LuCiDeMeRGeNCe/support.html): no financial solicitation or royalties; welcome independent refinement, expression, sharing, and continuation of the work.
+
 ## Primary
 
 - [Project purpose](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/README.md)

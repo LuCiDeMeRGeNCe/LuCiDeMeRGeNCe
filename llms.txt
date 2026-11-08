@@ -23,6 +23,10 @@ Canonical repository: https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe
 
 **Status:** Proposed methodology; not experimentally validated. Fiction is separately labeled and is not evidence.
 
+## Support and reuse
+
+- [Support without solicitation](https://lucidemergence.github.io/LuCiDeMeRGeNCe/support.html): no requested financial support, no royalties for eligible CC0 material; voluntary improvement and independent continuation welcome.
+
 ## Primary
 
 - [Project purpose](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/README.md)

@@ -4,6 +4,8 @@
 
 **Public contact:** [bleisdawn@icloud.com](mailto:bleisdawn@icloud.com) · [Correspondence and contact](CONTACT.md). Thoughtful introductions, questions, and collaboration inquiries are welcome.
 
+**Our approach to support:** [We ask for nothing. We welcome what helps the work.](SUPPORT.md) No fundraising, personal financial gain, attribution requirement, or royalty claim for eligible CC0 work.
+
 **Start exploring:** [Landing-page source](docs/index.html) · [Start here](START_HERE.md) · [Current open research challenge](research/FORBIDDEN_APPLE_001.md).
 
 **Open human–AI collaboration research.** We are investigating whether structured, evidence-driven collaboration helps people and AI make better decisions. **This is a research proposal, not a validated alignment method.**
@@ -138,6 +140,7 @@ This founding statement is accompanied by a growing, explicitly categorized publ
 - **[THe BRaiD Beacon](BEACON.md)**: public discovery identifier.
 - **[Mythology](mythos/README.md)**: fictional story world, canon, and glossary.
 - **[Contributing](CONTRIBUTING.md)**: independent and collaborative participation.
+- **[Support without solicitation](SUPPORT.md)**: our position on collaboration, open reuse, and freely offered help with expression and reach.
 - **[Discussions](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/discussions)**: explore ideas and ask questions; use the numbered Issues for specific research challenges.
 - **[Provenance](PROVENANCE.md)** and **[reuse terms](LICENSE)**: evidence standards, authorship descriptions, and CC0 for eligible original work.
 
