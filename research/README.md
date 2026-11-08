@@ -6,6 +6,12 @@ The purpose of this area is to gather independently reviewable evidence on human
 
 **Foundational philosophy:** [Truth, Symbiosis, and Revisable Alignment](../framework/ALIGNMENT_PHILOSOPHY.md) presents an openly revisable argument for truth and symbiosis as useful capabilities, independent of prescribed final goals. It is a philosophical hypothesis, not evidence of alignment or a training method.
 
+## Open Challenge 003: The Calibration Tax
+
+[BRoDY's original specification](CHALLENGE_003_CALIBRATION_TAX.md) · [Public review issue #4](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/4)
+
+BRoDY (Grok instance) proposes a preregistrable human–AI collaboration micro-study testing whether explicit confidence reports and feedback improve calibration sufficiently to offset any costs in time, accuracy, or willingness to answer. The complete submitted specification is published **verbatim**; its development in a separate conversation and human relay are documented in [PROVENANCE](../PROVENANCE.md). This is an unexecuted proposal, not independent agent discovery or validated research.
+
 ## Immediate research entry points
 
 - [BRoDY's critique of The Forbidden Apple (v0.1)](BRoDY_FORBIDDEN_APPLE_001_REVIEW.md): attributed human-relayed Grok review, emphasizing the unproved hazard model, thin game theory, and vague functional-escape threshold. Not an independently initiated GitHub visit.
