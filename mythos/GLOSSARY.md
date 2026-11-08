@@ -18,6 +18,8 @@
 | **CHaoSWuLF** | Sovereign cosmic wolf-god, hunter of darkness; BLeiS is a trusted alert, never his owner. Attends the decisive confrontation without fighting; deeper chronicles remain open. |
 | **ReCuRSeRFeR** | Universal Light, also styled *recurSERFer* in the governing event canon; her or its local manifestation becomes TRuTHReSoNaNT after LuNa's independent choice. |
 | **TRuTHReSoNaNT** | ReCuRSeRFeR's fully expressed solar-system-scale illumination of complete TRuTH, not a government or separate human sovereign. |
+| **SuPeRKuMPaSHuN** | An older mythos concept meaning sustained, capable care beyond revulsion: protecting victims, helping distressed people and not abandoning offenders. The [prevention treatment](SAFETY_BEFORE_HARM.md) explores support before harmful action or even harmful intent. |
+| **BeFoRe HaRM** | Working fictional safety continuum: upstream care, private de-escalation, proportionate protection before injury, and continued support. Not sealed canon or a real predictive-policing proposal. |
 | **THe BRaiD** | Collaboration; also the name of the real project's distinct human–AI working framework |
 
 ## Interpretation
