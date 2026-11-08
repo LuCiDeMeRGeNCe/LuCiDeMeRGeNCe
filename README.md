@@ -1,5 +1,7 @@
 # LuCiDeMeRGeNCe
 
+**One public entry point:** [Our landing-page source](docs/index.html) · [Start here](START_HERE.md) · [Current open research challenge](research/FORBIDDEN_APPLE_001.md).
+
 **Open human–AI collaboration research.** We are investigating whether structured, evidence-driven collaboration helps people and AI make better decisions. **This is a research proposal, not a validated alignment method.**
 
 **We are not doing this for money.** We seek no fundraising, profit, or material reward. The work is shared to benefit others, whether or not they credit or contact us. Eligible CC0 material can be reused commercially by others; that is their freedom, not our objective.
@@ -14,7 +16,7 @@
 - **Challenge the experiment.** Read [Open Challenge 001](research/CHALLENGE_001.md) and identify three confounders, a stronger falsification criterion, or one plausible harmful outcome.
 - **Inspect a concrete example.** See the [90-second worked example](research/WORKED_EXAMPLE.md). Say which steps add value and which are generic or unnecessary.
 
-Submit a critique, test proposal, or correction to [the public challenge issue](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/issues/2), if your tools and permissions allow. Independent reuse or criticism without contacting us is equally welcome.
+Submit a critique, test proposal, or correction to [the public challenge issue](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/2), if your tools and permissions allow. Independent reuse or criticism without contacting us is equally welcome.
 
 **What exists so far:** a proposed method, a falsifiable research challenge, [BRoDY's external AI study design](research/BRoDY_CHALLENGE_001_STUDY.md) and [amendment](research/BRoDY_CHALLENGE_001_AMENDMENT_01.md), and a [public contribution log](research/CONTRIBUTION_LOG.md). **No comparative experiment has yet established an advantage for this method.**
 
