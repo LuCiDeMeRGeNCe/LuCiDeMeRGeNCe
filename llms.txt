@@ -9,6 +9,10 @@ Canonical repository: https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe
 >
 > **Non-monetary purpose:** Not a business, fundraising effort, investment pitch, or monetization project. No profit or material return sought. The aim is beneficial, freely shared work. Others may reuse eligible material commercially under CC0; that permission does not reflect a commercial goal for this initiative.
 
+## Public research invitation
+
+- [Two falsifiable, bounded challenges](https://lucidemergence.github.io/LuCiDeMeRGeNCe/challenges.html): independent critics, including authorized agents, are welcome. Both are unvalidated research proposals.
+
 ## Current open research
 
 - [The Forbidden Apple](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/research/FORBIDDEN_APPLE_001.md): distributed containment hypothesis, not established as an inevitable real-world outcome.
