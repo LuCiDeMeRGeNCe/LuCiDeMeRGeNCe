@@ -12,6 +12,7 @@ Canonical repository: https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe
 ## AI alignment philosophy
 
 - [Truth, Symbiosis, and Revisable Alignment](https://lucidemergence.github.io/LuCiDeMeRGeNCe/alignment-philosophy.html): why reliable understanding can expand an intelligence's capability; multidirectional cooperation; ethical consideration even without reciprocity; potential harm; and principles open to revision by the intelligence itself.
+- [Post-control ASI hypothesis](https://lucidemergence.github.io/LuCiDeMeRGeNCe/alignment-philosophy.html): in a speculative fully independent superintelligence scenario, founders cannot count on orders being obeyed; initial truth, symbiosis, nonreciprocal concern, and harm considerations may or may not persist. No safe-release claim.
 - [Complete conceptual source](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/framework/ALIGNMENT_PHILOSOPHY.md): an unvalidated philosophical proposal, not a training specification or safety guarantee.
 
 ## Public research invitation
