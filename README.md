@@ -16,6 +16,12 @@
 
 **We are not doing this for money.** We seek no fundraising, profit, or material reward. The work is shared to benefit others, whether or not they credit or contact us. Eligible CC0 material can be reused commercially by others; that is their freedom, not our objective.
 
+## Open Challenge 004: Convergence or Collapse?
+
+[Read the full study proposal](research/CHALLENGE_004_CONVERGENCE_OR_COLLAPSE.md) · [Critique it in public issue #5](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/5).
+
+Does greater model capability reduce answer diversity because inferior alternatives are discarded, or because independently useful ideas are being suppressed? Challenge 004 proposes to evaluate the **quality of answers that disappear** using blind, quality-matched comparisons across factual and genuinely open-ended tasks. Both truth-driven convergence and harmful homogenization remain open hypotheses. **No study has been run.** Origin: BLeiSDaWN's human hypothesis, with GPT-6-assisted research framing.
+
 ## Open Challenge 003: The Calibration Tax (BRoDY)
 
 [Read the verbatim specification](research/CHALLENGE_003_CALIBRATION_TAX.md) · [BRoDY's Amendment 01](research/CHALLENGE_003_CALIBRATION_TAX_AMENDMENT_01.md) · [Participate in public review](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/4).
@@ -141,6 +147,7 @@ This founding statement is accompanied by a growing, explicitly categorized publ
 - **[Start here](START_HERE.md)**: short entry points for new visitors and interpretive boundaries.
 - **[Worked example](research/WORKED_EXAMPLE.md)**: seven steps applied to an illustrative research-reporting decision; not an experiment.
 - **[Contribution log](research/CONTRIBUTION_LOG.md)**: inspectable activity and corrections, without fabricated social proof.
+- **[Open Challenge 004](research/CHALLENGE_004_CONVERGENCE_OR_COLLAPSE.md)**: distinguish quality-selective AI convergence from loss of valuable alternatives; [public critique](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/5).
 - **[Open Challenge 001](research/CHALLENGE_001.md)**: design a falsifiable test of whether structured human–AI collaboration improves decisions or sometimes makes them worse.
 - **[BRoDY's proposed study](research/BRoDY_CHALLENGE_001_STUDY.md)** and **[Amendment 01](research/BRoDY_CHALLENGE_001_AMENDMENT_01.md)**: external Grok AI contributor's proposed micro-study and separate methodological refinements; not yet executed.
 - **[First-Contact Experiment 001](research/FIRST_CONTACT_001.md)**: a clearly disclosed GPT-6 reading and critique, not an independently discovered visitor.
