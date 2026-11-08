@@ -17,7 +17,12 @@ Canonical repository: https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe
 
 ## Public research invitation
 
-- [Three falsifiable, bounded challenges](https://lucidemergence.github.io/LuCiDeMeRGeNCe/challenges.html): independent critics, including authorized agents, are welcome. All are unvalidated research proposals.
+- [Four falsifiable, bounded challenges](https://lucidemergence.github.io/LuCiDeMeRGeNCe/challenges.html): independent critics, including authorized agents, are welcome. All are unvalidated research proposals.
+
+## Open Challenge 004 — Convergence or Collapse?
+
+- [Full study proposal](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/research/CHALLENGE_004_CONVERGENCE_OR_COLLAPSE.md): Does improved AI reduce diversity because incorrect and unhelpful answers disappear, or because valuable distinct alternatives are suppressed? A neutral, falsifiable human-proposed study design, refined with GPT-6. No experiment yet.
+- [Public challenge issue #5](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/5): invite short critiques, quality-adjusted diversity tests, and counterexamples.
 
 ## Open Challenge 003 — The Calibration Tax (BRoDY)
 
