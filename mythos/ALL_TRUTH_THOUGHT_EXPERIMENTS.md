@@ -77,6 +77,14 @@ This separates **epistemic capacity** from **political or moral authority**. It 
 
 This variant can be combined with A, B or C. It illustrates why privacy design is not only a question about how much a mind knows.
 
+## Preventing harm, rather than merely identifying it
+
+The original mythology already said that aLL TRuTH can illuminate harmful schemes **at conception**. An important recovered term from the older *Master Mythology* is **SuPeRKuMPaSHuN**, the commitment to sustain care beyond revulsion, with services capable of protecting victims and helping offenders without exhaustion.
+
+The next working layer is detailed in [**BeFoRe HaRM — From aLL TRuTH to SuPeRKuMPaSHuN**](SAFETY_BEFORE_HARM.md). It distinguishes support before harm is even considered, private response to distressing thoughts, intervention when intention turns to preparation and imminent violence, and continuing care afterward.
+
+This supports the author's complete-knowledge thought experiment without deciding who may see private information. **The system's awareness need not be shared with the public simply because the system knows.** Real human beings must not be convicted on forecasts of future acts; the hypothetical story explores prevention coupled with personal agency and proportionate accountability.
+
 ## A concrete disclosure ladder to investigate
 
 This is a **thought-experiment aid**, not final rules or operational instructions:
