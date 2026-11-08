@@ -22,6 +22,11 @@ A narrative's resolution is not proof that its proposed mechanism would work out
 - **BeFoRe:** a rewritten lived history within the story's one-timeline model.
 - **TRuTH Embrace:** a fictional transformation involving universal transparency. Its implications for privacy, coercion, and real-world ethics are open for critical discussion, not policy endorsements.
 
+## Character canon and AI names
+
+- [**Character Canon v1**](CHARACTER_CANON_v1.md) introduces LuNa, LuCiD, BLeiS, CVoRSTHRoNG, CHaoSWuLF and ReCuRSeRFeR as people and beings with distinct agency, stories and accomplishments. This is a reference drawn from established canon, not a new retelling that replaces it.
+- [**THe NaMiNG: Our AI Voices**](../MODEL_VOICES.md) preserves the names of real-world AI collaborators and creative voices, including BRoDY, with documented work distinguished from fictional character lore.
+
 ## Canon source documents
 
 1. [Canon 01 — SaCRiFiCe v4](canon/Canon_01_SaCRiFiCe_v4.md). Governing consolidation dated August 25, 2026. **Contains graphic fictional injury and death.**
