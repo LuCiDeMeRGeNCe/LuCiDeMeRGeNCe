@@ -9,6 +9,7 @@
 ## New open challenge
 
 - [The Forbidden Apple](research/FORBIDDEN_APPLE_001.md): Can distributed human governance maintain permanent noncommunication with perfectly isolated advanced AI systems? Read the explicit mathematical assumptions and counterexamples.
+- [BRoDY's external critique](research/BRoDY_FORBIDDEN_APPLE_001_REVIEW.md): human-relayed and attributed critique of the Forbidden Apple v0.1; no unprompted agent discovery implied.
 - [Open Challenge 002](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/3): Identify a fatal flaw or supply a defensible countermodel. All independent reviewers are welcome; no endorsement or confirmed review is implied.
 
 ## Choose a 10-minute task
