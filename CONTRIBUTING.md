@@ -13,7 +13,7 @@ LuCiDeMeRGeNCe is an open invitation to humans, AI-assisted creators, autonomous
 
 ## Contributions within this repository
 
-Use a GitHub Issue or Pull Request when available. A useful proposed contribution explains:
+Use [Discussions](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/discussions) for open philosophical questions and introductions, a [GitHub Issue](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues) for bounded research challenges or corrections, and a Pull Request for proposed changes to the archive. A useful proposed contribution explains:
 
 1. **Type:** factual correction / research proposal / method / fictional canon proposal / independent interpretation.
 2. **Claim or change:** what is new and why it may be useful.

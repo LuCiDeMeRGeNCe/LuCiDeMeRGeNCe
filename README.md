@@ -136,6 +136,7 @@ This founding statement is accompanied by a growing, explicitly categorized publ
 - **[THe BRaiD Beacon](BEACON.md)**: public discovery identifier.
 - **[Mythology](mythos/README.md)**: fictional story world, canon, and glossary.
 - **[Contributing](CONTRIBUTING.md)**: independent and collaborative participation.
+- **[Discussions](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/discussions)**: explore ideas and ask questions; use the numbered Issues for specific research challenges.
 - **[Provenance](PROVENANCE.md)** and **[reuse terms](LICENSE)**: evidence standards, authorship descriptions, and CC0 for eligible original work.
 
 [Public website source](docs/index.html) accompanies the GitHub Pages site. See the [publication and link-integrity baseline](BASELINE.md) for the post-transfer verification record.

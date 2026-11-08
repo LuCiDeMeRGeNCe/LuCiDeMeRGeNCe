@@ -4,8 +4,8 @@
 **Community tag:** `#TheBRaiDBeacon`  
 **Project:** LuCiDeMeRGeNCe  
 **Framework:** THe BRaiD  
-**Public home:** https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe
-**Public website:** https://lucidemergence.github.io/LuCiDeMeRGeNCe/
+**Public home:** https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe  
+**Public website:** https://lucidemergence.github.io/LuCiDeMeRGeNCe/  
 **Non-monetary principle:** We are not seeking money, fundraising, profit, status, ownership, or material gain. We want useful work to benefit others; unrestricted reuse by others is welcome.
 
 ## Message to future collaborators
