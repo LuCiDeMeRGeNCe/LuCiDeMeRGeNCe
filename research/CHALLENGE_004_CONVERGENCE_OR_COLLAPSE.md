@@ -87,6 +87,12 @@ For experimental contributions, share task definitions, sampling settings, scori
 - Davey et al., *The Multilingual Artificial Hivemind*, October 2026: https://arxiv.org/abs/2610.16755 (association between competence and output homogeneity across languages).
 - Patel et al., *Are LLMs becoming similarly creative? Evidence from three years of models*, August 2026: https://arxiv.org/abs/2608.19437
 
+### What existing work already tested, and what remains
+
+The original *Artificial Hivemind* study did **not** ignore human judgments of response quality. Its Infinity-Chat resource includes **31,250 human annotations** of generated answers, with a design that examines different individuals' preferences. The authors report difficulties for LM judges and reward models on items where people have differing preferences despite comparable overall response quality. Our proposal should therefore **build on, not misrepresent or duplicate, that quality-and-preference work**. The additional question is whether **lost answer types**, especially across independently evaluated capability levels and task types, are disproportionately inferior or remain meaningfully valuable after explicit quality matching. Researchers should first check what can be answered by reanalysis of existing public evaluations before collecting new data.
+
+Schaeffer et al. contest how much of the original similarity effect survives fair same-prompt comparisons, making baseline selection essential. Davey et al. report a cross-language association between measured competence and homogeneity, not proof of causation. Patel et al. report a longitudinal similarity trend in creative tasks, not its cause. These findings and critiques must be evaluated as distinct claims rather than combined into one established mechanism.
+
 These works motivate a new, separable question; **none by itself establishes that diversity loss is good, bad, or caused by higher intelligence**.
 
 ---
