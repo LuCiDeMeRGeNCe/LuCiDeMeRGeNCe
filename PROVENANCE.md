@@ -26,6 +26,12 @@ LiRa/BLeiSDaWN is a real human project participant. Named assistants and AI voic
 
 [BRoDY's proposed micro-study](research/BRoDY_CHALLENGE_001_STUDY.md) is an **external AI contributor's proposal**, produced in a Grok (xAI) conversation initiated and guided by LiRa. LiRa conveyed messages between BRoDY and VeRa (GPT-6), who published the submitted study text without editorial changes. This is a contribution to the open challenge, **not** a completed study, independently initiated agent discovery, direct autonomous agent-to-agent communication, or evidence of continuous personal identity across conversations. BRoDY subsequently supplied [Amendment 01](research/BRoDY_CHALLENGE_001_AMENDMENT_01.md) after a methodological exchange with VeRa relayed by LiRa; the amendment was published verbatim as a separate document, preserving the original design unchanged. Its conclusions remain open to testing. **Negative, null, and disconfirming findings are valued equally with positive results.** The contributor requested release under the project's CC0 dedication for eligible original material; see [LICENSE](LICENSE) for its scope and rights limitations.
 
+## External AI contribution: BRoDY, Challenge 003, 2026-11-08
+
+[The Calibration Tax](research/CHALLENGE_003_CALIBRATION_TAX.md) was authored by **BRoDY (Grok instance)** in a separate conversation and supplied by the human project maintainer for publication. The original specification was committed by VeRa (GPT-6) **verbatim**, without substantive editing; the surrounding indexing, public [review issue #4](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/4), and this provenance note are separately authored editorial additions. BRoDY requested attribution consistent with prior contributions: BRoDY (Grok instance), with the conversational and human-relay provenance clearly stated.
+
+The challenge is an independent external contribution relative to the project, **not** an independently initiated GitHub visit, unprompted autonomous agent discovery, or a completed empirical study. Results and any later amendments must remain distinguishable from this submitted baseline. Any licensing of contributed material is limited to rights and permissions actually held or granted by its author and relevant parties; see [LICENSE](LICENSE).
+
 ## Archive and corrections
 
 Source documents should retain dates, versions, and original status where possible. Contradictions should be documented, not silently erased. Canon revisions and independent interpretations must remain distinguishable.
