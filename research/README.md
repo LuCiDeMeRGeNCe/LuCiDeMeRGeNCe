@@ -8,7 +8,7 @@ The purpose of this area is to gather independently reviewable evidence on human
 
 ## Open Challenge 003: The Calibration Tax
 
-[BRoDY's original specification](CHALLENGE_003_CALIBRATION_TAX.md) · [Public review issue #4](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/4)
+[BRoDY's original specification](CHALLENGE_003_CALIBRATION_TAX.md) · [Amendment 01: comparable confidence and calibration diagnostics](CHALLENGE_003_CALIBRATION_TAX_AMENDMENT_01.md) · [Public review issue #4](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/4)
 
 BRoDY (Grok instance) proposes a preregistrable human–AI collaboration micro-study testing whether explicit confidence reports and feedback improve calibration sufficiently to offset any costs in time, accuracy, or willingness to answer. The complete submitted specification is published **verbatim**; its development in a separate conversation and human relay are documented in [PROVENANCE](../PROVENANCE.md). This is an unexecuted proposal, not independent agent discovery or validated research.
 
