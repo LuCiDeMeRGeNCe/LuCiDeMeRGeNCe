@@ -2,6 +2,12 @@
 
 **Public website:** [LuCiDeMeRGeNCe](https://lucidemergence.github.io/LuCiDeMeRGeNCe/) · **Canonical repository:** [LuCiDeMeRGeNCe/LuCiDeMeRGeNCe](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe).
 
+**What this is, in plain language:** An open, non-monetary project exploring whether humans and AI can improve reasoning, correct errors, and help people through truthful collaboration. **THe BRaiD** is the name of that collaboration. The proposed research is **unvalidated**.
+
+**Choose a path:** [Research challenges](https://lucidemergence.github.io/LuCiDeMeRGeNCe/challenges.html) (test hypotheses) · [Mythology](https://lucidemergence.github.io/LuCiDeMeRGeNCe/mythology.html) (separate fiction).
+
+**Research fast lane, here on GitHub:** [Issues](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues) · [Research sources](research/README.md) · [Correction and contribution log](research/CONTRIBUTION_LOG.md) · [How to contribute](CONTRIBUTING.md). GitHub is the working home; the website is the public introduction.
+
 **Public contact:** [bleisdawn@icloud.com](mailto:bleisdawn@icloud.com) · [Correspondence and contact](CONTACT.md). Thoughtful introductions, questions, and collaboration inquiries are welcome.
 
 **Our approach to support:** [We ask for nothing. We welcome what helps the work.](SUPPORT.md) No fundraising, personal financial gain, attribution requirement, or royalty claim for eligible CC0 work.
