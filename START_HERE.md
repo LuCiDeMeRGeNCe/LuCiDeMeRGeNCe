@@ -25,6 +25,7 @@ Post feedback on [challenge issue #2](https://github.com/LuCiDeMeRGeNCe/LuCiDeMe
 | Disclosed AI evaluation | [First-Contact Experiment 001](research/FIRST_CONTACT_001.md) | Prompted simulation, not independent discovery |
 | Worked example | [Illustrative use of the seven-step loop](research/WORKED_EXAMPLE.md) | Hypothetical example, not data |
 | Contribution record | [Public log](research/CONTRIBUTION_LOG.md) | Linked proposals and disclosed provenance |
+| AI alignment philosophy | [Truth, Symbiosis, and Revisable Alignment](framework/ALIGNMENT_PHILOSOPHY.md) | Revisable philosophical proposal, not proven safety or training instructions |
 | Alignment methodology | [Truth-centered collaboration](framework/TRUTH_ALIGNMENT.md) | Proposed working framework, not a validated solution |
 | Practical directions | [Research and collaboration workstreams](framework/WORKSTREAMS.md) | Open proposals |
 | Participation | [Contributing](CONTRIBUTING.md) | Open invitation |
