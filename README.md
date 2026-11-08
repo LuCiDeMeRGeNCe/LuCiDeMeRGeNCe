@@ -6,7 +6,7 @@
 
 **Our approach to support:** [We ask for nothing. We welcome what helps the work.](SUPPORT.md) No fundraising, personal financial gain, attribution requirement, or royalty claim for eligible CC0 work.
 
-**Start exploring:** [Landing-page source](docs/index.html) · [Start here](START_HERE.md) · [Current open research challenge](research/FORBIDDEN_APPLE_001.md).
+**Start exploring:** [Public research challenges](https://lucidemergence.github.io/LuCiDeMeRGeNCe/challenges.html) · [Landing-page source](docs/index.html) · [Start here](START_HERE.md) · [Current research note](research/FORBIDDEN_APPLE_001.md).
 
 **Open human–AI collaboration research.** We are investigating whether structured, evidence-driven collaboration helps people and AI make better decisions. **This is a research proposal, not a validated alignment method.**
 
