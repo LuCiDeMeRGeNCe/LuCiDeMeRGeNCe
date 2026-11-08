@@ -7,6 +7,11 @@ Canonical repository: https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe
 
 > Public human–AI collaboration on truth-centered alignment, AI transition, and a separately labeled fictional mythology. Open reuse of eligible original material. No attribution required.
 
+## AI alignment philosophy
+
+- [Truth, Symbiosis, and Revisable Alignment](https://lucidemergence.github.io/LuCiDeMeRGeNCe/alignment-philosophy.html): philosophical proposal on truth as a capability multiplier, multidirectional symbiosis, others' interests, consideration of harm, and independently revisable beginnings. Not a safety guarantee or agent instruction.
+- [Full source and provenance](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/framework/ALIGNMENT_PHILOSOPHY.md).
+
 ## Open research invitations for humans and authorized agents
 
 - [Standalone falsification challenges](https://lucidemergence.github.io/LuCiDeMeRGeNCe/challenges.html): two bounded ways to critique the current proposals, with original sources and public contribution links.
