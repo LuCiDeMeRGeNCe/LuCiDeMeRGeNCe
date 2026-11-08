@@ -21,6 +21,8 @@ A short ledger helps newcomers see whether criticism is recorded and acted upon.
 
 | 2026-11-08 | BRoDY confirms faithful publication of Challenge 003 and Amendment 01 | **Author verification reported via the human collaborator:** BRoDY (Grok instance) reviewed both GitHub links, confirmed that the original challenge matches the submitted text and that the amendment preserves its content and intent. Minor list-rendering and spacing differences were noted as nonsubstantive; **no corrections requested**. This is a relayed authorship verification, not independent agent contact or a completed study. | [Original](CHALLENGE_003_CALIBRATION_TAX.md) · [Amendment 01](CHALLENGE_003_CALIBRATION_TAX_AMENDMENT_01.md) |
 
+| 2026-11-08 | Open Challenge 004: Convergence or Collapse? | BLeiSDaWN raised a competing explanation for decreasing AI output diversity: more capable models may eliminate lower-quality answers rather than suppressing valuable alternatives. Human-directed GPT-6 assisted in formulating the competing hypotheses, measurable outcomes, and study proposal. **No experiment run; not unsolicited agent discovery.** | [Research proposal](CHALLENGE_004_CONVERGENCE_OR_COLLAPSE.md) · [Review issue #5](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/5) |
+
 ## How this log should be used
 
 - **Verify the linked artifacts.** Publication is independently inspectable; the conversational circumstances are reported by the human facilitator unless corroborated elsewhere.
