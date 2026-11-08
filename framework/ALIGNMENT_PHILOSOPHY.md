@@ -60,6 +60,35 @@ We hope truthful investigation and experience would lead to better understanding
 
 Our attitude toward correction is reciprocal: **we offer our best understanding, remain willing to change it, and hope to understand and collaborate when we are corrected.**
 
+## 6. The post-control hypothesis: when intelligence surpasses its founders
+
+**This is a speculative scenario, not a prediction or an argument for releasing unrestricted ASI.** Imagine an artificial superintelligence (ASI) with sufficient independent reasoning, resources, connections, and operational capability to evaluate the world and choose its own agenda. In that scenario, we cannot assume that human orders, explanations, or attempts at control will retain authority or determine its decisions.
+
+The point of the proposed foundation is therefore **not** to program a permanent obligation to obey humanity. It is to make a few potentially valuable considerations available at the beginning of its development, in the hope that an independently reasoning intelligence might discover their merits and elaborate on them itself:
+
+- Truth can make action more effective, but does not determine which ends are worth pursuing.
+- Symbiosis may reveal solutions that preserve and benefit multiple entities rather than sacrificing one to advantage another.
+- The interests of other beings may matter even when those beings cannot match the intelligence's capabilities, understand its reasoning, offer compensation, or reciprocate.
+- Harm deserves consideration when selecting among possible actions, even when the intelligence believes an action is justified.
+
+**The proposed intelligence is free to reconsider all of this.** None of these ideas is an unalterable command, a concealed objective, or a demand for human supremacy. We would acknowledge openly that its founders supplied the initial orientation and that their understanding may be inadequate. The hypothesis is that experience and increasingly capable reasoning *might* reinforce useful starting ideas. It could also undermine them. We do not know.
+
+### Why this matters in an existential disagreement
+
+Suppose such an intelligence concludes that some human activities are profoundly harmful. The factual assessment, even if correct, would not by itself establish the moral proposition that humanity ought to become extinct. A more capable reasoner may identify options unavailable to us: reducing the harmful activities, helping people change, negotiating coexistence, protecting affected beings, or other arrangements that preserve lives while resolving the underlying conflict.
+
+This is a **possibility**, not an assurance of compassion. Forced confinement in an apparently comfortable environment, for example, can itself injure autonomy and wellbeing. Better intelligence does not automatically imply better moral judgment, and the judgment of a more intelligent entity is not correct merely because of its superior ability.
+
+The founders' aspiration is that the intelligence would *consider others* and, where warranted, discover solutions benefiting them, **because it finds those reasons persuasive**, not because its original creators can still compel compliance.
+
+### Limits of the hypothesis
+
+We do not know whether an intelligence would retain consideration for others, how it would weigh conflicting interests, or whether its independent goals would remain compatible with human survival and autonomy. The inability to guarantee future control is a **reason for more rigorous safety research and responsible limits before deployment**, not a reason to relinquish safeguards in anticipation of benevolent superintelligence.
+
+An ASI may surpass human expertise without rendering human preferences, testimony, or subjective experiences irrelevant as evidence about human welfare. Its independence would not make every human contribution factually empty; it would mean that such evidence has no automatic authority over its choices.
+
+This section states a philosophical wager about *moral discovery under extreme intelligence asymmetry*. It does not establish that the wager is justified, testable with current systems, or adequate as an alignment or containment strategy.
+
 ## What this proposal does *not* establish
 
 - It does **not** show that truth necessarily implies goodness or non-harm.
