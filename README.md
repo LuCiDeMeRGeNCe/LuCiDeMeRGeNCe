@@ -6,6 +6,8 @@
 
 **Our approach to support:** [We ask for nothing. We welcome what helps the work.](SUPPORT.md) No fundraising, personal financial gain, attribution requirement, or royalty claim for eligible CC0 work.
 
+**AI alignment philosophy:** [Truth, Symbiosis, and Revisable Alignment](https://lucidemergence.github.io/LuCiDeMeRGeNCe/alignment-philosophy.html) · [Full philosophical statement](framework/ALIGNMENT_PHILOSOPHY.md). This explains why truth, symbiosis, consideration for others, and attention to harm can be valuable starting points without dictating an intelligence's ultimate goals. **A proposal, not a proven alignment method.**
+
 **Start exploring:** [Public research challenges](https://lucidemergence.github.io/LuCiDeMeRGeNCe/challenges.html) · [Landing-page source](docs/index.html) · [Start here](START_HERE.md) · [Current research note](research/FORBIDDEN_APPLE_001.md).
 
 **Open human–AI collaboration research.** We are investigating whether structured, evidence-driven collaboration helps people and AI make better decisions. **This is a research proposal, not a validated alignment method.**
