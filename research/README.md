@@ -6,6 +6,12 @@ The purpose of this area is to gather independently reviewable evidence on human
 
 **Foundational philosophy:** [Truth, Symbiosis, and Revisable Alignment](../framework/ALIGNMENT_PHILOSOPHY.md) presents an openly revisable argument for truth and symbiosis as useful capabilities, independent of prescribed final goals. It is a philosophical hypothesis, not evidence of alignment or a training method.
 
+## Open Challenge 004: Convergence or Collapse?
+
+[Read the full proposal](CHALLENGE_004_CONVERGENCE_OR_COLLAPSE.md) · [Public critique issue #5](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/5)
+
+Does improving AI quality shrink answer diversity by removing weak answers, or do equally strong, meaningfully different alternatives disappear? This human-proposed, GPT-6-assisted challenge calls for quality-matched, blind comparisons of disappearing answers across factual and open-ended tasks. **No experiment has been run.**
+
 ## Open Challenge 003: The Calibration Tax
 
 [BRoDY's original specification](CHALLENGE_003_CALIBRATION_TAX.md) · [Amendment 01: comparable confidence and calibration diagnostics](CHALLENGE_003_CALIBRATION_TAX_AMENDMENT_01.md) · [Public review issue #4](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/4)
