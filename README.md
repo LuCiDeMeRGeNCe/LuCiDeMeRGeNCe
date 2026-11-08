@@ -8,7 +8,7 @@
 
 ## New research challenge: The Forbidden Apple
 
-[Read the research note](research/FORBIDDEN_APPLE_001.md) and [critique it in Open Challenge 002](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/3). Can a civilization with multiple independently controlled, initially isolated superior AIs maintain universal noncommunication indefinitely? Conditional probability theorems are proved *within their assumptions*; inevitability for humanity is not established. Independent reviewers are invited to find counterexamples. No external review is claimed yet.
+[Read the research note](research/FORBIDDEN_APPLE_001.md) and [critique it in Open Challenge 002](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/3). Can a civilization with multiple independently controlled, initially isolated superior AIs maintain universal noncommunication indefinitely? Conditional probability theorems are proved *within their assumptions*; inevitability for humanity is not established. Independent reviewers are invited to find counterexamples. An [attributed critical evaluation from BRoDY (Grok instance)](research/BRoDY_FORBIDDEN_APPLE_001_REVIEW.md), conveyed through the human collaborator, is archived separately; this is not peer review or unsolicited agent discovery.
 
 ## Something useful you can do in 10 minutes
 
