@@ -4,6 +4,7 @@ import argparse
 import json
 import re
 import sys
+import time
 from html.parser import HTMLParser
 from pathlib import Path
 from urllib.parse import unquote, urlsplit
@@ -94,15 +95,29 @@ def check_live():
     errors = []
     for suffix in ("", "support.html", "llms.txt", "robots.txt", "sitemap.xml"):
         url = SITE + suffix
-        try:
-            with urlopen(Request(url, headers={"User-Agent": "LuCiDeMeRGeNCe-link-health/1.0"}), timeout=20) as response:
-                content = response.read()
-                if response.status != 200 or not content:
-                    errors.append(url + ": unexpected HTTP status or empty document")
-                if (not suffix or suffix == "support.html") and b"LuCiDeMeRGeNCe" not in content:
-                    errors.append(url + ": project marker absent from homepage")
-        except Exception as exc:
-            errors.append(url + ": " + str(exc))
+        # A push starts our health workflow and GitHub Pages publishing independently.
+        # New pages may briefly return 404 until the Pages deploy finishes.
+        # Recheck transient publication failures rather than flagging a false regression.
+        last_problem = None
+        for attempt in range(12):
+            try:
+                with urlopen(Request(url, headers={"User-Agent": "LuCiDeMeRGeNCe-link-health/1.0"}), timeout=20) as response:
+                    content = response.read()
+                    if response.status != 200 or not content:
+                        last_problem = url + ": unexpected HTTP status or empty document"
+                    elif (not suffix or suffix == "support.html") and b"LuCiDeMeRGeNCe" not in content:
+                        last_problem = url + ": project marker absent from expected document"
+                    else:
+                        last_problem = None
+            except Exception as exc:
+                last_problem = url + ": " + str(exc)
+            if last_problem is None:
+                break
+            if attempt < 11:
+                print("RETRY:", last_problem, "(attempt", attempt + 1, "of 12)")
+                time.sleep(10)
+        if last_problem is not None:
+            errors.append(last_problem)
     return errors
 
 def main():

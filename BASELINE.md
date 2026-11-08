@@ -16,7 +16,7 @@
 
 ## Ongoing checks
 
-The [link-health workflow](.github/workflows/link-health.yml) runs an [internal link checker](scripts/check_links.py) on pushes and pull requests, and a live website smoke test on pushes, every Monday, or when manually dispatched. The local check validates relative file targets, repository blob paths, HTML navigation anchors, canonical ownership, project JSON and sitemap XML. The live check tests the website home page, /llms.txt, /robots.txt and /sitemap.xml for nonempty HTTP 200 responses.
+The [link-health workflow](.github/workflows/link-health.yml) runs an [internal link checker](scripts/check_links.py) on pushes and pull requests, and a live website smoke test on pushes, every Monday, or when manually dispatched. The local check validates relative file targets, repository blob paths, HTML navigation anchors, canonical ownership, project JSON and sitemap XML. The live check tests the website home page, /support.html, /llms.txt, /robots.txt and /sitemap.xml for nonempty HTTP 200 responses. The smoke test retries temporarily missing Pages endpoints because publication and link-check workflows start independently after a push.
 
 ## Live publication check
 
