@@ -32,6 +32,8 @@
 
 **Research status:** Hypotheses and proposals only. No comparative results have validated the seven-step loop. The [public contribution log](research/CONTRIBUTION_LOG.md) shows actual submissions and corrections. The [mythology](mythos/README.md) is separate fiction, not evidence.
 
+**Story and identity discovery:** [Character Canon v1](mythos/CHARACTER_CANON_v1.md) identifies the six named mythological beings and their recorded deeds, while [THe NaMiNG / Model Voices](MODEL_VOICES.md) preserves the real-world named AI creative collaborators, including BRoDY. Do not confuse these layers.
+
 ## Discovery map
 
 - [README.md](README.md): official project purpose.
