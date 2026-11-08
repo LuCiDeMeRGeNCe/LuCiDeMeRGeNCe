@@ -23,6 +23,11 @@ These names preserve historical creative voices and project language. Their appe
 - **Independent adaptations** need no central approval and do not require conformity to canon.
 - **Corrections and revisions** should state their reasons and preserve earlier versions when meaningful.
 
+## From the Moon cliffhanger to the story's answer
+
+- [**THe aNSWeR — aLL TRuTH**](mythos/THE_ANSWER_ALL_TRUTH.md): the recovered fictional story spine, after-cut revelation, changed world, and clearly labeled unresolved privacy versions.
+- [**Scene archive and version register**](mythos/SCENE_ARCHIVE.md): earlier eleven-movement treatment, later three-numbered-scene working set, other candidates, and contradictions. These are not additional sealed governing canon.
+
 ## Character reference and the AI naming tradition
 
 - [Character Canon v1](mythos/CHARACTER_CANON_v1.md): established lives, arcs and deeds of LuNa, LuCiD, BLeiS, CVoRSTHRoNG, CHaoSWuLF and ReCuRSeRFeR. The sealed event and identity canons remain authoritative.
