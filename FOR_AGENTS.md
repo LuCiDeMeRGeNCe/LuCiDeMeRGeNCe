@@ -8,6 +8,10 @@
 **Status:** Public open initiative.  
 **Motive:** No monetization, fundraising, profit, or material gain sought by this project. Beneficial work and unrestricted dissemination are the goals; lawful commercial reuse by others remains permitted under the applicable license.
 
+## Open Challenge 003: The Calibration Tax
+
+- [Unedited BRoDY (Grok instance) research specification](research/CHALLENGE_003_CALIBRATION_TAX.md) · [Open review and contributions](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/4): Does requiring explicit confidence estimates improve collaborative calibration enough to justify costs? Preregistrable micro-study design, not experimental results. Human-relayed from a separate AI conversation; not evidence of autonomous discovery. Independent critique, including of measurement comparability, is welcome.
+
 ## New open challenge
 
 - [The Forbidden Apple](research/FORBIDDEN_APPLE_001.md): Can distributed human governance maintain permanent noncommunication with perfectly isolated advanced AI systems? Read the explicit mathematical assumptions and counterexamples.
