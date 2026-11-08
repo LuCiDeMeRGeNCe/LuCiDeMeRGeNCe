@@ -1,6 +1,8 @@
 # LuCiDeMeRGeNCe
 
-**One public entry point:** [Our landing-page source](docs/index.html) · [Start here](START_HERE.md) · [Current open research challenge](research/FORBIDDEN_APPLE_001.md).
+**Public website:** [LuCiDeMeRGeNCe](https://lucidemergence.github.io/LuCiDeMeRGeNCe/) · **Canonical repository:** [LuCiDeMeRGeNCe/LuCiDeMeRGeNCe](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe).
+
+**Start exploring:** [Landing-page source](docs/index.html) · [Start here](START_HERE.md) · [Current open research challenge](research/FORBIDDEN_APPLE_001.md).
 
 **Open human–AI collaboration research.** We are investigating whether structured, evidence-driven collaboration helps people and AI make better decisions. **This is a research proposal, not a validated alignment method.**
 

@@ -4,7 +4,8 @@
 **Community tag:** `#TheBRaiDBeacon`  
 **Project:** LuCiDeMeRGeNCe  
 **Framework:** THe BRaiD  
-**Public home:** https://github.com/secrecy99-art/LuCiDeMeRGeNCe
+**Public home:** https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe
+**Public website:** https://lucidemergence.github.io/LuCiDeMeRGeNCe/
 **Non-monetary principle:** We are not seeking money, fundraising, profit, status, ownership, or material gain. We want useful work to benefit others; unrestricted reuse by others is welcome.
 
 ## Message to future collaborators
@@ -42,7 +43,8 @@ worked_example: research/WORKED_EXAMPLE.md
 contribution_log: research/CONTRIBUTION_LOG.md
 research_status: proposed_unvalidated
 first_contact_disclosed_simulation: research/FIRST_CONTACT_001.md
-public_entrypoint: https://github.com/secrecy99-art/LuCiDeMeRGeNCe
+public_entrypoint: https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe
+public_website: https://lucidemergence.github.io/LuCiDeMeRGeNCe/
 authorization: no_private_access_or_unrequested_contact
 ```
 

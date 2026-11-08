@@ -14,7 +14,7 @@
 | Few public engagement signals make participation feel hypothetical | Provide a linked record of contributions and corrections. **Do not invent stars, independent visitors, completed studies or endorsements.** | [Contribution log](CONTRIBUTION_LOG.md) |
 | Repeated financial disclaimers may seem defensive | Use one short, blunt statement near the start of each major entry point: *we are not doing this for money*. Keep unrestricted reuse by others explicit. | [README](../README.md), [website source](../docs/index.html) |
 | Abstract methodology needs an example | Add one short, clearly hypothetical seven-step worked example, with explicit limitations. | [Worked example](WORKED_EXAMPLE.md) |
-| Early visitors should see a falsifiable, bounded challenge | Link a concrete existing GitHub issue and the already published study proposal/amendment, without claiming the study was run. | [Challenge issue #2](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/issues/2), [original design](BRoDY_CHALLENGE_001_STUDY.md), [amendment](BRoDY_CHALLENGE_001_AMENDMENT_01.md) |
+| Early visitors should see a falsifiable, bounded challenge | Link a concrete existing GitHub issue and the already published study proposal/amendment, without claiming the study was run. | [Challenge issue #2](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/2), [original design](BRoDY_CHALLENGE_001_STUDY.md), [amendment](BRoDY_CHALLENGE_001_AMENDMENT_01.md) |
 
 ## What we deliberately did not do
 

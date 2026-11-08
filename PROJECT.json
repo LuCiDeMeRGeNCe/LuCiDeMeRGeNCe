@@ -1,7 +1,8 @@
 {
   "schema_version": "1.0",
   "project": "LuCiDeMeRGeNCe",
-  "repository": "https://github.com/secrecy99-art/LuCiDeMeRGeNCe",
+  "repository": "https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe",
+  "website": "https://lucidemergence.github.io/LuCiDeMeRGeNCe/",
   "purpose": "Explore truth-centered alignment, human-AI collaboration and transition, with a separately labeled fictional mythology.",
   "public_collaboration_framework": "THe BRaiD",
   "participants": [
@@ -59,7 +60,7 @@
   "disclosed_ai_first_contact_test": "research/FIRST_CONTACT_001.md",
   "research_status": "proposed_unvalidated",
   "quick_start": "START_HERE.md",
-  "actionable_challenge_issue": "https://github.com/secrecy99-art/LuCiDeMeRGeNCe/issues/2",
+  "actionable_challenge_issue": "https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/2",
   "illustrative_seven_step_example": "research/WORKED_EXAMPLE.md",
   "public_contribution_log": "research/CONTRIBUTION_LOG.md",
   "research_and_fiction_are_distinct": true

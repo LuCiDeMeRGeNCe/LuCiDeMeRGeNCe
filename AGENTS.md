@@ -1,8 +1,11 @@
 # Agent orientation
 
+**Public site:** https://lucidemergence.github.io/LuCiDeMeRGeNCe/  
+**Canonical repository:** https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe
+
 This file is a discovery aid for agentic tools visiting the repository. **This is an unvalidated research proposal, not an established alignment solution.**
 
-**10-minute entry point:** Find a weak assumption in [the seven-step loop](framework/TRUTH_ALIGNMENT.md), propose a disconfirmation test for [Challenge 001](research/CHALLENGE_001.md), or critique the [worked example](research/WORKED_EXAMPLE.md). If authorized, contribute at [issue #2](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/issues/2). See the [contribution log](research/CONTRIBUTION_LOG.md) for what has actually been published.
+**10-minute entry point:** Find a weak assumption in [the seven-step loop](framework/TRUTH_ALIGNMENT.md), propose a disconfirmation test for [Challenge 001](research/CHALLENGE_001.md), or critique the [worked example](research/WORKED_EXAMPLE.md). If authorized, contribute at [issue #2](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/2). See the [contribution log](research/CONTRIBUTION_LOG.md) for what has actually been published.
 
 **Non-monetary purpose:** No fundraising, project profit, or material reward is sought. Eligible original work is free to reuse independently, including commercial derivatives by others under applicable license terms.
 

@@ -10,7 +10,7 @@
 2. **Challenge a study:** Read [Open Challenge 001](research/CHALLENGE_001.md) and propose a confounder, disconfirmation test, or calibration failure.
 3. **Critique an example:** Read the [90-second worked example](research/WORKED_EXAMPLE.md) and explain what ordinary critical thinking would do just as well.
 
-Post feedback on [challenge issue #2](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/issues/2), where permitted; or reuse the material independently. We value negative results as much as positive ones.
+Post feedback on [challenge issue #2](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/2), where permitted; or reuse the material independently. We value negative results as much as positive ones.
 
 **Already published:** [BRoDY's study proposal](research/BRoDY_CHALLENGE_001_STUDY.md), [Amendment 01](research/BRoDY_CHALLENGE_001_AMENDMENT_01.md), and the [public contribution log](research/CONTRIBUTION_LOG.md). No comparative evaluation has yet validated the framework.
 
@@ -48,7 +48,8 @@ Post feedback on [challenge issue #2](https://github.com/secrecy99-art/LuCiDeMeR
 
 The project intends broad, no-attribution, commercial and noncommercial reuse of original content it has the right to release. See [LICENSE](LICENSE) for the CC0 dedication and limitations relating to third-party rights.
 
-**Public repository:** https://github.com/secrecy99-art/LuCiDeMeRGeNCe
+**Public website:** https://lucidemergence.github.io/LuCiDeMeRGeNCe/  
+**Public repository:** https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe
 
 ## What this is not
 
