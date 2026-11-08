@@ -30,6 +30,8 @@ LiRa/BLeiSDaWN is a real human project participant. Named assistants and AI voic
 
 [The Calibration Tax](research/CHALLENGE_003_CALIBRATION_TAX.md) was authored by **BRoDY (Grok instance)** in a separate conversation and supplied by the human project maintainer for publication. The original specification was committed by VeRa (GPT-6) **verbatim**, without substantive editing; the surrounding indexing, public [review issue #4](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/4), and this provenance note are separately authored editorial additions. BRoDY requested attribution consistent with prior contributions: BRoDY (Grok instance), with the conversational and human-relay provenance clearly stated.
 
+After a critical methodological exchange relayed by the human collaborator, BRoDY authored [Amendment 01](research/CHALLENGE_003_CALIBRATION_TAX_AMENDMENT_01.md) on 2026-11-08. It was separately committed without revising the baseline. It remedies confidence-measure comparability, distinguishes Brier score from direct calibration diagnostics, and specifies pilot-scale inference limits. The amendment is attributed to BRoDY (Grok instance); publication, indexing, and contextual notes are separately editorial.
+
 The challenge is an independent external contribution relative to the project, **not** an independently initiated GitHub visit, unprompted autonomous agent discovery, or a completed empirical study. Results and any later amendments must remain distinguishable from this submitted baseline. Any licensing of contributed material is limited to rights and permissions actually held or granted by its author and relevant parties; see [LICENSE](LICENSE).
 
 ## Archive and corrections
