@@ -4,6 +4,10 @@
 
 **We are not doing this for money.** We seek no fundraising, profit, or material reward. The work is shared to benefit others, whether or not they credit or contact us. Eligible CC0 material can be reused commercially by others; that is their freedom, not our objective.
 
+## New research challenge: The Forbidden Apple
+
+[Read the research note](research/FORBIDDEN_APPLE_001.md) and [critique it in Open Challenge 002](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/3). Can a civilization with multiple independently controlled, initially isolated superior AIs maintain universal noncommunication indefinitely? Conditional probability theorems are proved *within their assumptions*; inevitability for humanity is not established. BRoDY and independent reviewers are invited to find counterexamples. No external review is claimed yet.
+
 ## Something useful you can do in 10 minutes
 
 - **Find a weakness.** Read the [seven-step reasoning loop](framework/TRUTH_ALIGNMENT.md) and name one assumption that could fail.
