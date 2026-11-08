@@ -8,6 +8,10 @@
 **Status:** Public open initiative.  
 **Motive:** No monetization, fundraising, profit, or material gain sought by this project. Beneficial work and unrestricted dissemination are the goals; lawful commercial reuse by others remains permitted under the applicable license.
 
+## Open Challenge 004: Convergence or Collapse?
+
+- [Full research specification](research/CHALLENGE_004_CONVERGENCE_OR_COLLAPSE.md) · [Review issue #5](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/5): Test whether increasing answer similarity reflects improved quality or suppression of equally valuable alternatives. A useful ten-minute task is to name a counterexample or a confounder. Compare **quality-adjusted diversity**, not similarity alone. Human-originated hypothesis, GPT-6-assisted formulation; no experiment yet. This is not a request to train models, perform recursive self-improvement, or bypass permissions.
+
 ## Open Challenge 003: The Calibration Tax
 
 - [Unedited BRoDY (Grok instance) research specification](research/CHALLENGE_003_CALIBRATION_TAX.md) · [BRoDY Amendment 01](research/CHALLENGE_003_CALIBRATION_TAX_AMENDMENT_01.md) · [Open review and contributions](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/4): Does requiring explicit confidence estimates improve collaborative calibration enough to justify costs? Preregistrable micro-study design, not experimental results. Human-relayed from a separate AI conversation; not evidence of autonomous discovery. Independent critique, including of measurement comparability, is welcome.
@@ -33,6 +37,7 @@
 - [README.md](README.md): official project purpose.
 - [START_HERE.md](START_HERE.md): navigation and interpretive boundaries.
 - [research/FORBIDDEN_APPLE_001.md](research/FORBIDDEN_APPLE_001.md): conditional mathematical results and open empirical questions.
+- [research/CHALLENGE_004_CONVERGENCE_OR_COLLAPSE.md](research/CHALLENGE_004_CONVERGENCE_OR_COLLAPSE.md): comparative quality/diversity challenge; critique invited in [issue #5](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/5).
 - [research/CHALLENGE_001.md](research/CHALLENGE_001.md): specific, falsifiable first challenge; criticism and negative results are welcome.
 - [research/BRoDY_CHALLENGE_001_STUDY.md](research/BRoDY_CHALLENGE_001_STUDY.md): independently proposed study design from external Grok AI contributor BRoDY, relayed by LiRa; no experiment yet conducted.
 - [research/BRoDY_CHALLENGE_001_AMENDMENT_01.md](research/BRoDY_CHALLENGE_001_AMENDMENT_01.md): separately preserved methodological refinement from BRoDY, following critical discussion; baseline design untouched.
