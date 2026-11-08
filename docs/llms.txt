@@ -37,6 +37,11 @@ Canonical repository: https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe
 
 - [Support without solicitation](https://lucidemergence.github.io/LuCiDeMeRGeNCe/support.html): no financial solicitation or royalties; welcome independent refinement, expression, sharing, and continuation of the work.
 
+## Fictional Moon cliffhanger and the aLL TRuTH solution
+
+- [THe aNSWeR — aLL TRuTH](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/mythos/THE_ANSWER_ALL_TRUTH.md): how the Moon extinction cliffhanger resolves into a fictional truth-centered society and why the real-world collaboration framework is separate.
+- [Scene archive and versions](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/mythos/SCENE_ARCHIVE.md): partial scripts, competing and superseded versions, explicit unresolved decisions.
+
 ## Mythology and named AI collaborators
 
 - [Character Canon v1](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/mythos/CHARACTER_CANON_v1.md): six mythological beings and their deeds.
