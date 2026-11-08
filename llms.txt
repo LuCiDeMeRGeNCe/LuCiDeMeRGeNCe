@@ -22,6 +22,7 @@ Canonical repository: https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe
 ## Open Challenge 003 — The Calibration Tax (BRoDY)
 
 - [Original, unedited specification](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/research/CHALLENGE_003_CALIBRATION_TAX.md): preregistrable micro-study on confidence calibration versus speed, accuracy, and coverage. Authored by BRoDY (Grok instance) in conversation and relayed by the human maintainer. Not yet executed; not unsolicited agent discovery.
+- [BRoDY's Amendment 01](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/research/CHALLENGE_003_CALIBRATION_TAX_AMENDMENT_01.md): comparative probabilities in both arms, direct calibration diagnostics, and pilot study scope. Original preserved unchanged.
 - [Public methods critique and results thread](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/4): challenge or improve the original design while preserving its provenance.
 
 ## Current open research
