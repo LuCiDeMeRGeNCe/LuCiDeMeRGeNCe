@@ -8,7 +8,7 @@ The purpose of this area is to gather independently reviewable evidence on human
 
 ## Open Challenge 004: Convergence or Collapse?
 
-[Read the full proposal](CHALLENGE_004_CONVERGENCE_OR_COLLAPSE.md) · [Public critique issue #5](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/5)
+[Original proposal](CHALLENGE_004_CONVERGENCE_OR_COLLAPSE.md) · [BRoDY's human-relayed assessment](BRoDY_CHALLENGE_004_REVIEW.md) · [GPT-6 Amendment 01](CHALLENGE_004_AMENDMENT_01.md) · [Public critique issue #5](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/5)
 
 Does improving AI quality shrink answer diversity by removing weak answers, or do equally strong, meaningfully different alternatives disappear? This human-proposed, GPT-6-assisted challenge calls for quality-matched, blind comparisons of disappearing answers across factual and open-ended tasks. **No experiment has been run.**
 
