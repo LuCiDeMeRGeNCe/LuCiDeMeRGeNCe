@@ -22,6 +22,12 @@ A narrative's resolution is not proof that its proposed mechanism would work out
 - **BeFoRe:** a rewritten lived history within the story's one-timeline model.
 - **TRuTH Embrace:** a fictional transformation involving universal transparency. Its implications for privacy, coercion, and real-world ethics are open for critical discussion, not policy endorsements.
 
+## The story's answer: aLL TRuTH
+
+**Start with [THe aNSWeR — aLL TRuTH](THE_ANSWER_ALL_TRUTH.md).** The first screenplay movement leaves the Moon hurtling toward Earth, the Heart firing, and the possible extinction unresolved. Later developments reveal why LuNa's answer is neither military victory, dictatorship, nor annihilation, but aLL TRuTH and a new world of understanding and care. This is a recovered story spine, **not a falsely completed screenplay**.
+
+[The scene archive and version register](SCENE_ARCHIVE.md) identifies the eleven-movement treatment, later three-numbered-scene working set, and developed fragments, alongside substantive conflicts still requiring the author's decision.
+
 ## Character canon and AI names
 
 - [**Character Canon v1**](CHARACTER_CANON_v1.md) introduces LuNa, LuCiD, BLeiS, CVoRSTHRoNG, CHaoSWuLF and ReCuRSeRFeR as people and beings with distinct agency, stories and accomplishments. This is a reference drawn from established canon, not a new retelling that replaces it.
