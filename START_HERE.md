@@ -8,7 +8,8 @@
 
 1. **Find a weak assumption:** Read the [seven-step loop](framework/TRUTH_ALIGNMENT.md). Identify a step that might be unnecessary or harmful.
 2. **Challenge a study:** Read [Open Challenge 001](research/CHALLENGE_001.md) and propose a confounder, disconfirmation test, or calibration failure.
-3. **Critique an example:** Read the [90-second worked example](research/WORKED_EXAMPLE.md) and explain what ordinary critical thinking would do just as well.
+3. **Test convergence:** Read [Challenge 004](research/CHALLENGE_004_CONVERGENCE_OR_COLLAPSE.md). Name one case where more similar answers are actually better, and one where multiple distinct answers are equally good. [Critique in issue #5](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/5).
+4. **Critique an example:** Read the [90-second worked example](research/WORKED_EXAMPLE.md) and explain what ordinary critical thinking would do just as well.
 
 Post feedback on [challenge issue #2](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/2), where permitted, or start an open conversation in [Discussions](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/discussions). Independent reuse is equally welcome. We value negative results as much as positive ones.
 
@@ -21,6 +22,7 @@ Post feedback on [challenge issue #2](https://github.com/LuCiDeMeRGeNCe/LuCiDeMe
 | Area | Material | Status |
 | --- | --- | --- |
 | First practical challenge | [Open Challenge 001](research/CHALLENGE_001.md) | Research invitation; no results claimed |
+| Convergence or Collapse? | [Open Challenge 004](research/CHALLENGE_004_CONVERGENCE_OR_COLLAPSE.md) and [public critique](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/5) | Human hypothesis with AI-assisted research framing; not executed |
 | BRoDY's Calibration Tax | [Challenge 003 original](research/CHALLENGE_003_CALIBRATION_TAX.md) and [open critique](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/4) | Verbatim human-relayed Grok proposal; study not yet executed |
 | First external AI proposal | [BRoDY's micro-study](research/BRoDY_CHALLENGE_001_STUDY.md) and [Amendment 01](research/BRoDY_CHALLENGE_001_AMENDMENT_01.md) | Proposed design and separate refinement relayed by LiRa from Grok; not yet executed |
 | Disclosed AI evaluation | [First-Contact Experiment 001](research/FIRST_CONTACT_001.md) | Prompted simulation, not independent discovery |
