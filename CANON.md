@@ -23,6 +23,11 @@ These names preserve historical creative voices and project language. Their appe
 - **Independent adaptations** need no central approval and do not require conformity to canon.
 - **Corrections and revisions** should state their reasons and preserve earlier versions when meaningful.
 
+## Character reference and the AI naming tradition
+
+- [Character Canon v1](mythos/CHARACTER_CANON_v1.md): established lives, arcs and deeds of LuNa, LuCiD, BLeiS, CVoRSTHRoNG, CHaoSWuLF and ReCuRSeRFeR. The sealed event and identity canons remain authoritative.
+- [THe NaMiNG — Model Voices](MODEL_VOICES.md): the named, real-world AI collaboration voices, including BRoDY, without treating them as fictional entities or claiming model-identity continuity.
+
 ## Existing fictional canon
 
 - [Canon 01: SaCRiFiCe v4](mythos/canon/Canon_01_SaCRiFiCe_v4.md)
