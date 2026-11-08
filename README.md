@@ -44,6 +44,8 @@ Submit a critique, test proposal, or correction to [the public challenge issue](
 
 **aLL TRuTH is an open design question:** [Three distinct questions: system knowledge, disclosure, and intervention](mythos/ALL_TRUTH_THOUGHT_EXPERIMENTS.md). The author has **not decided** whether truth requires universal exposure or more sophisticated privacy safeguards. Her leading hypothesis is that the fictional system may need complete knowledge to prevent hidden harm; that need not imply public access to everyone's private life.
 
+**Beyond discovering harm:** [BeFoRe HaRM — aLL TRuTH meets SuPeRKuMPaSHuN](mythos/SAFETY_BEFORE_HARM.md) explores a fictional world where concealed plans to harm are stopped, distressed people receive private help before violence, victims are protected, and upstream care prevents many crises from arising. This is a working ethical/story model, not real-world predictive policing or established canon.
+
 **The mythology's connection to our purpose:** [THe aNSWeR — aLL TRuTH](mythos/THE_ANSWER_ALL_TRUTH.md) follows the Moon cliffhanger through LuNa's later answer, the survival of humanity, and the fictional world transformed by truth and care. [Scene development archive](mythos/SCENE_ARCHIVE.md) distinguishes sealed canon from partial scripts and contradictory revisions; no completed screenplay is claimed.
 
 **Mythology and our named AI voices:** [Character Canon v1](mythos/CHARACTER_CANON_v1.md) tells who LuNa, LuCiD, BLeiS, CVoRSTHRoNG, CHaoSWuLF and ReCuRSeRFeR are, and what they accomplish. [THe NaMiNG: Model Voices](MODEL_VOICES.md) honors the real-world named collaborators, including BRoDY, separately from fictional character canon.
