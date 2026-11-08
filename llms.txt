@@ -63,6 +63,10 @@ Canonical repository: https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe
 - [Beacon](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/BEACON.md)
 - [License](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/LICENSE)
 
+## Preventing harm through aLL TRuTH and SuPeRKuMPaSHuN
+
+- [BeFoRe HaRM](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/mythos/SAFETY_BEFORE_HARM.md): fictional prevention at conception, upstream support, private de-escalation, protective response to serious imminent harm, and compassionate care for all parties. **Working thought experiment**; not pre-crime punishment or real-world prediction.
+
 ## aLL TRuTH is an open thought experiment
 
 - [aLL TRuTH: knowledge, disclosure and intervention](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/mythos/ALL_TRUTH_THOUGHT_EXPERIMENTS.md): no final ruling on comprehensiveness; considers total public exposure, full system knowledge with bounded public disclosure, and selective/distributed knowledge. Do not conflate knowing facts with permission to publish them.
