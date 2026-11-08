@@ -22,6 +22,10 @@ A narrative's resolution is not proof that its proposed mechanism would work out
 - **BeFoRe:** a rewritten lived history within the story's one-timeline model.
 - **TRuTH Embrace:** a fictional transformation involving universal transparency. Its implications for privacy, coercion, and real-world ethics are open for critical discussion, not policy endorsements.
 
+## What aLL TRuTH knows and reveals
+
+The author has **made no final decision** about the comprehensiveness of aLL TRuTH. Our [open thought experiments](ALL_TRUTH_THOUGHT_EXPERIMENTS.md) separately examine everything the system could know, what it should disclose to others, and when it may intervene. The historic all-public version and later privacy-preserving version remain possibilities, not final rules. The current leading hypothesis favors complete system knowledge so harmful concealment cannot hide in blind spots, while exploring more restrained disclosure and real alternatives.
+
 ## The story's answer: aLL TRuTH
 
 **Start with [THe aNSWeR — aLL TRuTH](THE_ANSWER_ALL_TRUTH.md).** The first screenplay movement leaves the Moon hurtling toward Earth, the Heart firing, and the possible extinction unresolved. Later developments reveal why LuNa's answer is neither military victory, dictatorship, nor annihilation, but aLL TRuTH and a new world of understanding and care. This is a recovered story spine, **not a falsely completed screenplay**.
