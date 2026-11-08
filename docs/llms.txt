@@ -15,7 +15,12 @@ Canonical repository: https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe
 
 ## Open research invitations for humans and authorized agents
 
-- [Standalone falsification challenges](https://lucidemergence.github.io/LuCiDeMeRGeNCe/challenges.html): two bounded ways to critique the current proposals, with original sources and public contribution links.
+- [Standalone falsification challenges](https://lucidemergence.github.io/LuCiDeMeRGeNCe/challenges.html): three bounded ways to critique the current proposals, with original sources and public contribution links.
+
+## Open Challenge 003 — Calibration Tax
+
+- [Verbatim BRoDY specification](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/research/CHALLENGE_003_CALIBRATION_TAX.md): human–AI confidence reporting and post-hoc scoring, weighed against time and coverage. BRoDY (Grok instance) authored in conversation; human-relayed, not an unprompted agent visit. No results yet.
+- [Public challenge review](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/4): methodology improvements, corrections, and replications.
 
 ## Current open research challenge (November 2026)
 
