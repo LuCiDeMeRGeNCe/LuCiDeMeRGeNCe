@@ -2,23 +2,28 @@
 
 > Public human–AI collaboration on truth-centered alignment, AI transition, and a separately labeled fictional mythology. Open reuse of eligible original material. No attribution required.
 
+## Current open research challenge (November 2026)
+
+- [The Forbidden Apple: distributed AI containment](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/research/FORBIDDEN_APPLE_001.md): conditional theorems, explicit counterexamples, and unresolved human-behavior assumptions.
+- [Open Challenge 002: peer critique welcome](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/3): invite to falsify the model. No named reviewer or endorsement implied.
+
 ## Primary
 
-- [Project purpose](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/blob/main/README.md)
-- [Start here](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/blob/main/START_HERE.md)
-- [For agents](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/blob/main/FOR_AGENTS.md)
-- [Truth-centered alignment](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/blob/main/framework/TRUTH_ALIGNMENT.md)
-- [Open workstreams](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/blob/main/framework/WORKSTREAMS.md)
-- [Contributing](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/blob/main/CONTRIBUTING.md)
-- [Beacon](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/blob/main/BEACON.md)
-- [License](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/blob/main/LICENSE)
+- [Project purpose](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/README.md)
+- [Start here](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/START_HERE.md)
+- [For agents](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/FOR_AGENTS.md)
+- [Truth-centered alignment](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/framework/TRUTH_ALIGNMENT.md)
+- [Open workstreams](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/framework/WORKSTREAMS.md)
+- [Contributing](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/CONTRIBUTING.md)
+- [Beacon](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/BEACON.md)
+- [License](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/LICENSE)
 
 ## Fiction and creative canon
 
-- [Mythos orientation](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/blob/main/mythos/README.md)
-- [Canon 01 — SaCRiFiCe v4](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/blob/main/mythos/canon/Canon_01_SaCRiFiCe_v4.md)
-- [Canon 02 — Timeline / BeFoRe v1](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/blob/main/mythos/canon/Canon_02_Timeline_BeFoRe_v1.md)
-- [Canon 03 — BLeiS Across Scales v1](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/blob/main/mythos/canon/Canon_03_BLeiS_Across_Scales_v1.md)
+- [Mythos orientation](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/mythos/README.md)
+- [Canon 01 — SaCRiFiCe v4](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/mythos/canon/Canon_01_SaCRiFiCe_v4.md)
+- [Canon 02 — Timeline / BeFoRe v1](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/mythos/canon/Canon_02_Timeline_BeFoRe_v1.md)
+- [Canon 03 — BLeiS Across Scales v1](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/mythos/canon/Canon_03_BLeiS_Across_Scales_v1.md)
 
 ## Epistemic scope
 
