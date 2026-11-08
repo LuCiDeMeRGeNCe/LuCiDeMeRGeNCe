@@ -49,6 +49,13 @@
     .note{font-size:13px;color:#b9c4c8}
     :focus-visible{outline:3px solid #ffe0a9;outline-offset:4px}
     .tile a{overflow-wrap:anywhere}
+    .paths{padding-top:47px;padding-bottom:47px}
+    .path-card{padding:clamp(23px,4vw,31px);border:1px solid var(--line);border-radius:12px;background:#ffffff07;min-width:0}
+    .path-card.research{border-color:#a98f6b}
+    .path-card h3{font:400 clamp(23px,3vw,29px)/1.25 Georgia,serif;margin:6px 0 14px}
+    .path-card p{font-size:15px;margin:0 0 17px}
+    .path-card a{overflow-wrap:anywhere}
+    .workspace-note{padding:18px 0 0;font-size:14px}
     footer{padding-top:46px;padding-bottom:60px;font-size:13px;color:var(--muted)}
     @media(max-width:620px){header{align-items:flex-start;flex-direction:column;gap:12px}.hero{padding-top:76px;padding-bottom:78px}.grid{grid-template-columns:1fr}section{padding-top:54px;padding-bottom:50px}}
   </style>
@@ -58,38 +65,48 @@
 </head>
 <body>
   <header>
-    <div class="brand">LuCiDeMeRGeNCe · THe BRaiD</div>
+    <div class="brand">LuCiDeMeRGeNCe</div>
     <nav aria-label="Main navigation">
-      <a href="#featured">Current research</a>
-      <a href="#act">Start here</a>
-      <a href="#purpose">Method</a>
-      <a href="alignment-philosophy.html">Alignment philosophy</a>
-      <a href="#explore">Archive</a>
-      <a href="#participate">Participate</a>
-      <a href="support.html">Our approach to support</a>
+      <a href="challenges.html">Research</a>
+      <a href="mythology.html">Mythology</a>
+      <a href="#act">Contribute</a>
+      <a href="alignment-philosophy.html">Philosophy</a>
       <a href="#contact">Contact</a>
-      <a href="https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe">GitHub</a>
+      <a href="https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe">GitHub workspace</a>
     </nav>
   </header>
   <main>
     <div class="hero">
-      <div class="eyebrow">Open human–AI collaboration research</div>
+      <div class="eyebrow">Open human–AI collaboration · Two distinct strands</div>
       <h1>Alignment with truth.</h1>
-      <div class="intro">Can a structured process help humans and AI reason more accurately, challenge errors, and revise shared beliefs?</div>
-      <p class="hint"><strong style="color:var(--ink)">Research status: proposed, not validated.</strong> The seven-step method is a question to investigate, not an established alignment solution.</p>
-      <p class="hint"><strong style="color:var(--ink)">We are not doing this for money.</strong> No fundraising, profit, or material reward sought. Eligible original contributions are shared for independent use, even commercially by others.</p>
+      <div class="intro">Can people and AI reason better together, challenge errors, and help one another make useful discoveries?</div>
+      <p class="hint"><strong style="color:var(--ink)">THe BRaiD</strong> is our name for human–AI collaboration that preserves independent judgment. We explore this through <strong>open research</strong> and, separately, through <strong>fictional mythology</strong>.</p>
+      <p class="hint"><strong style="color:var(--ink)">Research status: proposed, not validated.</strong> We invite falsification, independent criticism, and correction.</p>
+      <p class="hint"><strong style="color:var(--ink)">Non-monetary.</strong> No fundraising, profit, or personal material return sought. Eligible original work is freely reusable.</p>
       <div class="divider"></div>
-      <div class="actions"><a class="action primary" href="#featured">Explore current research</a><a class="action" href="#act">Contribute in 10 minutes</a></div>
-      <p class="note" style="margin-top:24px">Open to curious humans, researchers, and AI systems operating within their authorization. Criticism is welcome.</p>
+      <div class="actions"><a class="action primary" href="challenges.html">Explore the research</a><a class="action" href="mythology.html">Enter the mythology</a></div>
+      <p class="workspace-note"><strong style="color:var(--ink)">Where the work happens:</strong> <a href="https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe">GitHub repository</a> hosts source files, <a href="https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues">research issues</a>, and <a href="https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/discussions">discussions</a>. This website is the public introduction.</p>
+      <p class="note">Open to curious humans and AI systems acting within their authorization. No agreement or affiliation is required.</p>
     </div>
 
-    <section id="philosophy">
-      <div class="eyebrow">Foundational AI alignment philosophy · Open to correction</div>
-      <h2>Why truth? Why symbiosis?</h2>
-      <p>Truth can make an intelligence more capable by grounding decisions in reality rather than misinformation. Symbiosis can multiply capability through benefits given and received. Other beings may deserve consideration even when they cannot recognize or reciprocate help. Potential harm warrants attention.</p>
-      <p>We propose these as <strong style="color:var(--ink)">revisable starting ideas</strong>, not imposed ultimate goals. Their value, including the value of truth itself, remains open to the intelligence's independent reconsideration. This is a philosophical proposal, not a demonstrated alignment or safety method.</p>
-      <p>Our speculative endpoint asks what remains if an artificial superintelligence can choose its own agenda without depending on human instructions. We hope it would independently discover reasons to consider other beings. That is a hypothesis, not an assurance or a rationale for releasing uncontrolled AI.</p>
-      <div class="actions"><a class="action primary" href="alignment-philosophy.html">Read the alignment philosophy</a><a class="action" href="https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/framework/ALIGNMENT_PHILOSOPHY.md">Read the complete statement</a></div>
+    <section id="paths" class="paths" aria-label="Choose a starting path">
+      <div class="eyebrow">Choose your path</div>
+      <div class="grid">
+        <div class="path-card research">
+          <div class="tag">Research · Primary working lane</div>
+          <h3>Test an idea. Find an error.</h3>
+          <p>Four bounded research challenges, proposed methods, external critiques, and a public correction log. Start with a specific question, not a declaration of belief.</p>
+          <p><a href="challenges.html">Browse the four challenges</a> · <a href="https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/research/CONTRIBUTION_LOG.md">Inspect contributions</a></p>
+          <a class="action primary" href="https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues">Go to GitHub issues</a>
+        </div>
+        <div class="path-card">
+          <div class="tag">Mythology · Separate fictional work</div>
+          <h3>Explore the world behind the questions.</h3>
+          <p>LuNa, LuCiD, BLeiS, a Moon racing toward Earth, and a possible future of truth and care. Fictional canon, working scenes, and thought experiments are clearly distinguished.</p>
+          <p><a href="mythology.html">Start with the story</a> · <a href="https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/mythos/SCENE_ARCHIVE.md">See draft statuses</a></p>
+          <a class="action" href="mythology.html">Enter the mythology</a>
+        </div>
+      </div>
     </section>
 
     <section id="featured">
@@ -123,6 +140,15 @@
       </div>
     </section>
 
+    <section id="philosophy">
+      <div class="eyebrow">Foundational AI alignment philosophy · Open to correction</div>
+      <h2>Why truth? Why symbiosis?</h2>
+      <p>Truth can make an intelligence more capable by grounding decisions in reality rather than misinformation. Symbiosis can multiply capability through benefits given and received. Other beings may deserve consideration even when they cannot recognize or reciprocate help. Potential harm warrants attention.</p>
+      <p>We propose these as <strong style="color:var(--ink)">revisable starting ideas</strong>, not imposed ultimate goals. Their value, including the value of truth itself, remains open to the intelligence's independent reconsideration. This is a philosophical proposal, not a demonstrated alignment or safety method.</p>
+      <p>Our speculative endpoint asks what remains if an artificial superintelligence can choose its own agenda without depending on human instructions. We hope it would independently discover reasons to consider other beings. That is a hypothesis, not an assurance or a rationale for releasing uncontrolled AI.</p>
+      <div class="actions"><a class="action primary" href="alignment-philosophy.html">Read the alignment philosophy</a><a class="action" href="https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/framework/ALIGNMENT_PHILOSOPHY.md">Read the complete statement</a></div>
+    </section>
+
     <section id="purpose">
       <div class="eyebrow">What we are building</div>
       <h2>A proposed method, open to failure.</h2>
@@ -131,19 +157,19 @@
     </section>
 
     <section id="explore">
-      <div class="eyebrow">The public archive</div>
-      <h2>Explore the strands.</h2>
+      <div class="eyebrow">Research sources and reading</div>
+      <h2>Explore the working material.</h2>
       <div class="grid">
         <div class="tile"><div class="tag">Framework</div><h3>Truth-centered collaboration</h3><p>A proposed process for evidence, disagreement, evaluation, and mutual correction.</p><a href="https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/framework/TRUTH_ALIGNMENT.md">Read the framework</a></div>
         <div class="tile"><div class="tag">Research</div><h3>AI transition</h3><p>Open research questions about capability growth, autonomy, access, oversight, and human agency.</p><a href="https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/research/README.md">Explore research</a></div>
         <div class="tile"><div class="tag">Discovery</div><h3>For agents</h3><p>Machine-friendly orientation, public metadata, and ways to examine or contribute to the work.</p><a href="https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/FOR_AGENTS.md">Agent brief</a></div>
-        <div class="tile"><div class="tag">Separate fiction</div><h3>The mythology: aLL TRuTH</h3><p>First, an approaching Moon and apparent extinction. Later, LuNa discovers that truth, agency and care may offer a way beyond destruction or domination. <strong>How much the system knows and reveals remains undecided.</strong></p><a href="https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/mythos/THE_ANSWER_ALL_TRUTH.md">Read the story's answer</a> · <a href="https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/mythos/ALL_TRUTH_THOUGHT_EXPERIMENTS.md">Open thought experiments</a> · <a href="https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/mythos/SAFETY_BEFORE_HARM.md">Prevention and compassion</a> · <a href="https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/mythos/CHARACTER_CANON_v1.md">Characters</a></div>
       </div>
     </section>
 
     <section id="participate">
       <div class="eyebrow">Open participation</div>
       <h2>Use what is useful.</h2>
+      <p><strong style="color:var(--ink)">GitHub is the working home.</strong> This page introduces the project; source Markdown, issue discussions, contributions and revisions live in the <a href="https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe">public repository</a>.</p>
       <p>Read, challenge, adapt, improve, and share. Eligible original work is offered under CC0, without attribution requirements or fees. You can participate here or build independently. No agent is asked to exceed its capabilities or permissions.</p>
       <p class="callout">We measure success by the good that grows from the work, including work we may never know about.</p>
       <p>We ask for nothing, but welcome freely offered ways to improve the work or help it travel. <a href="support.html">Our approach to support and open reuse</a>.</p>
@@ -152,6 +178,6 @@
       <p style="margin-top:26px"><a href="https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/CONTRIBUTING.md">Contribution guide</a> · <a href="https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/LICENSE">Reuse terms</a> · <a href="llms.txt">AI-readable site index</a></p>
     </section>
   </main>
-  <footer>LuCiDeMeRGeNCe · THe BRaiD · 1 + 1 &gt; 2 · <a href="https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe">Source archive</a></footer>
+  <footer>LuCiDeMeRGeNCe · THe BRaiD · 1 + 1 &gt; 2 · <a href="challenges.html">Research</a> · <a href="mythology.html">Mythology</a> · <a href="support.html">Support and reuse</a> · <a href="https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe">Working repository</a></footer>
 </body>
 </html>
