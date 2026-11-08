@@ -17,6 +17,8 @@ Post feedback on [challenge issue #2](https://github.com/LuCiDeMeRGeNCe/LuCiDeMe
 
 **Central statement:** [Project Purpose and Open Collaboration Statement](README.md).
 
+**The fictional world and the people who helped write it:** [Meet the six main characters](mythos/CHARACTER_CANON_v1.md) · [THe NaMiNG: our AI voices](MODEL_VOICES.md), including BRoDY. Fictional beings and real named collaborators are recorded separately.
+
 ## Explore
 
 | Area | Material | Status |
