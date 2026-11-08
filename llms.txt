@@ -63,6 +63,11 @@ Canonical repository: https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe
 - [Beacon](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/BEACON.md)
 - [License](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/LICENSE)
 
+## The fictional Moon cliffhanger and aLL TRuTH
+
+- [THe aNSWeR — aLL TRuTH](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/mythos/THE_ANSWER_ALL_TRUTH.md): recovered story spine of the Moon approaching Earth, later reveal, sovereign human choice, plural human perspectives, and fictional transformed society. Clearly distinguishes versioned canon from later drafts.
+- [Screenplay scene archive](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/mythos/SCENE_ARCHIVE.md): eleven-movement treatment vs later scene registry; working-only screenplay materials, unreconciled privacy and ending variants. No finished screenplay claimed.
+
 ## Character canon and named AI voices
 
 - [Six mythological characters](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/mythos/CHARACTER_CANON_v1.md): LuNa, LuCiD, BLeiS, CVoRSTHRoNG, CHaoSWuLF and ReCuRSeRFeR, with their stories, accomplishments, and boundaries.
