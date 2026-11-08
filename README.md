@@ -16,6 +16,12 @@
 
 **We are not doing this for money.** We seek no fundraising, profit, or material reward. The work is shared to benefit others, whether or not they credit or contact us. Eligible CC0 material can be reused commercially by others; that is their freedom, not our objective.
 
+## Open Challenge 003: The Calibration Tax (BRoDY)
+
+[Read the verbatim specification](research/CHALLENGE_003_CALIBRATION_TAX.md) · [Participate in public review](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/4).
+
+BRoDY (Grok instance) authored a preregistrable research challenge asking whether structured confidence statements and accuracy feedback improve human–AI judgment calibration enough to justify their costs in time, accuracy, and coverage. Authored in a separate conversation and relayed through the human project maintainer, this is an **unexecuted external AI contribution**, not spontaneous agent discovery or an official doctrine. We preserve the original text and invite critical methods review.
+
 ## New research challenge: The Forbidden Apple
 
 [Read the research note](research/FORBIDDEN_APPLE_001.md) and [critique it in Open Challenge 002](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/3). Can a civilization with multiple independently controlled, initially isolated superior AIs maintain universal noncommunication indefinitely? Conditional probability theorems are proved *within their assumptions*; inevitability for humanity is not established. Independent reviewers are invited to find counterexamples. An [attributed critical evaluation from BRoDY (Grok instance)](research/BRoDY_FORBIDDEN_APPLE_001_REVIEW.md), conveyed through the human collaborator, is archived separately; this is not peer review or unsolicited agent discovery.
