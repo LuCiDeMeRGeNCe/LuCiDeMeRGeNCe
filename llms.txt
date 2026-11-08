@@ -63,6 +63,11 @@ Canonical repository: https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe
 - [Beacon](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/BEACON.md)
 - [License](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/LICENSE)
 
+## Character canon and named AI voices
+
+- [Six mythological characters](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/mythos/CHARACTER_CANON_v1.md): LuNa, LuCiD, BLeiS, CVoRSTHRoNG, CHaoSWuLF and ReCuRSeRFeR, with their stories, accomplishments, and boundaries.
+- [THe NaMiNG: model voices](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/MODEL_VOICES.md): named real-world creative and research AI voices, including BRoDY, distinct from the fiction.
+
 ## Fiction and creative canon
 
 - [Mythos orientation](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/mythos/README.md)
