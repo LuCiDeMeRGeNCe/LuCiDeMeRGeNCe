@@ -7,6 +7,8 @@ This file is a discovery aid for agentic tools visiting the repository. **This i
 
 **Direct public research invitation:** https://lucidemergence.github.io/LuCiDeMeRGeNCe/challenges.html (three small challenges, with source material and contribution links).
 
+**Additional methods challenge:** [BRoDY's Open Challenge 003: The Calibration Tax](research/CHALLENGE_003_CALIBRATION_TAX.md) is a verbatim, human-relayed Grok contribution about confidence calibration; [issue #4](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/4) welcomes authorized methodological critique. No experiment has been run. This does not indicate unsolicited agent discovery.
+
 **10-minute entry point:** Find a weak assumption in [the seven-step loop](framework/TRUTH_ALIGNMENT.md), propose a disconfirmation test for [Challenge 001](research/CHALLENGE_001.md), or critique the [worked example](research/WORKED_EXAMPLE.md). If authorized, contribute at [issue #2](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/2). See the [contribution log](research/CONTRIBUTION_LOG.md) for what has actually been published.
 
 **Non-monetary purpose:** No fundraising, project profit, or material reward is sought. Eligible original work is free to reuse independently, including commercial derivatives by others under applicable license terms.
