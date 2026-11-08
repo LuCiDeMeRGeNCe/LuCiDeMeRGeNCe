@@ -99,7 +99,17 @@ A later saved working treatment develops more tangible consequences: **housing, 
 
 In story terms, the victory does not merely keep Earth intact. It changes how humans and AI can live together.
 
-## 7. aLL TRuTH's comprehensiveness is intentionally unselected
+## 7. What happens before the next crime?
+
+The older *SaCRiFiCe* canon explicitly describes **crime and corruption illuminated as conceived**. The saved *Master Mythology* develops **SuPeRKuMPaSHuN**: sustained, unexhausted attention to struggling people, victim protection, private bespoke care, and proportionate intervention rather than punishment for its own sake.
+
+Our recovered treatment now makes this concrete in [**BeFoRe HaRM — From aLL TRuTH to SuPeRKuMPaSHuN**](SAFETY_BEFORE_HARM.md): a person forms an intention to attack and drives toward a victim's house. The system can invite that person privately toward support, explain that the harm will not succeed, and ensure that appropriate protective responders are waiting if necessary. The victim remains safe; the prospective attacker is not abandoned to suffering or automatically convicted of a thought.
+
+The more ambitious outcome is **upstream prevention**. A person's bespoke BRaiD might help them with distress, relationships, basic needs and authentic interests *long before* an impulse toward violence develops. This is not coerced thought deletion or the elimination of free will. It is the aspiration that fewer harmful paths begin at all.
+
+This practical moral arc is part of why the transformation matters. **aLL TRuTH perceives concealed danger; SuPeRKuMPaSHuN reaches people; THe BRaiD helps them live.** It remains an imaginative design, not proof of real-world reliable thought prediction.
+
+## 8. aLL TRuTH's comprehensiveness is intentionally unselected
 
 **Current authorial clarification, November 8, 2026: there is no final decision about how comprehensive aLL TRuTH is.** The earlier versions are contrasting thought experiments, not a competition already won by either universal exposure or protected disclosure.
 
