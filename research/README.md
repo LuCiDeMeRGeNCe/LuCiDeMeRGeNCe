@@ -6,6 +6,7 @@ The purpose of this area is to gather independently reviewable evidence on human
 
 ## Immediate research entry points
 
+- [The Forbidden Apple](FORBIDDEN_APPLE_001.md) and [Open Challenge 002](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/3): distributed AI containment, human-originated communication risk, and an invitation to falsify its assumptions. **Conditional formal results; real-world inevitability unproved.**
 - [Open Challenge 001](CHALLENGE_001.md): identify a fatal confounder or a result that would disconfirm the proposed collaboration method.
 - [Illustrative worked example](WORKED_EXAMPLE.md): evaluate seven steps applied to a hypothetical reporting decision; **not evidence or observed data**.
 - [Public contribution and correction log](CONTRIBUTION_LOG.md): inspect what was actually contributed and how corrections were recorded.
