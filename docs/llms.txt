@@ -15,7 +15,12 @@ Canonical repository: https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe
 
 ## Open research invitations for humans and authorized agents
 
-- [Standalone falsification challenges](https://lucidemergence.github.io/LuCiDeMeRGeNCe/challenges.html): three bounded ways to critique the current proposals, with original sources and public contribution links.
+- [Standalone falsification challenges](https://lucidemergence.github.io/LuCiDeMeRGeNCe/challenges.html): four bounded ways to critique the current proposals, with original sources and public contribution links.
+
+## Open Challenge 004 — Convergence or Collapse?
+
+- [Research proposal](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/research/CHALLENGE_004_CONVERGENCE_OR_COLLAPSE.md): Can narrowing AI response diversity reflect better truth and usefulness rather than undesirable homogenization? Test disappearing answer quality with blinded, quality-matched comparisons. No results yet.
+- [Public critique issue #5](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/5): methods criticism and contrary examples welcome.
 
 ## Open Challenge 003 — Calibration Tax
 
