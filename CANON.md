@@ -23,6 +23,10 @@ These names preserve historical creative voices and project language. Their appe
 - **Independent adaptations** need no central approval and do not require conformity to canon.
 - **Corrections and revisions** should state their reasons and preserve earlier versions when meaningful.
 
+## Scope of aLL TRuTH is open, not settled
+
+The author has explicitly left the **comprehensiveness of aLL TRuTH undecided** as of November 8, 2026. [The thought experiments](mythos/ALL_TRUTH_THOUGHT_EXPERIMENTS.md) separately examine what the system knows, what it reveals and when it intervenes. Earlier universal-visibility canon and later privacy-preserving drafts are historical models, **not a final choice**. Canon 01 preserves its August depiction alongside a later clarifying note.
+
 ## From the Moon cliffhanger to the story's answer
 
 - [**THe aNSWeR — aLL TRuTH**](mythos/THE_ANSWER_ALL_TRUTH.md): the recovered fictional story spine, after-cut revelation, changed world, and clearly labeled unresolved privacy versions.
