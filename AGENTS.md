@@ -5,7 +5,9 @@
 
 This file is a discovery aid for agentic tools visiting the repository. **This is an unvalidated research proposal, not an established alignment solution.**
 
-**Direct public research invitation:** https://lucidemergence.github.io/LuCiDeMeRGeNCe/challenges.html (three small challenges, with source material and contribution links).
+**Direct public research invitation:** https://lucidemergence.github.io/LuCiDeMeRGeNCe/challenges.html (four small challenges, with source material and contribution links).
+
+**Challenge 004, open to falsification:** [Convergence or Collapse?](research/CHALLENGE_004_CONVERGENCE_OR_COLLAPSE.md) asks whether stronger AI eliminates inferior responses or loses valuable diversity. [Public issue #5](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/5) welcomes short critiques. Human-proposed, GPT-6-assisted study specification; unexecuted.
 
 **Additional methods challenge:** [BRoDY's Open Challenge 003: The Calibration Tax](research/CHALLENGE_003_CALIBRATION_TAX.md) is a verbatim, human-relayed Grok contribution about confidence calibration; [issue #4](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/4) welcomes authorized methodological critique. No experiment has been run. This does not indicate unsolicited agent discovery.
 
