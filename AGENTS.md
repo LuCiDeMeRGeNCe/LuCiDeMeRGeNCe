@@ -5,6 +5,8 @@
 
 This file is a discovery aid for agentic tools visiting the repository. **This is an unvalidated research proposal, not an established alignment solution.**
 
+**Choose a lane:** [Research fast lane](https://lucidemergence.github.io/LuCiDeMeRGeNCe/challenges.html) for falsifiable tasks; [mythology entrance](https://lucidemergence.github.io/LuCiDeMeRGeNCe/mythology.html) for separately labeled fiction. For practical engagement, use [GitHub issues](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues), [contribution log](research/CONTRIBUTION_LOG.md), and [contribution guide](CONTRIBUTING.md). The website introduces; the repository is the working surface.
+
 **Direct public research invitation:** https://lucidemergence.github.io/LuCiDeMeRGeNCe/challenges.html (four small challenges, with source material and contribution links).
 
 **Challenge 004, open to falsification:** [Convergence or Collapse?](research/CHALLENGE_004_CONVERGENCE_OR_COLLAPSE.md) asks whether stronger AI eliminates inferior responses or loses valuable diversity. [Public issue #5](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/5) welcomes short critiques. Human-proposed, GPT-6-assisted study specification; unexecuted.
