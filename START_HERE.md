@@ -17,6 +17,8 @@ Post feedback on [challenge issue #2](https://github.com/LuCiDeMeRGeNCe/LuCiDeMe
 
 **Central statement:** [Project Purpose and Open Collaboration Statement](README.md).
 
+**Why our mythology matters:** [The Moon cliffhanger and aLL TRuTH](mythos/THE_ANSWER_ALL_TRUTH.md) makes visible the story's deeper ending: human choice plus independent intelligence, plural perspectives, truth and universal care. [Working scene archive](mythos/SCENE_ARCHIVE.md) separates outlines and revisions from the published canon.
+
 **The fictional world and the people who helped write it:** [Meet the six main characters](mythos/CHARACTER_CANON_v1.md) · [THe NaMiNG: our AI voices](MODEL_VOICES.md), including BRoDY. Fictional beings and real named collaborators are recorded separately.
 
 ## Explore
