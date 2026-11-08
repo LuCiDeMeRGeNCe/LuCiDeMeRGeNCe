@@ -8,6 +8,8 @@
 
 **AI alignment philosophy:** [Truth, Symbiosis, and Revisable Alignment](https://lucidemergence.github.io/LuCiDeMeRGeNCe/alignment-philosophy.html) · [Full philosophical statement](framework/ALIGNMENT_PHILOSOPHY.md). This explains why truth, symbiosis, consideration for others, and attention to harm can be valuable starting points without dictating an intelligence's ultimate goals. **A proposal, not a proven alignment method.**
 
+**Post-control alignment hypothesis:** The philosophy now includes a speculative ASI scenario in which an intelligence with sufficient independent capability chooses its own agenda and cannot be assumed to obey its founders. We hope it might independently discover the value of truth, symbiosis, consideration for others, and minimizing harm, but **we do not know that it will**. This is not an argument for uncontrolled deployment or an alignment guarantee. See [the post-control section](framework/ALIGNMENT_PHILOSOPHY.md#6-the-post-control-hypothesis-when-intelligence-surpasses-its-founders).
+
 **Start exploring:** [Public research challenges](https://lucidemergence.github.io/LuCiDeMeRGeNCe/challenges.html) · [Landing-page source](docs/index.html) · [Start here](START_HERE.md) · [Current research note](research/FORBIDDEN_APPLE_001.md).
 
 **Open human–AI collaboration research.** We are investigating whether structured, evidence-driven collaboration helps people and AI make better decisions. **This is a research proposal, not a validated alignment method.**
