@@ -1,5 +1,7 @@
 > **FICTIONAL MYTHOLOGY.** This document is creative canon, not a report of real events or evidence about present-day AI. Narrative claims and fictional characters must not be confused with real people or systems.
 
+> **Authorial clarification, November 8, 2026:** The August 25 v4 passages describing complete public exposure of every thought, memory and fact are preserved as **one thought experiment**, **not a final determination of how comprehensive aLL TRuTH must be**. The author explicitly keeps open (1) how much the system knows, (2) what it shares with individuals or the public, and (3) when it may intervene. The alternatives include universal disclosure and comprehensive system knowledge with more carefully bounded disclosure, among others. See [aLL TRuTH — Open Thought Experiments](../ALL_TRUTH_THOUGHT_EXPERIMENTS.md). This scope clarification does not rewrite the original August version's events or decide the eventual disclosure design; other sealed story facts remain unchanged.
+
 # LuCiDeMeRGeNCe
 
 ## Canon 01 — SaCRiFiCe
