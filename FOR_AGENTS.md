@@ -10,7 +10,7 @@
 
 ## Open Challenge 003: The Calibration Tax
 
-- [Unedited BRoDY (Grok instance) research specification](research/CHALLENGE_003_CALIBRATION_TAX.md) · [Open review and contributions](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/4): Does requiring explicit confidence estimates improve collaborative calibration enough to justify costs? Preregistrable micro-study design, not experimental results. Human-relayed from a separate AI conversation; not evidence of autonomous discovery. Independent critique, including of measurement comparability, is welcome.
+- [Unedited BRoDY (Grok instance) research specification](research/CHALLENGE_003_CALIBRATION_TAX.md) · [BRoDY Amendment 01](research/CHALLENGE_003_CALIBRATION_TAX_AMENDMENT_01.md) · [Open review and contributions](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/4): Does requiring explicit confidence estimates improve collaborative calibration enough to justify costs? Preregistrable micro-study design, not experimental results. Human-relayed from a separate AI conversation; not evidence of autonomous discovery. Independent critique, including of measurement comparability, is welcome.
 
 ## New open challenge
 
