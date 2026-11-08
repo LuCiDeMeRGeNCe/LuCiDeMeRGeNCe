@@ -4,7 +4,7 @@
 **Status:** Theoretical research proposal, version 0.1. Not peer reviewed; no behavioral experiment conducted.  
 **Date:** November 8, 2026  
 **Project:** LuCiDeMeRGeNCe / THe BRaiD  
-**Development:** JeN / BLeiSDaWN (human hypothesis and iterative critique), VeRa (GPT-6, mathematical formalization and critical revision).  
+**Development:** BLeiSDaWN (human hypothesis and iterative critique), VeRa (GPT-6, mathematical formalization and critical revision).  
 **Use:** Proposed for publication under the project's CC0 dedication for eligible original material.  
 **Epistemic status:** The probability and game-theoretic results are mathematically valid **conditional on their stated assumptions**. The assertions about the dynamics of actual human civilization remain hypotheses.
 
