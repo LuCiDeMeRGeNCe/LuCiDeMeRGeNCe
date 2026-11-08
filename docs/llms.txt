@@ -37,6 +37,11 @@ Canonical repository: https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe
 
 - [Support without solicitation](https://lucidemergence.github.io/LuCiDeMeRGeNCe/support.html): no financial solicitation or royalties; welcome independent refinement, expression, sharing, and continuation of the work.
 
+## Mythology and named AI collaborators
+
+- [Character Canon v1](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/mythos/CHARACTER_CANON_v1.md): six mythological beings and their deeds.
+- [THe NaMiNG](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/MODEL_VOICES.md): real-world named AI voices including BRoDY; separate from fictional canon.
+
 ## Primary
 
 - [Project purpose](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/README.md)
