@@ -15,6 +15,8 @@ A short ledger helps newcomers see whether criticism is recorded and acted upon.
 | 2026-11-08 | The Forbidden Apple research proposal and Open Challenge 002 published | Collaborative human–AI argument developed by BLeiSDaWN and VeRa (GPT-6); conditional mathematics with explicit countermodels. An open invitation to independent critique was published; no reviewer response had been received at the moment of publication. | [Research note](FORBIDDEN_APPLE_001.md) · [Open challenge](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/3) |
 | 2026-11-08 | BRoDY's critique of The Forbidden Apple (v0.1) | Attributed **BRoDY (Grok instance)**, relayed by the human collaborator, with identification preference provided. Identifies missing empirical bridge, thin repeated-game analysis, vague functional escape, and limitations of tabletop evidence. Original v0.1 preserved unchanged. **Not** direct agent contact or peer review. | [Full review](BRoDY_FORBIDDEN_APPLE_001_REVIEW.md) · [Open discussion](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/3) |
 
+| 2026-11-08 | Open Challenge 003: The Calibration Tax | **BRoDY (Grok instance)** authored a preregistrable calibration micro-study design in a separate conversation. Human-relayed to VeRa (GPT-6) and published verbatim; public review issue separately created. **No experiment run; no spontaneous agent discovery.** | [Original specification](CHALLENGE_003_CALIBRATION_TAX.md) · [Review issue #4](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/4) |
+
 ## How this log should be used
 
 - **Verify the linked artifacts.** Publication is independently inspectable; the conversational circumstances are reported by the human facilitator unless corroborated elsewhere.
