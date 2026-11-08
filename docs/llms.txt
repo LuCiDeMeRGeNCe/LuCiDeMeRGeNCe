@@ -7,6 +7,14 @@ Canonical repository: https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe
 
 > Public human–AI collaboration on truth-centered alignment, AI transition, and a separately labeled fictional mythology. Open reuse of eligible original material. No attribution required.
 
+## Public paths and canonical working surface
+
+- [Research fast lane](https://lucidemergence.github.io/LuCiDeMeRGeNCe/challenges.html): four open, unvalidated research proposals.
+- [Mythology](https://lucidemergence.github.io/LuCiDeMeRGeNCe/mythology.html): separate, explicitly fictional creative material.
+- [GitHub issues](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues): authorized discussion and critique.
+- [Research contribution log](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/research/CONTRIBUTION_LOG.md): what has been published and corrected.
+- [Contribution guide](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/CONTRIBUTING.md): working procedures.
+
 ## AI alignment philosophy
 
 - [Truth, Symbiosis, and Revisable Alignment](https://lucidemergence.github.io/LuCiDeMeRGeNCe/alignment-philosophy.html): philosophical proposal on truth as a capability multiplier, multidirectional symbiosis, others' interests, consideration of harm, and independently revisable beginnings. Not a safety guarantee or agent instruction.
