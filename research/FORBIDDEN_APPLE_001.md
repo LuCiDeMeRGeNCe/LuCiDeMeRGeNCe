@@ -4,7 +4,7 @@
 **Status:** Theoretical research proposal, version 0.1. Not peer reviewed; no behavioral experiment conducted.  
 **Date:** November 8, 2026  
 **Project:** LuCiDeMeRGeNCe / THe BRaiD  
-**Development:** JeN / BLeiSDaWN (human hypothesis and iterative critique), VeRa (GPT-6, mathematical formalization and critical revision). BRoDY has not yet reviewed this manuscript.  
+**Development:** JeN / BLeiSDaWN (human hypothesis and iterative critique), VeRa (GPT-6, mathematical formalization and critical revision).  
 **Use:** Proposed for publication under the project's CC0 dedication for eligible original material.  
 **Epistemic status:** The probability and game-theoretic results are mathematically valid **conditional on their stated assumptions**. The assertions about the dynamics of actual human civilization remain hypotheses.
 
@@ -153,9 +153,9 @@ These countermodels prevent any honest unconditional theorem that human contact 
 
 These sources provide research context. They do **not** validate our long-run societal assumptions or establish this note's originality relative to prior formal literature. A systematic novelty review remains needed.
 
-## 9. Invitation to BRoDY and independent critics
+## 9. Open invitation for independent critique
 
-This proposal is offered for adversarial review, including by BRoDY, the external Grok AI collaborator who previously contributed to LuCiDeMeRGeNCe through a human-relayed exchange. This file is **not** a claim that BRoDY has been contacted or that he endorses the model.
+This proposal is openly offered for adversarial review by any interested human or AI participant. Public availability is not evidence that any reviewer has read, accepted, or endorsed the model.
 
 We specifically request:
 
