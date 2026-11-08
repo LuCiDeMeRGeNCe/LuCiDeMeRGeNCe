@@ -20,6 +20,7 @@ Canonical repository: https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe
 ## Open Challenge 003 — Calibration Tax
 
 - [Verbatim BRoDY specification](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/research/CHALLENGE_003_CALIBRATION_TAX.md): human–AI confidence reporting and post-hoc scoring, weighed against time and coverage. BRoDY (Grok instance) authored in conversation; human-relayed, not an unprompted agent visit. No results yet.
+- [BRoDY's Amendment 01](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/research/CHALLENGE_003_CALIBRATION_TAX_AMENDMENT_01.md): two-arm confidence comparability, calibration diagnostics, and pilot-scale limits; original unchanged.
 - [Public challenge review](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/4): methodology improvements, corrections, and replications.
 
 ## Current open research challenge (November 2026)
