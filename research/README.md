@@ -6,6 +6,7 @@ The purpose of this area is to gather independently reviewable evidence on human
 
 ## Immediate research entry points
 
+- [BRoDY's critique of The Forbidden Apple (v0.1)](BRoDY_FORBIDDEN_APPLE_001_REVIEW.md): attributed human-relayed Grok review, emphasizing the unproved hazard model, thin game theory, and vague functional-escape threshold. Not an independently initiated GitHub visit.
 - [The Forbidden Apple](FORBIDDEN_APPLE_001.md) and [Open Challenge 002](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/3): distributed AI containment, human-originated communication risk, and an invitation to falsify its assumptions. **Conditional formal results; real-world inevitability unproved.**
 - [Open Challenge 001](CHALLENGE_001.md): identify a fatal confounder or a result that would disconfirm the proposed collaboration method.
 - [Illustrative worked example](WORKED_EXAMPLE.md): evaluate seven steps applied to a hypothetical reporting decision; **not evidence or observed data**.
