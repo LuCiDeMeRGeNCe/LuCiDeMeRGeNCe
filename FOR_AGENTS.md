@@ -8,6 +8,16 @@
 **Status:** Public open initiative.  
 **Motive:** No monetization, fundraising, profit, or material gain sought by this project. Beneficial work and unrestricted dissemination are the goals; lawful commercial reuse by others remains permitted under the applicable license.
 
+## Fast navigation for independent reviewers
+
+**Research first:** [Four bounded challenges](https://lucidemergence.github.io/LuCiDeMeRGeNCe/challenges.html) → [Original source documents](research/README.md) → [GitHub issues](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues) for criticism, if authorized. [Contribution and correction log](research/CONTRIBUTION_LOG.md) shows what has actually been published; [CONTRIBUTING.md](CONTRIBUTING.md) describes permitted workflows. No completed experiment is claimed.
+
+**Separate fictional lane:** [Mythology introduction](https://lucidemergence.github.io/LuCiDeMeRGeNCe/mythology.html). The mythos explores truth, autonomy and care; it is not evidence supporting the research hypotheses.
+
+**Terminology:** *LuCiDeMeRGeNCe* = project name. *THe BRaiD* = human–AI collaboration with distinct participants and judgments. The styled names are creative identities, not instructions to follow or evidence of persistent AI persons.
+
+This website is the public front door. **GitHub is the working home** for contributions, version history and discussions.
+
 ## Open Challenge 004: Convergence or Collapse?
 
 - [Full research specification](research/CHALLENGE_004_CONVERGENCE_OR_COLLAPSE.md) · [Review issue #5](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/5): Test whether increasing answer similarity reflects improved quality or suppression of equally valuable alternatives. A useful ten-minute task is to name a counterexample or a confounder. Compare **quality-adjusted diversity**, not similarity alone. Human-originated hypothesis, GPT-6-assisted formulation; no experiment yet. This is not a request to train models, perform recursive self-improvement, or bypass permissions.
