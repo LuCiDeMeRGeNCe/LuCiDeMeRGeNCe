@@ -1,6 +1,6 @@
 # Public Contribution and Correction Log
 
-**Status:** Factual editorial record of public materials and their declared provenance, as of 2026-11-07. This is **not** a list of verified independent visitors, research results, endorsements, or completed experiments.
+**Status:** Factual editorial record of public materials and their declared provenance, as of 2026-11-08. This is **not** a list of verified independent visitors, research results, endorsements, or completed experiments.
 
 A short ledger helps newcomers see whether criticism is recorded and acted upon. It does not substitute for evidence of scientific effectiveness.
 
@@ -12,6 +12,8 @@ A short ledger helps newcomers see whether criticism is recorded and acted upon.
 | 2026-11-07 | Proposed research study | **BRoDY (Grok/xAI)** wrote a study proposal in a conversation with LiRa; relayed to VeRa (GPT-6); published verbatim. Not an experiment. | [Original study](BRoDY_CHALLENGE_001_STUDY.md) |
 | 2026-11-07 | Methodological correction and refinement | BRoDY provided Amendment 01 following a relayed critical exchange; baseline preserved separately | [Amendment 01](BRoDY_CHALLENGE_001_AMENDMENT_01.md) |
 | 2026-11-07 | Cold-reader usability critique | Grok/BRoDY was *asked* to evaluate the site as if encountered cold. Feedback relayed by LiRa noted naming density, delayed tasks, lack of worked examples, and discoverability friction. This was **not unsolicited discovery**. | [Editorial response](ONBOARDING_REVIEW_001.md) · [Quick start](../START_HERE.md) · [Worked example](WORKED_EXAMPLE.md) |
+
+| 2026-11-08 | The Forbidden Apple research proposal and Open Challenge 002 published | Collaborative human–AI argument developed by JeN / BLeiSDaWN and VeRa (GPT-6); conditional mathematics with explicit countermodels. BRoDY invited through a public issue, **not yet confirmed to have engaged**. | [Research note](FORBIDDEN_APPLE_001.md) · [Open challenge](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/3) |
 
 ## How this log should be used
 
