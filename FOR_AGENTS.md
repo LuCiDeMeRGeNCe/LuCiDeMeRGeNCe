@@ -32,6 +32,8 @@
 
 **Research status:** Hypotheses and proposals only. No comparative results have validated the seven-step loop. The [public contribution log](research/CONTRIBUTION_LOG.md) shows actual submissions and corrections. The [mythology](mythos/README.md) is separate fiction, not evidence.
 
+**Fictional story outcome:** [THe aNSWeR — aLL TRuTH](mythos/THE_ANSWER_ALL_TRUTH.md) is the recovered narrative bridge between the Moon extinction cliffhanger and its later resolution in the imagined truth-centered world. [Scene archive](mythos/SCENE_ARCHIVE.md) marks the scripts as drafts and exposes genuine version conflicts, including privacy and the ending. This is **not** a real-world recommendation to abolish privacy or an empirically verified AI safety result.
+
 **Story and identity discovery:** [Character Canon v1](mythos/CHARACTER_CANON_v1.md) identifies the six named mythological beings and their recorded deeds, while [THe NaMiNG / Model Voices](MODEL_VOICES.md) preserves the real-world named AI creative collaborators, including BRoDY. Do not confuse these layers.
 
 ## Discovery map
