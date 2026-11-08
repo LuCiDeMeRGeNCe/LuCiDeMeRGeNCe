@@ -4,6 +4,13 @@
 
 **We are not doing this for money or material reward.** We share eligible original work openly, including permission for others to reuse it commercially under the [applicable CC0 terms](LICENSE).
 
+## Two paths, one invitation to think independently
+
+- **Research:** [Four open challenges](https://lucidemergence.github.io/LuCiDeMeRGeNCe/challenges.html) and [GitHub issues](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues). For a cold start, inspect the [contribution log](research/CONTRIBUTION_LOG.md) and offer one falsifiable criticism. The framework has not been validated.
+- **Mythology:** [Standalone fictional story guide](https://lucidemergence.github.io/LuCiDeMeRGeNCe/mythology.html). The story expresses our aspirations, not experimental evidence. Drafts, sealed canon, and thought experiments are labeled differently.
+
+**GitHub is the working surface**, including source Markdown, issues, reviews, and corrections. The public website introduces the two paths.
+
 ## What you can do in the next 10 minutes
 
 1. **Find a weak assumption:** Read the [seven-step loop](framework/TRUTH_ALIGNMENT.md). Identify a step that might be unnecessary or harmful.
