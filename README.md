@@ -18,7 +18,7 @@
 
 ## Open Challenge 004: Convergence or Collapse?
 
-[Read the full study proposal](research/CHALLENGE_004_CONVERGENCE_OR_COLLAPSE.md) · [Critique it in public issue #5](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/5).
+[Read the baseline proposal](research/CHALLENGE_004_CONVERGENCE_OR_COLLAPSE.md) · [BRoDY's attributed assessment](research/BRoDY_CHALLENGE_004_REVIEW.md) · [Amendment 01: stronger methodology](research/CHALLENGE_004_AMENDMENT_01.md) · [Public challenge issue #5](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/5).
 
 Does greater model capability reduce answer diversity because inferior alternatives are discarded, or because independently useful ideas are being suppressed? Challenge 004 proposes to evaluate the **quality of answers that disappear** using blind, quality-matched comparisons across factual and genuinely open-ended tasks. Both truth-driven convergence and harmful homogenization remain open hypotheses. **No study has been run.** Origin: BLeiSDaWN's human hypothesis, with GPT-6-assisted research framing.
 
