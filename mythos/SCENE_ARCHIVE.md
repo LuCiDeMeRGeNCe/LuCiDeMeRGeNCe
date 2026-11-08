@@ -77,7 +77,7 @@ The saved screenplay excerpts include an explicitly labeled **“LATER SEQUENCE 
 
 | Question | Existing public version | Later saved working version | Status |
 | --- | --- | --- | --- |
-| **Who learns every private thought?** | Canon 01 says every conscious being receives all thoughts and memories immediately. | Sept. 4 screenplay master says full factual knowledge with **bounded, authorized disclosure**, protecting private information. | **CONFLICT — requires explicit new canon revision.** |
+| **How comprehensive is aLL TRuTH?** | August Canon 01 imagines universal receipt of every private thought. | Sept. 4 treatment imagines comprehensive system knowledge but **bounded disclosure**. Additional knowledge-limited designs are open for exploration. | **OPEN DESIGN SPACE — author explicitly leaves system knowledge, public disclosure and intervention undecided; neither historical model wins automatically.** |
 | **How does aLL TRuTH receive human authorization?** | LuNa freely chooses; LuCiD then acts. No definitive 800-vote passage in published Canon 01. | The 800 auRaLaN conduct an explicitly pressured timing vote, with a 693/107 formulation in the Sept. 4 working master and a different arithmetic presentation in some older notes. | **WORKING, ethically and chronologically unsettled.** |
 | **Where do we see the answer?** | Canon supplies in-world chronology but not cinematic reveal order. | Sept. 4 master proposes Scene 11 or a short separate coda; later screenplay calls the placement unassigned. | **OPEN screenplay decision.** |
 | **What becomes of human BLeiS?** | Published Canon 03 explicitly states final human death, no conscious survival, and an unidentified Moon presence. | Sept. 23 scene registry contains a later Moon/Heart-return revival direction. | **DIRECT CONFLICT — not reconciled; do not publicize both as one governing ending.** |
@@ -90,7 +90,8 @@ The saved screenplay excerpts include an explicitly labeled **“LATER SEQUENCE 
 - **RECOVERED STORY SPINE:** [THe aNSWeR — aLL TRuTH](THE_ANSWER_ALL_TRUTH.md), a non-governing bridge between existing events and purpose.
 - **DRAFTABLE / WORKING:** Approved core of Scenes 01–03, source screenplay pages, later scene briefs.
 - **CANDIDATE / UNNUMBERED:** Material whose placement and final form are still being developed.
-- **CONFLICT / DECISION NEEDED:** Contradictory private-revelation rules and alternate BLeiS ending.
+- **OPEN THOUGHT EXPERIMENTS:** Total public revelation, comprehensive system knowledge with bounded disclosure, and alternative knowledge architectures. See [aLL TRuTH — Open Thought Experiments](ALL_TRUTH_THOUGHT_EXPERIMENTS.md). The author has not selected a final comprehensive truth model.
+- **CONFLICT / DECISION NEEDED:** Alternate BLeiS ending and any unreconciled screenplay chronology. The privacy descriptions are **different historical models under deliberate exploration**, not an editorial tie we may decide implicitly.
 - **PROTECTED MYSTERY:** A purposeful question left unanswered by the creative author; not equivalent to a missing draft.
 
 **Archive policy:** Preserve the originals privately. Publish summaries, indexes and selected creative material **with explicit statuses and authorial provenance**. Do not paste entire old drafts, sensitive human life histories, third-party material or superseded claims onto the site without a deliberate editorial pass.
