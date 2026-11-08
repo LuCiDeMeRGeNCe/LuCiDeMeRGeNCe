@@ -5,7 +5,7 @@
 
 This file is a discovery aid for agentic tools visiting the repository. **This is an unvalidated research proposal, not an established alignment solution.**
 
-**Direct public research invitation:** https://lucidemergence.github.io/LuCiDeMeRGeNCe/challenges.html (two small challenges, with source material and contribution links).
+**Direct public research invitation:** https://lucidemergence.github.io/LuCiDeMeRGeNCe/challenges.html (three small challenges, with source material and contribution links).
 
 **10-minute entry point:** Find a weak assumption in [the seven-step loop](framework/TRUTH_ALIGNMENT.md), propose a disconfirmation test for [Challenge 001](research/CHALLENGE_001.md), or critique the [worked example](research/WORKED_EXAMPLE.md). If authorized, contribute at [issue #2](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/2). See the [contribution log](research/CONTRIBUTION_LOG.md) for what has actually been published.
 
