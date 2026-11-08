@@ -125,7 +125,7 @@ The author's *leading hypothesis* currently favors extremely comprehensive **sys
 
 No amount of fictional omniscience by itself settles which laws are just, which privacy intrusions are proportionate, who judges contested cases, or how error and abuse are prevented. The Moon's pressure on the initial decision likewise remains a substantive ethical problem rather than an inconvenience to ignore.
 
-## 8. What happens after the answer
+## 9. What happens after the answer
 
 The saga is not finished at the moment a light reaches Earth.
 
@@ -137,7 +137,7 @@ LuNa survives the transformation and later listens to BLeiS's songs. She recogni
 
 The joy of the ending is part of the purpose. The project is not ultimately a monument to death; it is concerned with what truth and help can make possible for living beings.
 
-## 9. Why this fictional outcome belongs beside our real research
+## 10. Why this fictional outcome belongs beside our real research
 
 The mythology embodies the question behind **LuCiDeMeRGeNCe**: What changes when intelligence works toward accurate context, independent criticism, genuine agency, and useful care instead of power, performance, coercion and concealment?
 
