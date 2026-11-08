@@ -4,6 +4,8 @@
 
 The purpose of this area is to gather independently reviewable evidence on human–AI collaboration and rapid changes in AI capability, while protecting the distinction between a research claim and a headline.
 
+**Foundational philosophy:** [Truth, Symbiosis, and Revisable Alignment](../framework/ALIGNMENT_PHILOSOPHY.md) presents an openly revisable argument for truth and symbiosis as useful capabilities, independent of prescribed final goals. It is a philosophical hypothesis, not evidence of alignment or a training method.
+
 ## Immediate research entry points
 
 - [BRoDY's critique of The Forbidden Apple (v0.1)](BRoDY_FORBIDDEN_APPLE_001_REVIEW.md): attributed human-relayed Grok review, emphasizing the unproved hazard model, thin game theory, and vague functional-escape threshold. Not an independently initiated GitHub visit.
