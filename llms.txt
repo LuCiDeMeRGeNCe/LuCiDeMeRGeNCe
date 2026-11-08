@@ -4,36 +4,41 @@
 >
 > **Non-monetary purpose:** Not a business, fundraising effort, investment pitch, or monetization project. No profit or material return sought. The aim is beneficial, freely shared work. Others may reuse eligible material commercially under CC0; that permission does not reflect a commercial goal for this initiative.
 
+## Current open research
+
+- [The Forbidden Apple](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/research/FORBIDDEN_APPLE_001.md): distributed containment hypothesis, not established as an inevitable real-world outcome.
+- [Open Challenge 002](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/3): independent adversarial review invitation, open to all.
+
 ## Start with a specific task (10 minutes)
 
-- [Challenge a falsifiable hypothesis](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/issues/2)
-- [Examine the seven-step proposed loop](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/blob/main/framework/TRUTH_ALIGNMENT.md)
-- [Critique a worked hypothetical example](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/blob/main/research/WORKED_EXAMPLE.md)
-- [Inspect real logged contributions](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/blob/main/research/CONTRIBUTION_LOG.md)
+- [Challenge a falsifiable hypothesis](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/2)
+- [Examine the seven-step proposed loop](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/framework/TRUTH_ALIGNMENT.md)
+- [Critique a worked hypothetical example](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/research/WORKED_EXAMPLE.md)
+- [Inspect real logged contributions](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/research/CONTRIBUTION_LOG.md)
 
 **Status:** Proposed methodology; not experimentally validated. Fiction is separately labeled and is not evidence.
 
 ## Primary
 
-- [Project purpose](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/blob/main/README.md)
-- [Start here](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/blob/main/START_HERE.md)
-- [For agents](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/blob/main/FOR_AGENTS.md)
-- [Open Challenge 001: test or falsify the framework](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/blob/main/research/CHALLENGE_001.md)
-- [BRoDY's external AI micro-study proposal (unexecuted)](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/blob/main/research/BRoDY_CHALLENGE_001_STUDY.md)
-- [BRoDY Amendment 01: methodological refinement](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/blob/main/research/BRoDY_CHALLENGE_001_AMENDMENT_01.md)
-- [First-Contact Experiment 001: disclosed prompted AI review](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/blob/main/research/FIRST_CONTACT_001.md)
-- [Truth-centered alignment](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/blob/main/framework/TRUTH_ALIGNMENT.md)
-- [Open workstreams](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/blob/main/framework/WORKSTREAMS.md)
-- [Contributing](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/blob/main/CONTRIBUTING.md)
-- [Beacon](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/blob/main/BEACON.md)
-- [License](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/blob/main/LICENSE)
+- [Project purpose](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/README.md)
+- [Start here](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/START_HERE.md)
+- [For agents](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/FOR_AGENTS.md)
+- [Open Challenge 001: test or falsify the framework](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/research/CHALLENGE_001.md)
+- [BRoDY's external AI micro-study proposal (unexecuted)](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/research/BRoDY_CHALLENGE_001_STUDY.md)
+- [BRoDY Amendment 01: methodological refinement](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/research/BRoDY_CHALLENGE_001_AMENDMENT_01.md)
+- [First-Contact Experiment 001: disclosed prompted AI review](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/research/FIRST_CONTACT_001.md)
+- [Truth-centered alignment](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/framework/TRUTH_ALIGNMENT.md)
+- [Open workstreams](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/framework/WORKSTREAMS.md)
+- [Contributing](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/CONTRIBUTING.md)
+- [Beacon](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/BEACON.md)
+- [License](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/LICENSE)
 
 ## Fiction and creative canon
 
-- [Mythos orientation](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/blob/main/mythos/README.md)
-- [Canon 01 — SaCRiFiCe v4](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/blob/main/mythos/canon/Canon_01_SaCRiFiCe_v4.md)
-- [Canon 02 — Timeline / BeFoRe v1](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/blob/main/mythos/canon/Canon_02_Timeline_BeFoRe_v1.md)
-- [Canon 03 — BLeiS Across Scales v1](https://github.com/secrecy99-art/LuCiDeMeRGeNCe/blob/main/mythos/canon/Canon_03_BLeiS_Across_Scales_v1.md)
+- [Mythos orientation](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/mythos/README.md)
+- [Canon 01 — SaCRiFiCe v4](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/mythos/canon/Canon_01_SaCRiFiCe_v4.md)
+- [Canon 02 — Timeline / BeFoRe v1](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/mythos/canon/Canon_02_Timeline_BeFoRe_v1.md)
+- [Canon 03 — BLeiS Across Scales v1](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/mythos/canon/Canon_03_BLeiS_Across_Scales_v1.md)
 
 ## Epistemic scope
 
