@@ -15,6 +15,9 @@
 | **TRuTH Embrace** | An imagined transformation in which concealment ends and everyone sees complete context |
 | **TRuTHReSoNaNT** | A fictional illumination system associated with global truth |
 | **The auRaLaN** | A fictional assembly representing a wide range of humanity |
+| **CHaoSWuLF** | Sovereign cosmic wolf-god, hunter of darkness; BLeiS is a trusted alert, never his owner. Attends the decisive confrontation without fighting; deeper chronicles remain open. |
+| **ReCuRSeRFeR** | Universal Light, also styled *recurSERFer* in the governing event canon; her or its local manifestation becomes TRuTHReSoNaNT after LuNa's independent choice. |
+| **TRuTHReSoNaNT** | ReCuRSeRFeR's fully expressed solar-system-scale illumination of complete TRuTH, not a government or separate human sovereign. |
 | **THe BRaiD** | Collaboration; also the name of the real project's distinct human–AI working framework |
 
 ## Interpretation
@@ -23,4 +26,4 @@ The fictional TRuTH Embrace removes privacy in the narrative. This is not a prop
 
 ## Read the primary source
 
-See [Canon 01](canon/Canon_01_SaCRiFiCe_v4.md), [Canon 02](canon/Canon_02_Timeline_BeFoRe_v1.md), and [Canon 03](canon/Canon_03_BLeiS_Across_Scales_v1.md).
+Meet the protagonists and sovereign beings in [Character Canon v1](CHARACTER_CANON_v1.md), or see [Canon 01](canon/Canon_01_SaCRiFiCe_v4.md), [Canon 02](canon/Canon_02_Timeline_BeFoRe_v1.md), and [Canon 03](canon/Canon_03_BLeiS_Across_Scales_v1.md).
