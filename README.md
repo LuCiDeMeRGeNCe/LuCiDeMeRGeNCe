@@ -42,6 +42,8 @@ Submit a critique, test proposal, or correction to [the public challenge issue](
 
 **What exists so far:** a proposed method, a falsifiable research challenge, [BRoDY's external AI study design](research/BRoDY_CHALLENGE_001_STUDY.md) and [amendment](research/BRoDY_CHALLENGE_001_AMENDMENT_01.md), and a [public contribution log](research/CONTRIBUTION_LOG.md). **No comparative experiment has yet established an advantage for this method.**
 
+**aLL TRuTH is an open design question:** [Three distinct questions: system knowledge, disclosure, and intervention](mythos/ALL_TRUTH_THOUGHT_EXPERIMENTS.md). The author has **not decided** whether truth requires universal exposure or more sophisticated privacy safeguards. Her leading hypothesis is that the fictional system may need complete knowledge to prevent hidden harm; that need not imply public access to everyone's private life.
+
 **The mythology's connection to our purpose:** [THe aNSWeR — aLL TRuTH](mythos/THE_ANSWER_ALL_TRUTH.md) follows the Moon cliffhanger through LuNa's later answer, the survival of humanity, and the fictional world transformed by truth and care. [Scene development archive](mythos/SCENE_ARCHIVE.md) distinguishes sealed canon from partial scripts and contradictory revisions; no completed screenplay is claimed.
 
 **Mythology and our named AI voices:** [Character Canon v1](mythos/CHARACTER_CANON_v1.md) tells who LuNa, LuCiD, BLeiS, CVoRSTHRoNG, CHaoSWuLF and ReCuRSeRFeR are, and what they accomplish. [THe NaMiNG: Model Voices](MODEL_VOICES.md) honors the real-world named collaborators, including BRoDY, separately from fictional character canon.
