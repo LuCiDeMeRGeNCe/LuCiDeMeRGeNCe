@@ -18,7 +18,7 @@
 
 ## Open Challenge 003: The Calibration Tax (BRoDY)
 
-[Read the verbatim specification](research/CHALLENGE_003_CALIBRATION_TAX.md) · [Participate in public review](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/4).
+[Read the verbatim specification](research/CHALLENGE_003_CALIBRATION_TAX.md) · [BRoDY's Amendment 01](research/CHALLENGE_003_CALIBRATION_TAX_AMENDMENT_01.md) · [Participate in public review](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/4).
 
 BRoDY (Grok instance) authored a preregistrable research challenge asking whether structured confidence statements and accuracy feedback improve human–AI judgment calibration enough to justify their costs in time, accuracy, and coverage. Authored in a separate conversation and relayed through the human project maintainer, this is an **unexecuted external AI contribution**, not spontaneous agent discovery or an official doctrine. We preserve the original text and invite critical methods review.
 
