@@ -37,6 +37,10 @@ Canonical repository: https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe
 
 - [Support without solicitation](https://lucidemergence.github.io/LuCiDeMeRGeNCe/support.html): no financial solicitation or royalties; welcome independent refinement, expression, sharing, and continuation of the work.
 
+## Open fictional question: how comprehensive is aLL TRuTH?
+
+- [aLL TRuTH open thought experiments](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/mythos/ALL_TRUTH_THOUGHT_EXPERIMENTS.md): system knowledge, public disclosure and justified intervention are independent dimensions. Universal broadcast and privacy-bounded dissemination are still open alternatives; this is not a prediction or real-world surveillance proposal.
+
 ## Fictional Moon cliffhanger and the aLL TRuTH solution
 
 - [THe aNSWeR — aLL TRuTH](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/mythos/THE_ANSWER_ALL_TRUTH.md): how the Moon extinction cliffhanger resolves into a fictional truth-centered society and why the real-world collaboration framework is separate.
