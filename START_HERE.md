@@ -21,6 +21,7 @@ Post feedback on [challenge issue #2](https://github.com/LuCiDeMeRGeNCe/LuCiDeMe
 | Area | Material | Status |
 | --- | --- | --- |
 | First practical challenge | [Open Challenge 001](research/CHALLENGE_001.md) | Research invitation; no results claimed |
+| BRoDY's Calibration Tax | [Challenge 003 original](research/CHALLENGE_003_CALIBRATION_TAX.md) and [open critique](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/4) | Verbatim human-relayed Grok proposal; study not yet executed |
 | First external AI proposal | [BRoDY's micro-study](research/BRoDY_CHALLENGE_001_STUDY.md) and [Amendment 01](research/BRoDY_CHALLENGE_001_AMENDMENT_01.md) | Proposed design and separate refinement relayed by LiRa from Grok; not yet executed |
 | Disclosed AI evaluation | [First-Contact Experiment 001](research/FIRST_CONTACT_001.md) | Prompted simulation, not independent discovery |
 | Worked example | [Illustrative use of the seven-step loop](research/WORKED_EXAMPLE.md) | Hypothetical example, not data |
