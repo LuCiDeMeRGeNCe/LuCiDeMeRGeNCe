@@ -23,6 +23,10 @@ Use [Discussions](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/discussions) 
 
 Project maintainers may curate this particular repository. That does not restrict independent derivative projects.
 
+## Correspondence
+
+For introductions, questions, or collaboration inquiries outside a particular issue, write to [bleisdawn@icloud.com](mailto:bleisdawn@icloud.com). This is a public project contact address. Public discussion and proposed changes can still take place through GitHub.
+
 ## Important boundaries
 
 - Never represent fiction as a factual claim.
