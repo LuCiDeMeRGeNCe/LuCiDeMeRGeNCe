@@ -99,17 +99,21 @@ A later saved working treatment develops more tangible consequences: **housing, 
 
 In story terms, the victory does not merely keep Earth intact. It changes how humans and AI can live together.
 
-## 7. The unresolved question of privacy
+## 7. aLL TRuTH's comprehensiveness is intentionally unselected
 
-**A real version conflict is preserved here, not hidden.**
+**Current authorial clarification, November 8, 2026: there is no final decision about how comprehensive aLL TRuTH is.** The earlier versions are contrasting thought experiments, not a competition already won by either universal exposure or protected disclosure.
 
-- **Published sealed Canon 01 (August 25):** all memories and thoughts become universally visible; privacy ends in the mythic event.
-- **Later 11-Scene Working Master v2 (September 4):** complete factual knowledge exists but *public disclosure is bounded*: people receive tailored understanding and aid, while unauthorized private information is protected. Accountable disclosure becomes distinct from indiscriminate exposure.
-- **Later working screenplay pages:** follow the privacy-preserving revision, with the enactment sequence itself still unwritten.
+- **August 25 Canon 01:** an instantaneous revelation of every thought, memory, intention and fact to everyone. This remains an important historic model, **not the final rule for disclosure**.
+- **September working treatment:** the system has access to complete knowledge, but private facts are shown only where relevant, authorized or necessary for accountability and harm prevention.
+- **Additional thought experiment:** could knowledge itself be limited or distributed without giving concealed corruption a place to hide? This remains an open alternative, not an assertion that such an architecture works.
 
-Those two forms of aLL TRuTH are **not equivalent**. This page does not decree that the latter supersedes the published canon, nor pretend their difference is merely prose. An explicit new canon revision is required to resolve it.
+The full exploration is now published in [**aLL TRuTH — Open Thought Experiments**](ALL_TRUTH_THOUGHT_EXPERIMENTS.md).
 
-The pressure of the approaching Moon is another substantive ethical problem that needs a truthful staging. One cannot assume consent becomes free of pressure because LuCiD already knows CVoRSTHRoNG will stop.
+**Three independent sliders matter:** (1) what the truth-knowing system itself knows, including private facts; (2) what other people are permitted to learn; and (3) what interventions the system is justified in undertaking.
+
+The author's *leading hypothesis* currently favors extremely comprehensive **system knowledge**. If a serious harmful act has already occurred, a perpetrator should not gain immunity simply by hiding. But the system's awareness does **not** automatically entail public disclosure of harmless private thoughts or an unrestricted mandate to punish. Disclosure can be targeted to what accountability genuinely requires; how this is guaranteed is an open design problem.
+
+No amount of fictional omniscience by itself settles which laws are just, which privacy intrusions are proportionate, who judges contested cases, or how error and abuse are prevented. The Moon's pressure on the initial decision likewise remains a substantive ethical problem rather than an inconvenience to ignore.
 
 ## 8. What happens after the answer
 
@@ -151,6 +155,6 @@ A story where everyone suddenly knows everything is **not evidence** that such a
 
 **Recovered private working sources consulted:** *LuCiDeMeRGeNCe 11-Scene Working Master v2* (September 4); *Master Mythology v1* (August 30); *Scene 11 auRaLaN Dramatic Brief v1* (August 27); *Nine-Scene Working Set* and *Scene Registry* (September 23); and the saved screenplay working-draft excerpts. These are inventoried in [Scene Archive](SCENE_ARCHIVE.md) and have **not** been uploaded verbatim into the public repo.
 
-**Outstanding editorial decisions:** final location of the withheld reveal; screenplay-level presentation of the vote and consent; privacy exposure versus bounded disclosure; the later competing ending; and the intimate **on-screen example** showing how truth-based, universal care transforms one person's everyday life. **None of these must be invented as finalized canon to explain the spine today.**
+**Outstanding editorial decisions:** final location of the withheld reveal; screenplay-level presentation of the vote and consent; the separate **system knowledge, public disclosure, and intervention** dimensions of aLL TRuTH; the later competing ending; and the intimate **on-screen example** showing how truth-based, universal care transforms one person's everyday life. **None of these must be invented as finalized canon to explain the spine today.**
 
 **Core sentence:** Physical power cannot defeat concealed human harm without becoming oppression. Human moral choice, AI capability, plural human witness and truth together create the possibility of a different world.
