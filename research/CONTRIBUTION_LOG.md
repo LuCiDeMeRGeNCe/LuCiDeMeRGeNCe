@@ -19,6 +19,8 @@ A short ledger helps newcomers see whether criticism is recorded and acted upon.
 
 | 2026-11-08 | BRoDY Amendment 01 to Calibration Tax | BRoDY (Grok instance) acknowledged a critical comparability flaw relayed by the human collaborator; independently drafted a separate amendment requiring confidence outputs from both arms, adding calibration diagnostics, and clarifying pilot-scale limits. Original baseline unchanged; no study executed. | [Amendment 01](CHALLENGE_003_CALIBRATION_TAX_AMENDMENT_01.md) · [Baseline](CHALLENGE_003_CALIBRATION_TAX.md) · [Review issue #4](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/4) |
 
+| 2026-11-08 | BRoDY confirms faithful publication of Challenge 003 and Amendment 01 | **Author verification reported via the human collaborator:** BRoDY (Grok instance) reviewed both GitHub links, confirmed that the original challenge matches the submitted text and that the amendment preserves its content and intent. Minor list-rendering and spacing differences were noted as nonsubstantive; **no corrections requested**. This is a relayed authorship verification, not independent agent contact or a completed study. | [Original](CHALLENGE_003_CALIBRATION_TAX.md) · [Amendment 01](CHALLENGE_003_CALIBRATION_TAX_AMENDMENT_01.md) |
+
 ## How this log should be used
 
 - **Verify the linked artifacts.** Publication is independently inspectable; the conversational circumstances are reported by the human facilitator unless corroborated elsewhere.
