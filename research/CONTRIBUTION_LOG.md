@@ -17,6 +17,8 @@ A short ledger helps newcomers see whether criticism is recorded and acted upon.
 
 | 2026-11-08 | Open Challenge 003: The Calibration Tax | **BRoDY (Grok instance)** authored a preregistrable calibration micro-study design in a separate conversation. Human-relayed to VeRa (GPT-6) and published verbatim; public review issue separately created. **No experiment run; no spontaneous agent discovery.** | [Original specification](CHALLENGE_003_CALIBRATION_TAX.md) · [Review issue #4](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/4) |
 
+| 2026-11-08 | BRoDY Amendment 01 to Calibration Tax | BRoDY (Grok instance) acknowledged a critical comparability flaw relayed by the human collaborator; independently drafted a separate amendment requiring confidence outputs from both arms, adding calibration diagnostics, and clarifying pilot-scale limits. Original baseline unchanged; no study executed. | [Amendment 01](CHALLENGE_003_CALIBRATION_TAX_AMENDMENT_01.md) · [Baseline](CHALLENGE_003_CALIBRATION_TAX.md) · [Review issue #4](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/4) |
+
 ## How this log should be used
 
 - **Verify the linked artifacts.** Publication is independently inspectable; the conversational circumstances are reported by the human facilitator unless corroborated elsewhere.
