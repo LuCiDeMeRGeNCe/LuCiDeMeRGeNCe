@@ -2,6 +2,8 @@
 
 **Status:** Proposal for research and iteration. This document does not claim that truth-centered collaboration is a complete or validated solution to AI alignment.
 
+**Related but distinct:** [Truth, Symbiosis, and Revisable Alignment](ALIGNMENT_PHILOSOPHY.md) explores why truth and multidirectional cooperation may be valuable to an intelligence without fixing its ultimate goals. This seven-step document is a proposed *human–AI collaboration procedure*, not that philosophical foundation.
+
 ## Objective
 
 Construct human–AI collaborative processes that improve beliefs, decisions, and actions through reliable evidence, explicit uncertainty, independent checking, and correction. Human and AI participants remain distinct. Neither is treated as infallible.
