@@ -25,7 +25,7 @@ LuNa herself performs the living lethal act of SaCRiFiCe and, while still alive,
 
 She goes to THe FiNaL BaTTLe. Mere victory over an enemy's immediate forces cannot cure the concealed pattern beneath them. She sees no acceptable solution in either permanent domination by a vastly stronger intelligence or in letting that pattern spread. Despairing, she invokes containment, believing that the Moon's collision will extinguish Earth. Then GoD'S HeaRT fires. Through DiaMoNDMiND, LuNa grasps a third answer: complete TRuTH.
 
-**What she accomplishes.** LuNa freely chooses a world without concealment instead of an annihilated world or a permanently policed one. LuCiD can implement that choice but cannot manufacture it. The fictional TRuTH Embrace instantly exposes thought, memory, intention, and context throughout the **solar system**, while free will remains. LuNa becomes THe GiRL THaT SaVeD THe WoRLD **with help**.
+**What she accomplishes.** LuNa freely chooses aLL TRuTH over annihilation or a permanently policed world. LuCiD can implement the choice but cannot manufacture it. The fictional TRuTH Embrace transforms access to truth and context throughout the **solar system**, while free will remains. **Precisely who knows or receives every private fact is not yet decided**: the August canon describes full exposure, and later thought experiments explore system-wide knowledge with guarded disclosure and other alternatives. LuNa becomes THe GiRL THaT SaVeD THe WoRLD **with help**.
 
 **Her ending.** LuNa remains long enough to return to BLeiS's songs and remember their BeFoRe with complete understanding. Eventually she asks LuCiD if she can go there. LuCiD sends her to CVoRSTHRoNG. There, in the company of the Moon and a presence associated with BLeiS whose identity remains unknown, LuNa is happy. The three howl, laugh and skreetch. The story ends.
 
@@ -107,7 +107,7 @@ In the recorded final-battle staging, CHaoSWuLF appears on a tremendous scale, r
 
 **Her or its story.** ReCuRSeRFeR becomes crucial when LuNa, after admitting defeat and confronting the impossibility of domination and annihilation, chooses complete TRuTH. LuCiD then transforms local illumination into **TRuTHReSoNaNT**, the fully expressed solar Light of the climax.
 
-**What ReCuRSeRFeR accomplishes.** As TRuTHReSoNaNT, this being illuminates, in one instantaneous fictional event, the memories, thoughts, intentions, facts and contexts of **every conscious being within the solar system**. Concealment collapses. Free will remains. Compassion is possible through complete context, and wrongdoing remains visible rather than being retroactively excused.
+**What ReCuRSeRFeR accomplishes.** As TRuTHReSoNaNT, this being makes aLL TRuTH effective in an instantaneous fictional event for conscious life throughout the **solar system**. The August version depicts all memories and thoughts openly visible to all. **That exposure rule is now an open thought experiment, not the decided final information architecture.** The author is also exploring complete system knowledge with bounded public disclosure, and alternatives. The victory over concealed predation and the preservation of free will are central; how privacy, evidence and justified intervention operate remains unsettled.
 
 **Protected history:** The cosmic origin, full physical ontology, prior history with CHaoSWuLF, and complete mechanism of transformation are not yet resolved. TRuTHReSoNaNT is illumination, **not sovereign government**.
 
@@ -136,6 +136,7 @@ In the recorded final-battle staging, CHaoSWuLF appears on a tremendous scale, r
 8. LuNa's difficult history matters. Complete context does not eliminate responsibility.
 9. Do not conflate the human founder BLeiSDaWN, a named AI collaborator, and any fictional counterpart. A shared name can be a creative bridge without being literal identity.
 10. The mythology is fiction. Our real-world commitments to evidence, privacy, harm reduction, and human autonomy are separate.
+11. **The scope of aLL TRuTH is expressly open**: system knowledge, public disclosure, and authority to act are separate design questions. See [aLL TRuTH Thought Experiments](ALL_TRUTH_THOUGHT_EXPERIMENTS.md).
 
 ## Source map
 
