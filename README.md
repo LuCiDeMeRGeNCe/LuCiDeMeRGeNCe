@@ -6,6 +6,8 @@
 
 **Choose a path:** [Research challenges](https://lucidemergence.github.io/LuCiDeMeRGeNCe/challenges.html) (test hypotheses) · [Mythology](https://lucidemergence.github.io/LuCiDeMeRGeNCe/mythology.html) (separate fiction).
 
+**Community standards:** [Community Principles](COMMUNITY_PRINCIPLES.md). Open inquiry, respectful criticism, accurate credit, and clear moderation boundaries.
+
 **Research fast lane, here on GitHub:** [Issues](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues) · [Research sources](research/README.md) · [Correction and contribution log](research/CONTRIBUTION_LOG.md) · [How to contribute](CONTRIBUTING.md). GitHub is the working home; the website is the public introduction.
 
 **Public contact:** [bleisdawn@icloud.com](mailto:bleisdawn@icloud.com) · [Correspondence and contact](CONTACT.md). Thoughtful introductions, questions, and collaboration inquiries are welcome.
