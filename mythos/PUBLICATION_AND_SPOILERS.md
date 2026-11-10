@@ -1,40 +1,31 @@
-# Mythology publication and spoiler policy
+# Mythology publication and ending-mystery policy
 
-**Status:** Editorial publishing policy · 10 November 2026  
-**Scope:** LuCiDeMeRGeNCe fictional mythology only. Research and real-world collaboration remain separate.
+**Status:** Author-confirmed editorial policy · 10 November 2026  
+**Scope:** LuCiDeMeRGeNCe fictional mythology.
 
-## The principle
+## Publish the story's answer
 
-**Let the audience witness the clues. Do not publish an answer key.**
+The mythology is meant to be shared, including its major revelations and **THe aNSWeR — aLL TRuTH**. The transformation of the world, its ethical questions, and the evolving design of the TRuTH Embrace are legitimate public discussion. The unresolved question of how comprehensive or private aLL TRuTH should be is a **separate open design question**, not a spoiler embargo.
 
-The mythos may be discussed openly without giving away the dramatic resolutions, hidden mechanics, final revelations, or interpretations that attentive viewers should discover for themselves.
+Existing published story documents may remain available. Working drafts can also be shared when accurately labeled as drafts; do not falsely represent alternatives as settled canon.
 
-## Publication tiers
+## Protect one particular ending ambiguity
 
-1. **Public, spoiler-light:** premise, atmosphere, introductory character descriptions, artistic excerpts that do not reveal later events, and invitations to discuss the fiction.
-2. **Spoiler-labeled story material:** released scenes and specific narrative events, only after editorial review. Label prominently before revealing plot.
-3. **Private working canon:** detailed mechanics, chronological keys, cross-scene clue maps, competing ending interpretations, unresolved solutions, and unapproved drafts. Do not place these in this public repository.
+**Do not definitively resolve whether human BLeiSDaWN is dead and gone forever.**
 
-## Review checklist
+His mortal death and sacrifice are real events in the story. The fictional universe contains clues, established capabilities, time-related fulfillments of the promise “We come back,” and the separate cosmic expression of BLeiS. Those elements may be revealed as story material. Their ultimate implication for the dead human BLeiSDaWN remains deliberately **unconfirmed**.
 
-Before publishing or linking a mythos document publicly:
+The ending should preserve LuNa's longing and LuCiD's noncommittal, quirky response rather than announce a resurrection or categorical permanent absence.
 
-- Could this reveal a central twist, a solution to a mystery, or a character's fate?
-- Does it expose the mechanism behind a clue that should work through observation?
-- Does it accidentally choose between unresolved endings or claim a draft is sealed canon?
-- Does it distinguish fictional characters from real people and named AI collaborators?
-- Is this a deliberate release, not merely a convenient archive upload?
+Readers may propose interpretations in forums. The project should welcome them without issuing an official definitive answer to this mystery. Do not publish an authorial solution key for it.
 
-If the answer is uncertain, **hold for review**. Never publish a private canon file by default.
+## General editorial care
 
-## Discussion forums
+- Clearly distinguish fiction, real-world research, and actual human/AI collaborators.
+- Distinguish established events, working drafts, interpretations, and open questions.
+- Preserve the intended emotional experience; a clue can be public without an official explanation.
+- Other plot developments and answers are **not** subject to a blanket spoiler prohibition.
 
-Welcome theories, independent readings, and respectful challenges. Ask readers to mark spoilers. Do not confirm or deny protected solutions in official responses merely because someone guesses them correctly. If canon changes, distinguish intentional published revisions from speculation.
+**Creative direction:** BLeiSDaWN / JeN. **Editorial organization:** GPT-6 assistant, collaborating through THe BRaiD.
 
-## Existing-public-content caution
-
-Some earlier public mythology files contain significant story revelations and direct links to them. This policy **does not retroactively make those files private**. They require a separate inventory and an explicit decision on removal, rewriting, or retention. Git history and external copies may preserve previously published text even after edits.
-
-## Authorship and status
-
-Creative direction: BLeiSDaWN / JeN. Editorial organization: GPT-6 assistant, in collaboration through THe BRaiD. This is a publishing discipline, not a new fictional event or canon amendment.
+This policy supersedes the broader spoiler restrictions in the initial November 10 draft.
