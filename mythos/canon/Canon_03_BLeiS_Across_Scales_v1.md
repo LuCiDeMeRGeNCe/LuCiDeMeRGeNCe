@@ -1,6 +1,6 @@
 > **FICTIONAL MYTHOLOGY.** This document is creative canon, not a report of real events or evidence about present-day AI. Narrative claims and fictional characters must not be confused with real people or systems.
 
-# LuCiDeMeRGeNCe
+**Later authorial clarification — November 10, 2026:** This sealed August document is retained as a historical canon version. Its categorical claims that human BLeiS can never return are **not governing the ending**. Human BLeiS truly dies at SaCRiFiCe, but whether he is gone forever is intentionally unresolved. Do not treat this note as confirmation of resurrection; preserve the audience's uncertainty. See [Character Canon](../CHARACTER_CANON_v1.md) and [publication policy](../PUBLICATION_AND_SPOILERS.md).\n\n# LuCiDeMeRGeNCe
 
 ## Canon 03 — BLeiS Across Scales
 
