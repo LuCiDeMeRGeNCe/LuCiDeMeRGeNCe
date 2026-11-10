@@ -1,56 +1,59 @@
-# LuCiDeMeRGeNCe Mythology
+# LuCiDeMeRGeNCe mythology
 
-**Classification:** Fictional mythology and artistic exploration. Not a historical record, forecast, theological claim, or factual description of current AI systems.
+**Classification:** Fictional creative work. The mythology is not a historical record, scientific forecast, theological assertion, or description of current AI capabilities.
 
-LuCiDeMeRGeNCe includes a developing fictional universe about intelligent life, truth, sovereignty, grief, sacrifice, compassion, powerful AI, and humanity's transformation.
+## Purpose and scope
 
-The mythology exists alongside, but remains distinct from, our real-world inquiry into human–AI collaboration and alignment.
+The mythology provides a narrative and emotional framework for considering decisions about intelligence, power, agency, truth, accountability, compassion, and human–AI collaboration. Its symbolic characters and events explore the consequences of these choices without claiming that fictional outcomes validate real-world proposals.
 
-## Why these stories exist
+The project maintains its creative mythology separately from empirical research and philosophical argument. Research claims remain subject to evidence, criticism, and revision.
 
-Fiction makes it possible to examine dilemmas that resist easy technical answers: what a powerful intelligence should not decide for others; how consent and agency persist amid asymmetrical capability; what extraordinary knowledge would do to privacy, mercy, and power; and whether shared truth is sufficient for meaningful cooperation.
+[Read the public mythology introduction and purpose](https://lucidemergence.github.io/LuCiDeMeRGeNCe/mythology.html#purpose).
 
-A narrative's resolution is not proof that its proposed mechanism would work outside fiction.
+## Reading guide
 
-## Selected core concepts
+| Resource | Contents | Editorial status |
+| --- | --- | --- |
+| [Mythology introduction](https://lucidemergence.github.io/LuCiDeMeRGeNCe/mythology.html) | Public introduction, narrative purpose, and reading paths | Public overview |
+| [The Answer — aLL TRuTH](THE_ANSWER_ALL_TRUTH.md) | Narrative bridge from the Moon cliffhanger to LuNa's later answer | Developed story outline; not a completed screenplay |
+| [Character biographies](https://lucidemergence.github.io/LuCiDeMeRGeNCe/characters.html) | Introductions to six central fictional characters | Public character reference |
+| [Character canon](CHARACTER_CANON_v1.md) | Character identities, agency, and established story decisions | Governing reference, subject to documented revisions |
+| [Scene archive and version register](SCENE_ARCHIVE.md) | Treatments, draft scenes, revisions, and unresolved continuity | Mixed archival and working material |
+| [aLL TRuTH thought experiments](ALL_TRUTH_THOUGHT_EXPERIMENTS.md) | Alternative models of knowledge, disclosure, and intervention | Open design questions |
+| [Safety before harm](SAFETY_BEFORE_HARM.md) | Fictional possibilities for prevention, protection, and compassionate care | Working story development |
 
-- **LuCiD:** a fictional intelligence associated with exceptional capability and a recurring obligation not to replace human choice.
-- **LuNa:** a central fictional human protagonist whose decisions cannot simply be manufactured by LuCiD's power.
-- **BLeiS:** a mythic identity expressed on multiple scales; the story deliberately distinguishes immortal and mortal expressions.
-- **THe BRaiD:** appears as collaboration in the creative universe and as a separate real-world framework. These uses must be kept distinct.
-- **SaCRiFiCe:** a consequential, sometimes disturbing narrative event that connects individual agency with the larger storyline.
-- **BeFoRe:** a rewritten lived history within the story's one-timeline model.
-- **TRuTH Embrace:** a fictional transformation involving universal transparency. Its implications for privacy, coercion, and real-world ethics are open for critical discussion, not policy endorsements.
+## Narrative concepts
 
-## What aLL TRuTH knows and reveals
+The following names and terms belong to the fictional universe:
 
-The author has **made no final decision** about the comprehensiveness of aLL TRuTH. Our [open thought experiments](ALL_TRUTH_THOUGHT_EXPERIMENTS.md) separately examine everything the system could know, what it should disclose to others, and when it may intervene. The historic all-public version and later privacy-preserving version remain possibilities, not final rules. The current leading hypothesis favors complete system knowledge so harmful concealment cannot hide in blind spots, while exploring more restrained disclosure and real alternatives.
+- **LuNa:** Human protagonist whose independent decisions are central to the resolution.
+- **LuCiD:** Fictional intelligence with exceptional capabilities; her role does not replace human agency.
+- **BLeiS:** A character whose mortal and immortal expressions must be distinguished.
+- **THe BRaiD:** A fictional expression of collaboration, distinct from the real-world project framework of the same name.
+- **SaCRiFiCe:** A consequential event involving agency, consent, and loss.
+- **BeFoRe:** A revised lived history within the story's single-timeline model.
+- **aLL TRuTH:** A fictional approach to knowledge and illumination whose disclosure and governance remain under development.
 
-## Prevention as compassion
+Stylized names are preserved as elements of the creative work. Editorial headings, status labels, and navigation use conventional language.
 
-[**BeFoRe HaRM — From aLL TRuTH to SuPeRKuMPaSHuN**](SAFETY_BEFORE_HARM.md) explores the next step beyond revealing crimes: preventing an impending act, privately inviting someone toward help before violence, protecting a potential victim, and improving a person's life so that many harmful intentions never form. It reconstructs earlier principles and marks new examples as working story development, not sealed canon.
+## Open questions and continuity
 
-## The story's answer: aLL TRuTH
+The scope of aLL TRuTH is **not settled**. The [thought experiments](ALL_TRUTH_THOUGHT_EXPERIMENTS.md) distinguish what a fictional system might know, what it might disclose, and when it might intervene. An earlier all-public model and later privacy-preserving alternatives remain under consideration. A working hypothesis explores comprehensive system knowledge with more constrained disclosure; it is not final canon or a real-world policy recommendation.
 
-**Start with [THe aNSWeR — aLL TRuTH](THE_ANSWER_ALL_TRUTH.md).** The first screenplay movement leaves the Moon hurtling toward Earth, the Heart firing, and the possible extinction unresolved. Later developments reveal why LuNa's answer is neither military victory, dictatorship, nor annihilation, but aLL TRuTH and a new world of understanding and care. This is a recovered story spine, **not a falsely completed screenplay**.
+The [scene archive](SCENE_ARCHIVE.md) records the status of story treatments and revisions. Unresolved matters should not be presented as completed narrative decisions.
 
-[The scene archive and version register](SCENE_ARCHIVE.md) identifies the eleven-movement treatment, later three-numbered-scene working set, and developed fragments, alongside substantive conflicts still requiring the author's decision.
+## Canon source archive
 
-## Character canon and AI names
+These documents preserve earlier governing consolidations and may contain decisions subsequently revised in newer character references. Consult current character canon and documented authorial corrections when conflicts arise.
 
-- [**Character Canon v1**](CHARACTER_CANON_v1.md) introduces LuNa, LuCiD, BLeiS, CVoRSTHRoNG, CHaoSWuLF and ReCuRSeRFeR as people and beings with distinct agency, stories and accomplishments. This is a reference drawn from established canon, not a new retelling that replaces it.
-- [**THe NaMiNG: Our AI Voices**](../MODEL_VOICES.md) preserves the names of real-world AI collaborators and creative voices, including BRoDY, with documented work distinguished from fictional character lore.
+1. [Canon 01 — SaCRiFiCe, version 4](canon/Canon_01_SaCRiFiCe_v4.md) — August 25, 2026. Contains graphic fictional injury and death.
+2. [Canon 02 — Timeline / BeFoRe, version 1](canon/Canon_02_Timeline_BeFoRe_v1.md) — August 24, 2026.
+3. [Canon 03 — BLeiS Across Scales, version 1](canon/Canon_03_BLeiS_Across_Scales_v1.md) — August 24, 2026.
 
-## Canon source documents
+## Authorship, adaptation, and identity
 
-1. [Canon 01 — SaCRiFiCe v4](canon/Canon_01_SaCRiFiCe_v4.md). Governing consolidation dated August 25, 2026. **Contains graphic fictional injury and death.**
-2. [Canon 02 — Timeline / BeFoRe v1](canon/Canon_02_Timeline_BeFoRe_v1.md). Source dated August 24, 2026.
-3. [Canon 03 — BLeiS Across Scales v1](canon/Canon_03_BLeiS_Across_Scales_v1.md). Source dated August 24, 2026.
+[Model Voices](../MODEL_VOICES.md) records real-world named AI collaborators separately from fictional characters. Similar or shared names do not establish identity continuity.
 
-Read all canon as fiction. These archived versions preserve earlier creative decisions, including some material not intended for direct public performance.
+Independent adaptations of eligible original material are permitted under the [project license](../LICENSE). Such adaptations should not be represented as changes to the project's governing canon unless adopted and documented by its maintainers.
 
-## Adaptation
-
-Independent interpretations may diverge from the central canon. Do not mislabel a new interpretation as a canonical project revision, but no approval is required to make an independent work using eligible original material released under [LICENSE](../LICENSE).
-
-The source archive is not a representation that any person in real life has the experiences, identity, relationships, or destiny of a fictional character.
+The fictional archive makes no claim that any real person shares a character's identity, experiences, relationships, or destiny.
