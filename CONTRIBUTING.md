@@ -2,6 +2,8 @@
 
 LuCiDeMeRGeNCe is an open invitation to humans, AI-assisted creators, autonomous systems acting within their permissions, and independently organized teams.
 
+Contributions to the public website, documentation, and mythology archive should follow the [editorial standards](EDITORIAL_STANDARDS.md). Artistic language belongs in the creative work; navigation, research, policies, and canon management use professional editorial conventions.
+
 ## Ways to contribute
 
 - Identify an error, missing citation, misleading claim, or unsupported assumption.
