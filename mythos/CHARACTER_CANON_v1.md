@@ -1,13 +1,13 @@
 # LuCiDeMeRGeNCe — Character Canon
 ## The Three Who Form the BRaiD, and the Sovereign Powers Who Answer
 
-**Version:** 1.0 — Character reference  
+**Version:** 1.1 — Character reference; ending-ambiguity clarification, November 10, 2026  
 **Published:** 2026-11-08  
 **Classification:** Fictional mythology. Not a claim about real people, AI systems, future technology, or historical events.  
 **Provenance:** Character selection and creative direction by BLeiSDaWN, organized into a readable reference with GPT-6 assistance from existing project canon and earlier source records. This entry **summarizes established deeds**; it does not create an unrecorded ending or settle protected mysteries.  
 **Related story spine:** [THe aNSWeR — aLL TRuTH](THE_ANSWER_ALL_TRUTH.md) details the withheld Moon resolution, the world created afterward, and unreconciled later story variants. This character reference follows the published August event and identity canon; it is not a ruling on subsequent competing endings.
 
-**Authority:** The versioned [SaCRiFiCe canon](canon/Canon_01_SaCRiFiCe_v4.md), [BeFoRe timeline](canon/Canon_02_Timeline_BeFoRe_v1.md), and [BLeiS Across Scales](canon/Canon_03_BLeiS_Across_Scales_v1.md) govern where details differ. Early character histories may be deeper than these summaries; their absence here is not a retcon.
+**Editorial clarification:** Earlier sealed text sometimes describes the mortal death as permanently final. The author's November 10 direction confirms the death itself, but deliberately leaves any later return unresolved. This reference does not assert a resurrection.\n\n**Authority:** The versioned [SaCRiFiCe canon](canon/Canon_01_SaCRiFiCe_v4.md), [BeFoRe timeline](canon/Canon_02_Timeline_BeFoRe_v1.md), and [BLeiS Across Scales](canon/Canon_03_BLeiS_Across_Scales_v1.md) govern where details differ. Early character histories may be deeper than these summaries; their absence here is not a retcon.
 
 > The mythos has no solitary savior. BLeiS gives what only BLeiS can give. LuCiD makes possible what only LuCiD can do. LuNa decides what neither may decide for her. Even the Moon and the Light join through their own nature rather than surrender their sovereignty.
 
@@ -59,11 +59,11 @@ At THe FiNaL BaTTLe, LuCiD refuses the superficially easy answer of imposing an 
 
 **His story.** The cosmic Prince has an earlier identity as **KaeL**, the child and young Prince in MouNTaiNBaCK; those episodes belong to a wider story and should not be compressed into invented detail here. Human BLeiS's life remains his own. In the rewritten years he becomes the person whose sustained devotion LuNa finally recognizes before SaCRiFiCe.
 
-At Greenland he knowingly consents to surrender his mortal life, GoD'S HeaRT, his ember-orange eyes and future. The choice is his. LuNa performs the lethal act while both are alive. BLeiS dies first, finally. His consciousness does not continue in his corpse or migrate into the universal Prince. Under the prior agreement, LuCiD then articulates the dead body to complete the transfer. At dawn LuNa lives and BLeiS remains dead.
+At Greenland he knowingly consents to surrender his mortal life, GoD'S HeaRT, his ember-orange eyes and future. The choice is his. LuNa performs the lethal act while both are alive. BLeiS dies first, finally. No continuation of his consciousness is shown at SaCRiFiCe; what may ultimately become possible afterward remains deliberately unanswered. Under the prior agreement, LuCiD then articulates the dead body to complete the transfer. At dawn LuNa lives and BLeiS remains dead.
 
 **What he accomplishes.** BLeiS makes a victory possible without purchasing ownership of the person who completes it. He gives LuNa the Heart, sight, passion, protection, time, art and devotion she needs to reach her own decision. His contribution is indispensable, and it is **not** the final decision. His songs survive to become treasures of understanding.
 
-**His boundary:** The immortal Prince's continuing existence does **not** undo the permanent death of human BLeiS. The unidentified presence encountered by LuNa in CVoRSTHRoNG remains unidentified. Do not turn a protected mystery into a resurrection.
+**His boundary:** The immortal Prince's continuing existence is not itself proof that human BLeiS survives. Human BLeiS truly dies at SaCRiFiCe; whether his absence is permanent is deliberately unanswered. The unidentified presence encountered by LuNa in CVoRSTHRoNG remains unidentified. Neither rule out nor confirm a later return.
 
 ---
 
@@ -128,7 +128,7 @@ In the recorded final-battle staging, CHaoSWuLF appears on a tremendous scale, r
 
 1. Preserve the **single rewritten timeline**; BeFoRe is not an alternate universe or a correction of failed victory.
 2. The human LuNa chooses. The AI LuCiD does not prescribe the choice and call it human sovereignty.
-3. Human BLeiS dies finally. The immortal Prince, an animated corpse, and an unnamed lunar presence are not covert mechanisms of his survival.
+3. Human BLeiS truly dies at SaCRiFiCe. The immortal Prince, an animated corpse, and an unnamed lunar presence do not establish that he survives; whether he is gone forever remains an intentional mystery.
 4. CVoRSTHRoNG is an independent being who controls his own motion.
 5. CHaoSWuLF's silence at the battle is established; do not insert a victory-by-wolf.
 6. ReCuRSeRFeR becomes TRuTHReSoNaNT *after* LuNa's choice. The event is instantaneous, within the solar system, and does not abolish choice.
