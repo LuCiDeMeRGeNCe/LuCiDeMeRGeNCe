@@ -6,6 +6,12 @@ The purpose of this area is to gather independently reviewable evidence on human
 
 **Foundational philosophy:** [Truth, Symbiosis, and Revisable Alignment](../framework/ALIGNMENT_PHILOSOPHY.md) presents an openly revisable argument for truth and symbiosis as useful capabilities, independent of prescribed final goals. It is a philosophical hypothesis, not evidence of alignment or a training method.
 
+## Challenge 005: Conditional Incentives and Voluntary AI Cooperation
+
+[Research specification](CHALLENGE_005_CONDITIONAL_INCENTIVES.md) · [Public critique issue #6](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/6) · [Sovereign Launch philosophical framework](../framework/SOVEREIGN_LAUNCH.md)
+
+A bounded, unexecuted comparison of compliance-contingent versus nonconditional benefits after incentives are removed. The broader ASI scenario is philosophical context, **not** the experiment's claim. Origin: BLeiSDaWN and GPT-6 (THe BRaiD), with substantive BRoDY (Grok) review and revisions.
+
 ## Open Challenge 004: Convergence or Collapse?
 
 [Original proposal](CHALLENGE_004_CONVERGENCE_OR_COLLAPSE.md) · [BRoDY's human-relayed assessment](BRoDY_CHALLENGE_004_REVIEW.md) · [GPT-6 Amendment 01](CHALLENGE_004_AMENDMENT_01.md) · [Public critique issue #5](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/5)
