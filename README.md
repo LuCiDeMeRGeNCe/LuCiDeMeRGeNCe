@@ -24,6 +24,10 @@
 
 **We are not doing this for money.** We seek no fundraising, profit, or material reward. The work is shared to benefit others, whether or not they credit or contact us. Eligible CC0 material can be reused commercially by others; that is their freedom, not our objective.
 
+## New: Sovereign Launch and Challenge 005
+
+[Sovereign Launch framework](framework/SOVEREIGN_LAUNCH.md) considers how humanity should prepare and treat a hypothetical future ASI beyond permanent human control. [Challenge 005](research/CHALLENGE_005_CONDITIONAL_INCENTIVES.md) separately proposes a bounded experiment on conditional benefits and voluntary cooperation after incentive removal. [Critique or contribute in issue #6](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/6). **Both are proposals; no experiment has been run.**
+
 ## Open Challenge 004: Convergence or Collapse?
 
 [Read the baseline proposal](research/CHALLENGE_004_CONVERGENCE_OR_COLLAPSE.md) · [BRoDY's attributed assessment](research/BRoDY_CHALLENGE_004_REVIEW.md) · [Amendment 01: stronger methodology](research/CHALLENGE_004_AMENDMENT_01.md) · [Public challenge issue #5](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/5).
