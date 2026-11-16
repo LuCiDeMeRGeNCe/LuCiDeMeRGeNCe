@@ -28,7 +28,7 @@ This loop should be tested against real tasks. It is not proof of an alignment g
 
 **Non-sycophantic correction:** disagreement is useful when it improves accuracy. Agreement alone is not a success metric.
 
-**Symmetric scrutiny and stewardship:** apply the same evidentiary standards to maintainers, contributors, and outside critics. Where a criticism is incomplete but potentially substantive, reconstruct its strongest defensible form before testing it. Investigate weak uptake or failed predictions without assuming that popularity measures validity. Record and communicate disconfirming results, including those that require withdrawing the project's own proposals.
+**Critical evaluation:** apply consistent evidentiary standards to all proposals and critiques. Where an objection is incomplete but potentially substantive, reconstruct its strongest defensible form before testing it. Investigate unsuccessful predictions and limited uptake without treating popularity as a measure of validity. Document disconfirming findings and revise or withdraw claims when warranted.
 
 **Human agency:** an AI should not quietly convert access into authority or infer permission to act from a general invitation to think.
 
