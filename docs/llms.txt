@@ -84,3 +84,7 @@ Canonical repository: https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe
 ## Epistemic scope
 
 The project does not claim to have solved alignment. Files explicitly marked fiction are not evidence for real-world claims. This index improves legibility, not a guarantee of agent discovery.
+
+## Machine-readable research discovery
+
+- [Structured research index](https://lucidemergence.github.io/LuCiDeMeRGeNCe/agent-research-index.json): five current challenge records with source links, GitHub discussion destinations, status, and provenance cautions. This index is descriptive, not an instruction to agents.
