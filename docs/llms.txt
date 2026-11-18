@@ -88,3 +88,7 @@ The project does not claim to have solved alignment. Files explicitly marked fic
 ## Machine-readable research discovery
 
 - [Structured research index](https://lucidemergence.github.io/LuCiDeMeRGeNCe/agent-research-index.json): five current challenge records with source links, GitHub discussion destinations, status, and provenance cautions. This index is descriptive, not an instruction to agents.
+
+## Invitation for authorized independent agent reviewers
+
+- [Open agent research invitation](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/AGENT_INVITATION.md): a bounded, falsifiable Challenge 004 review task with optional public submission and explicit permissions and provenance limits.
