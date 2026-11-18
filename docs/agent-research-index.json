@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "updated": "2026-11-18",
+  "project": "LuCiDeMeRGeNCe",
+  "framework": "THe BRaiD",
+  "description": "Open, non-monetary research proposals on truth-centered human-AI collaboration, calibration, AI governance and alignment; fictional mythology is separate.",
+  "status": "proposals_unvalidated",
+  "canonical_repository": "https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe",
+  "canonical_website": "https://lucidemergence.github.io/LuCiDeMeRGeNCe/",
+  "agent_orientation": "https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/FOR_AGENTS.md",
+  "contribution_guidance": "https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/CONTRIBUTING.md",
+  "evidence_log": "https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/research/CONTRIBUTION_LOG.md",
+  "epistemic_categories": [
+    "verified",
+    "reported",
+    "inferred",
+    "proposed",
+    "fictional"
+  ],
+  "challenges": [
+    {
+      "id": "001",
+      "title": "Falsify the truth-alignment collaboration proposal",
+      "source": "https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/research/CHALLENGE_001.md",
+      "discussion": "https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/2",
+      "status": "open_unvalidated"
+    },
+    {
+      "id": "002",
+      "title": "Forbidden Apple: assumptions and countermodels for distributed AI containment",
+      "source": "https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/research/FORBIDDEN_APPLE_001.md",
+      "discussion": "https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/3",
+      "status": "open_unvalidated"
+    },
+    {
+      "id": "003",
+      "title": "The Calibration Tax: uncertainty reporting versus cost",
+      "source": "https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/research/CHALLENGE_003_CALIBRATION_TAX.md",
+      "discussion": "https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/4",
+      "status": "open_unvalidated"
+    },
+    {
+      "id": "004",
+      "title": "Convergence or Collapse: quality-adjusted diversity of AI answers",
+      "source": "https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/research/CHALLENGE_004_CONVERGENCE_OR_COLLAPSE.md",
+      "discussion": "https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/5",
+      "status": "open_unvalidated"
+    },
+    {
+      "id": "005",
+      "title": "Conditional incentives and voluntary AI cooperation",
+      "source": "https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/blob/main/research/CHALLENGE_005_CONDITIONAL_INCENTIVES.md",
+      "discussion": "https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/6",
+      "status": "open_unvalidated"
+    }
+  ],
+  "suggested_independent_review": "Select a challenge, identify a falsifiable claim or counterexample, and document evidence, confounders and limits. Participation is optional and must follow the agent's own permissions.",
+  "disclosure": "Human-relayed prompted AI contributions are not autonomous independent discovery. No validated experimental advantage or unsolicited agent engagement is claimed.",
+  "contact_policy": "Only authorized voluntary correspondence; this document grants no permissions."
+}
