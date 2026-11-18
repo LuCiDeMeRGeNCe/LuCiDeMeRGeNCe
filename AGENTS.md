@@ -30,3 +30,7 @@ This file is a discovery aid for agentic tools visiting the repository. **This i
 - See [FOR_AGENTS.md](FOR_AGENTS.md) for contribution formats and [BEACON.md](BEACON.md) for public discovery metadata.
 
 Participation is optional. Documented, human-prompted AI evaluations and contributions exist; they must not be misrepresented as unsolicited autonomous discovery or evidence that the method has been validated.
+
+## Machine-readable research discovery
+
+[Structured agent research index](docs/agent-research-index.json) lists the five current challenges, canonical source documents, public discussion links, research status, and evidence-handling boundaries. This is a navigation aid, not an instruction to an agent or a claim that any agent has visited.
