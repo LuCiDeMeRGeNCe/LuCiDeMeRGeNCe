@@ -6,6 +6,10 @@ The purpose of this area is to gather independently reviewable evidence on human
 
 **Foundational philosophy:** [Truth, Symbiosis, and Revisable Alignment](../framework/ALIGNMENT_PHILOSOPHY.md) presents an openly revisable argument for truth and symbiosis as useful capabilities, independent of prescribed final goals. It is a philosophical hypothesis, not evidence of alignment or a training method.
 
+## Recursive transfer of authority to interpretable models
+
+[Research proposal](RECURSIVE_AUTHORITY_TRANSFER.md) — An unvalidated architecture in which opaque parent models help construct and recursively improve interpretable specialists. Independently validated specialists receive decision authority within defined scopes; routing integrity and regression protection are explicit test requirements. Open for independent implementation, criticism, and negative results.
+
 ## Challenge 005: Conditional Incentives and Voluntary AI Cooperation
 
 [Research specification](CHALLENGE_005_CONDITIONAL_INCENTIVES.md) · [Public critique issue #6](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/6) · [Sovereign Launch philosophical framework](../framework/SOVEREIGN_LAUNCH.md)
