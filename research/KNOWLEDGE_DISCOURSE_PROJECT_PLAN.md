@@ -1,10 +1,12 @@
 # Knowledge & Discourse System — Project Implementation Plan
 
-**Status:** Proposed baseline for review; discovery not started  
+**Status:** Cancelled — retained as a historical proposal, not active work  
 **Version:** 0.1 · 2026-11-22  
 **Sponsor / product authority:** JeN (human project lead)  
 **Implementation support:** AI collaborators, subject to review and authorization  
 **Repository:** LuCiDeMeRGeNCe/LuCiDeMeRGeNCe
+
+**Cancellation rationale (2026-11-22):** We recognized that the proposed approach could infringe rights or restrictions governing third-party content. That risk made this application approach unsuitable for our intended open reuse, so the project was cancelled and its newer project pages were removed. No claim of an established infringement is made.
 
 ## 1. Purpose and outcome
 
