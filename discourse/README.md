@@ -23,3 +23,7 @@ The display layer may color or filter claims by evidence status, but color is ne
 Use the format, improve it, or build a compatible index. No permission, registration, central authority, or attribution to LuCiDeMeRGeNCe is required for independently created material. Follow source terms, privacy expectations, and applicable licenses. Attribution of *third-party quotations* is still required where applicable.
 
 A future implementation could support live source updates, correction histories, human review, agent-generated proposals, and domain-specific expert review. None of those capabilities is claimed today.
+
+## Publishing from one canonical record
+
+[Publishing model](PUBLISHING.md): GitHub holds authoritative structured records; the site can render readable pages and produce tailored Reddit, TikTok, and agent-facing excerpts. Source links are optional invitations, never prerequisites. Website rendering and automated publication remain proposed work.
