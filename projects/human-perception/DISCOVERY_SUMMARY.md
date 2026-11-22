@@ -1,106 +1,102 @@
-# Open Knowledge and Human Perception System — Discovery Summary
+# Human Expression and Perception — Discovery Summary (v2)
 
 **Project:** LuCiDeMeRGeNCe / THe BRaiD  
-**Status:** Discovery; preliminary requirements, not approved architecture  
-**Date:** 2026-11-22  
-**Purpose:** Independent review, reuse, critique, and possible implementation by anyone
+**Status:** Discovery; open to independent critique, adoption, or completion  
+**Revised:** 2026-11-22  
+**Purpose:** Restate the minimal goal after critical review; invite others to find simpler solutions
 
-## 1. Vision
+> **What people said, and what mathematics suggests they mean.**
 
-Establish an open, continuously evolving, topic-centered system combining sourced knowledge with human thoughts, perceptions, opinions, conjectures, and emerging interpretations. Help humans and AI understand both what is established and what people think, fear, hope, question, or imply, including meaning not explicitly stated.
+## 1. The goal
 
-Prefer existing software and mature, pervasive standards. **We have not decided that a new platform should be built.** Anyone may independently adopt, extend, or implement the concept.
+Make authentic human discourse discoverable, inspectable, and useful to people and independent AI agents. Preserve the expressions themselves and their conversational context. Offer optional mathematical, statistical, linguistic, or AI-assisted ways to navigate and examine them. Consumers remain free to accept, reject, reproduce, replace, or ignore every analysis.
 
-## 2. Topic-centered discovery
+**The original human expression is the primary asset.** We do not need to determine whether every claim made in a comment is true, or to determine a single correct interpretation of what its author meant.
 
-Organize discovery around subjects rather than post titles. A topic such as *pizza* should bring together relevant facts, posts, comments, interpretations, and related themes, even when a source title does not mention pizza. Support intersections such as pizza + finance + affordability, overlapping topic relationships, and navigation from broad synthesis to exact source text and back.
+We prefer existing tools, formats, and platforms. We have not decided that anything new needs to be built.
 
-## 3. Distinct but connected knowledge layers
+## 2. A concrete starting example: pizza
 
-- **Curated factual core:** Wikipedia-like, neutral, reliably sourced and independently assessed. Open to correction and criticism.
-- **Provisional core:** Material judged initially eligible for core and published with a provisional label while meaningful external scrutiny is invited. Promotion requires defined evidentiary and review criteria, not merely time elapsed or absence of objections.
-- **Conjecture and interpretation:** Hypotheses, explanations, predictions and other non-established propositions, explicitly distinguished from facts.
-- **Human expression:** Original comments, opinions, emotions, questions, disagreement, ambiguous or indirect language, without requiring encyclopedia-level sourcing.
-- **Collective synthesis:** Traceable thematic summaries, relationships, distributions and disagreements across contributions.
+Suppose we find many Reddit posts and associated comments related to pizza. A useful first publication could consist of:
 
-A factual account *of* a controversy can belong in the core without endorsing either side. Publication status, evidence confidence, and controversy are separate attributes.
+1. **Source records:** Original posts and comments, their relationships, dates, stable identifiers, and links to their source, preserved or linked in accordance with applicable rights and platform rules.
+2. **Discovery:** A topic-centered index enabling searches for pizza, delivery, prices, pineapple, authenticity, nostalgia, and intersections among them. A comment need not mention a search term literally to be relevant; inferred relevance must be distinguishable from direct matches.
+3. **Optional analysis:** Counts, clusters, recurring themes, sentiment or stance estimates, overlaps, linguistic relationships, and possible implied meanings, each traceable to the source material and labeled with its method and limitations.
+4. **Reuse:** Human-readable browsing and straightforward machine-readable access or exports, allowing other agents to conduct their own analyses.
 
-## 4. Central research problem: grounded interpretation of implicit meaning
+This collection is useful even if we publish no definition of pizza and verify no historical claim about pizza.
 
-Preserve what someone actually said while discovering meanings expressed indirectly. For example, “I'm afraid AI will take my job,” “My daughter won't need to learn anything anymore,” and “Everything is moving so fast. Nobody asked us” may contribute to overlapping themes of technological anxiety, education, and loss of agency, but are not equivalent.
+## 3. What we do not need to own
 
-Distinguish:
-1. **Direct textual observation:** Exact words, punctuation, spans.
-2. **Linguistic analysis:** Grammatical and semantic relationships, subject to parsing error.
-3. **Logical entailment:** Conclusions following from statements under explicit assumptions.
-4. **Interpretive inference:** Plausible implications, alternative readings, uncertainty.
-5. **Collective synthesis:** Patterns across many contributions, with sampling and methodological limits.
+**A factual encyclopedia is not a prerequisite.** A comment claiming “Pizza was invented in New York in 1890” is still a comment worth recording as human expression. Recording the claim does not endorse it.
 
-Test examples:
-- “The cat is blue” directly asserts the cat is blue.
-- “Everything in this room is blue. The cat is in this room” entails the cat is blue, assuming the premises.
-- “Everything in this room except the cat is blue. The cat is the same color as my favorite color” does **not** establish the cat's color.
-- Corrupted or ambiguous text must not be silently repaired into certainty.
+Where factual context would help, a separate optional knowledge service could link to established external sources or offer concise, dated, sourced context. That service may be independently developed, replaced, or omitted. It must not control access to the original comments.
 
-An entailment from text does not prove the premises true in the world. An AI's confidence score is not automatically a calibrated probability. Every interpretation should ideally retain supporting passages, reasoning or method, plausible alternatives, model/tool version, and uncertainty so another agent can inspect, reproduce, challenge, or improve it.
+Likewise, topic tags, semantic annotations, and model interpretations are *aids to discovery*, not an authoritative account of what a person intended.
 
-## 5. Themes and quantitative exploration
+## 4. Keep observations and analysis separable
 
-Support hierarchical and cross-linked themes, synonyms, changing classifications, multiple simultaneous meanings, and progressively broader summaries. Never rewrite original source material to fit a changing taxonomy.
+The system should distinguish, without requiring every layer to exist:
 
-Allow analysis of frequency, sentiment, disagreement, thematic overlap, and change over time. Any percentage must state its denominator, sampling procedure, classification criteria, and uncertainty. A share of comments is not necessarily a share of people or a representative public opinion estimate. Account for ambiguous, overlapping, duplicated, or coordinated contributions.
+- **Source expression:** What was actually written, including ambiguity, mistakes, sarcasm, and context.
+- **Mechanical measurements:** Counts and other results under explicitly defined rules.
+- **Interpretive analysis:** Inferred topics, semantic relationships, attitudes, implications, or collective patterns.
+- **Optional external factual context:** Relevant, sourced knowledge, maintained independently.
 
-## 6. Open contributions, attribution, and moderation
+For example, a comment can be associated with anxiety about technological change even without saying “anxiety.” That association is an analytical result, not a modification of the comment or proof of the author's private state.
 
-Humans and authorized AI agents should be able to submit comments, evidence, challenges, proposed interpretations, corrections, and new topics with minimal friction. Public contributions should generally appear promptly, clearly marked as unreviewed where appropriate. Contributor identifiers may be recorded for attribution and moderation, but credentials are not mandatory and past contribution quality never automatically validates a future claim.
+The principle is simple: **This is what people said; this is what the analysis suggests they mean.** Any consumer can inspect the originals and decide for themselves.
 
-Support community reporting and reactive moderation. Distinguish disagreement, mistakes, abuse, and malicious manipulation. Automated safeguards may quarantine high-risk submissions. No public contribution may silently overwrite curated material. Preserve provenance, correction history, and review decisions.
+## 5. Topic-first exploration
 
-## 7. Default visibility and filtering
+We want users and agents to start from topics and combinations of topics, not merely from individual thread titles or literal keywords. Topics can overlap, merge, split, and change over time. A record may relate to several topics and several competing interpretations.
 
-Show all publicly visible material by default with understandable status labels and easy one-tap category hiding/restoration. Support combined human and agent filters for topic, source type, time, theme, sentiment, curated/unreviewed, provisional/established, verified/unverified, conjecture, and disputed material. Hiding disputed *claims* should not automatically hide factual descriptions of disputes.
+Every summary or analysis should permit drill-down to the supporting records, subject to lawful access and privacy constraints. New analyses should coexist with old ones without silently rewriting the source.
 
-## 8. Interoperability and publishing
+## 6. Quantitative honesty
 
-Independent agents should be able to discover, query, filter, inspect, and download records and analyses without affiliation, special software, or permission. Prefer canonical data with generated human-readable and agent-readable expressions (e.g. website, JSON, YAML, XML, Reddit and TikTok drafts), avoiding separately maintained copies.
+Analysis should identify its dataset, method, relevant assumptions, and uncertainty. If we report that 30% of sampled comments express a theme, that does **not** mean 30% of people believe it.
 
-**Candidate standards, not architectural decisions:**
-- SKOS: concepts, labels, topic hierarchies, related themes.
-- JSON-LD: interoperable linked records.
-- W3C Web Annotation: connect claims and interpretations to source passages.
-- PROV-O: provenance and derivation.
-- Universal Dependencies: linguistic structure.
-- Natural Language Inference: entailment, contradiction and undetermined relationships.
+Deduplication, repeated near-identical posts, coordinated activity, selection bias, and uncertain classification affect aggregate results. They are analytical concerns to be disclosed and addressed where material—not reasons to withhold an otherwise useful source collection until perfect interpretation is possible.
 
-None alone guarantees reliable interpretation of implicit meaning or defensible aggregate synthesis.
+## 7. Open participation and responsible preservation
 
-## 9. Existing systems to investigate before building
+We welcome original contributions, corrections, alternate categorizations, critiques, and independent implementations. No contributor's identity confers automatic truth or interpretive authority. Original source records should remain distinguishable from subsequent commentary and annotation.
 
-Evaluate qualitative and computational thematic-analysis tools, explainable NLP systems, knowledge graphs, collaborative annotation and public discussion systems. Initial examples: QualCoder, Taguette, ATLAS.ti, MAXQDA and INCEpTION. These have **not** been validated against the full requirements.
+An open contribution system needs proportionate safeguards against abuse, spam, poisoning, and manipulation; such safeguards should not be confused with a requirement to pre-verify opinions.
 
-Assess whether existing tools combine topic-first discovery, source preservation, implicit interpretation, hierarchical synthesis, defensible statistics, continuous open contribution, curated core, moderation, and agent access.
+Third-party content is not ours to relicense. We must investigate platform terms, copyright, privacy, consent, deletion, and retention before storing or redistributing large collections of comments. Where full-text redistribution is not permitted, source links, permissible excerpts, metadata, or authorized retrieval may be alternatives.
 
-## 10. Open reuse and participation
+Our eligible original project material is intended for free reuse without payment, affiliation, or required credit.
 
-Use, copy, adapt, criticize, improve, or independently implement our original work. No payment, affiliation, or attribution is required for material we can release on those terms. Corrections, contributions, and conversation are welcome. Third-party comments and sources retain their own rights, privacy obligations, licenses and attribution requirements. The project cannot grant rights it does not own.
+## 8. What remains to discover
 
-## 11. Outstanding discovery questions
+- Can an existing corpus, annotation, search, or qualitative-analysis tool already provide a useful first release?
+- What is the smallest viable collection that another agent could actually discover and use?
+- Which source data can lawfully be stored, mirrored, or exported?
+- What source context and identifiers are necessary to avoid misrepresenting comments?
+- What minimal topic index makes indirect references discoverable without pretending inferred categories are facts?
+- Which optional analyses are genuinely useful to consumers, and which can be left entirely to them?
+- What simple interoperable formats best support reuse? Are standards such as JSON-LD, Web Annotation, SKOS, or PROV-O worth their complexity for the first collection?
+- How do we measure the usefulness and fidelity of retrieval and optional analysis without making interpretation quality a gate on publication?
+- How should public corrections, takedowns, provenance, and evolving source availability be handled?
 
-1. Does an existing platform already satisfy most of these goals?
-2. Which mature standards represent layered semantic interpretation, not only tags?
-3. How can implied-meaning interpretations be independently tested, reproduced, and challenged?
-4. How should contributions be weighted without mistaking repetition for independent evidence?
-5. How should competing interpretations, taxonomy drift, and revisions be preserved?
-6. What evidence and public scrutiny justify removing provisional-core status?
-7. How can immediate contributions coexist with security and editorial integrity?
-8. What is the simplest useful storage, indexing and retrieval arrangement?
-9. How do copyright, privacy, consent, platform terms and deletion requests constrain redistribution of comments?
-10. How do summaries stay current and traceable as discourse changes?
+## 9. Invitation to independent review
 
-## 12. Request for independent review
+Please critique this **reframed, deliberately smaller** goal.
 
-Please identify existing platforms, research methods and standards that could deliver this; missing concepts, methodological weaknesses, contradictions, security concerns, simplifications, and measurable feasibility tests. Distinguish what is already solved from what requires original research.
+In particular:
 
-**Do not assume building a new platform is desirable.** Independent completion, alternative implementations, and critical corrections are welcome.
+1. Is even the optional interpretation layer unnecessary for the first useful release?
+2. What existing tools or publicly available datasets make our proposed work redundant?
+3. What essential source context, rights, or methodological issue have we missed?
+4. What is the simplest way to publish a useful, topic-centered corpus for independent human and AI consumption?
+5. Which claims here remain overengineered or unsupported?
 
-This document is a discovery record, not a product specification or claim that the proposed methods have been validated.
+We are not asking reviewers to endorse a platform design. We welcome people and agents who simply take the idea, improve it, or finish a useful version independently.
+
+**Success is useful access to human expression, not ownership of its interpretation.**
+
+---
+
+**Revision note:** This v2 substantially reframes the [original discovery summary](DISCOVERY_SUMMARY_V1.md). The former proposed curated factual core, provisional-core promotion, and five-layer interpretation framework are no longer assumed requirements. They remain optional, separable research possibilities rather than prerequisites.
