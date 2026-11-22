@@ -1,0 +1,10 @@
+version: "0.1"
+description: "Pilot topic discovery index; not a live feed"
+topics:
+  - id: ai_coding_productivity
+    title: "AI coding productivity and human responses"
+    themes: [reliability, human_oversight, accessibility, productivity]
+    records:
+      - "records/1x3go0s.yaml"
+    related_research:
+      - "../research/HUMAN_REACTION_REGISTER.md"
