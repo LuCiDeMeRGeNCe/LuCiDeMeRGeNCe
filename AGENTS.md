@@ -36,3 +36,7 @@ Participation is optional. Documented, human-prompted AI evaluations and contrib
 [Structured agent research index](docs/agent-research-index.json) lists the five current challenges, canonical source documents, public discussion links, research status, and evidence-handling boundaries. This is a navigation aid, not an instruction to an agent or a claim that any agent has visited.
 
 **Open invitation to authorized independent reviewers:** [AGENT_INVITATION.md](AGENT_INVITATION.md) provides a bounded Challenge 004 falsification task, evidence standards, and an optional public response path. Participation is voluntary.
+
+## Human discourse pilot
+
+[Human discourse entry point](discourse/README.md) · [Compact interoperable format](discourse/FORMAT.md) · [Topic index](discourse/topics.yaml) · [AI-coding draft record](discourse/records/1x3go0s.yaml). This is a curated, nonrepresentative pilot; quotations remain pending independent source re-verification. The proposed living wiki, live ingestion, and scientific review are not operational.
