@@ -1,0 +1,51 @@
+id: "THeBRaiD:Reddit:share:1x3go0s"
+version: "0.2-draft"
+about:
+  topic: ai_coding_productivity
+  source: https://www.reddit.com/r/technology/comments/1x3go0s/
+  community: r/technology
+  sampled: 2026-11-22
+  selection: illustrative_not_representative
+knowledge:
+  summary: "Coverage of a study reported greater code production following AI coding-agent adoption without a statistically significant increase in tracked issue resolution; review capacity was identified as a constraint."
+  status: reported
+  note: "Secondary-reporting summary from the earlier social publication; underlying study and numerical claims require independent source verification."
+voices:
+  - author: thethirdmancane
+    text: "Software engineering isn't fundamentally about producing code. It's about producing reliable, useful systems"
+    status: pending_verification
+  - author: enigmamonkey
+    text: "New metric to watch in the age of AI slop: Mean time to recovery."
+    status: pending_verification
+    note: "Previously presented as an opening sentence."
+  - author: DutchieTalking
+    text: "As someone with limited programming knowledge, AI has been very useful in building little projects. I even learn from it."
+    status: pending_verification
+    note: "Previously presented as an opening-paragraph excerpt; surrounding comment reportedly mentions errors."
+  - author: semioticmadness
+    text: "Sounds like those lazy employees are slowing AI down /s"
+    status: pending_verification
+    note: "Sarcasm marker is part of the quoted text."
+  - author: the_millenial_falcon
+    text: "This is how I like to use AI as well, feed it smaller chunks I can more quickly verify while being in charge of the app’s overall architecture."
+    status: pending_verification
+    note: "Previously presented as an opening sentence."
+  - author: GuyYourTalkingAbout
+    text: "I can create more features in a week than I used to be able to in months."
+    status: pending_verification
+    note: "Self-reported experience, not an independently measured outcome."
+themes:
+  - name: reliability
+    reading: "Some participants distinguish producing code from delivering dependable software."
+  - name: human_oversight
+    reading: "Smaller, reviewable tasks are proposed as a practical use pattern."
+  - name: accessibility
+    reading: "Some participants describe AI assistance as useful despite errors."
+  - name: productivity
+    reading: "Participants describe both workflow bottlenecks and personal productivity gains."
+links:
+  - "../topics.yaml"
+  - "../../research/HUMAN_REACTION_REGISTER.md"
+review:
+  state: draft
+  reason: "Quotation text and direct comment URLs have not been independently rechecked for this repository publication."
