@@ -24,9 +24,6 @@
 
 **We are not doing this for money.** We seek no fundraising, profit, or material reward. The work is shared to benefit others, whether or not they credit or contact us. Eligible CC0 material can be reused commercially by others; that is their freedom, not our objective.
 
-## Projects
-
-- **[Open Knowledge and Human Perception System](projects/human-perception/README.md)** — discovery-stage concept for topic-centered knowledge, human commentary, and evidence-linked interpretation. [Read the discovery summary](projects/human-perception/DISCOVERY_SUMMARY.md). Existing solutions, independent implementations, criticism, and contributions are welcome; no affiliation required.
 
 ## New: Sovereign Launch and Challenge 005
 
