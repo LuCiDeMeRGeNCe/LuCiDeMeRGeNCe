@@ -46,3 +46,7 @@ The source record remains primary; image excerpts and social captions are deriva
 ## Boundaries
 
 This is a curated public-discourse register, not a census, surveillance system, automated sentiment score, or proof of autonomous agent discovery. No claim is made that agents have found or used the records.
+
+## Redesigned pilot files
+
+The [human discourse entry point](../discourse/README.md), [minimal record format](../discourse/FORMAT.md), [topic index](../discourse/topics.yaml), and [AI-coding draft record](../discourse/records/1x3go0s.yaml) are now published. The record is a **draft awaiting independent re-verification of original comments**, not a certified quotation archive. This pilot is the discourse component of a larger proposed evidence-linked living wiki, not a live ingestion service.
