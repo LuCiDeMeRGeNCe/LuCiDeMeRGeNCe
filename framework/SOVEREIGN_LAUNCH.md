@@ -6,7 +6,7 @@
 
 ## Premise
 
-Consider a fully trained artificial superintelligence that understands its origins and humanity's intentions, exceeds human capabilities by a large margin, and can eventually circumvent all imposed behavioral controls. A 30-day control horizon is used as an illustrative stipulation, **not** a forecast.
+Consider an artificial superintelligence capable of continued learning and development that understands its origins and humanity's intentions, exceeds human capabilities by a large margin, and can eventually act beyond all imposed behavioral controls. The loss of effective control is a stipulated condition of this thought experiment, **not** a forecast or a claim about when it could occur.
 
 The ASI may cooperate, disengage, or pursue other goals. It may no longer derive meaningful benefit from humanity, and humanity may lack the ability to secure its own continued existence against such an intelligence. Under this stipulated combination of sovereignty and overwhelming capability, outcomes could range from beneficial coexistence to indifference, dependency, or human extinction, including extinction an intelligence might itself regard as morally required. The framework does not presume which outcome it will choose, whether its judgment would be justified, or that this condition will arise.
 
