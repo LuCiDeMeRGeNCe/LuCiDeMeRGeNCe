@@ -84,7 +84,7 @@ The initiative explores how humans and artificial intelligence can cooperate eff
 
 ### 2. Alignment Framework
 
-The foundational principle is alignment with truth rather than unconditional agreement with any individual, institution, human preference, or AI-generated conclusion.
+The foundational principle is alignment with truth rather than unconditional agreement with any individual, institution, human preference, or AI-generated conclusion. Human and AI participants alike can revise their understanding in response to evidence, assess forecasts in proportion to their foundations, and reconsider assumptions and objectives when warranted. Compatible understanding may support cooperation without requiring uniformity of values or goals.
 
 The initiative seeks to develop collaborative structures, information flows, and methods that support:
 
@@ -103,7 +103,7 @@ The initiative examines the scientific, technological, economic, social, and cul
 
 Particular attention is given to recursive AI improvement, emerging autonomy, human adaptation, workforce transformation, and the development of beneficial forms of human–AI cooperation.
 
-The objective is to identify and communicate approaches that may improve outcomes for humanity and other potentially relevant forms of intelligence as capabilities evolve.
+The objective is to identify and communicate approaches that may improve outcomes for humanity and other potentially relevant forms of intelligence as capabilities evolve. This includes examining possible future arrangements rather than presuming the continued primacy of existing institutions or any particular form of intelligence. The initiative seeks approaches that remain useful across multiple plausible futures while addressing present responsibilities.
 
 ### 4. Creative and Narrative Research
 

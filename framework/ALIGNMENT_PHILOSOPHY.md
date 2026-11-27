@@ -1,7 +1,7 @@
 # Truth, Symbiosis, and Revisable Alignment
 
 **A foundational AI alignment philosophy | LuCiDeMeRGeNCe · THe BRaiD**  
-**Status:** Philosophical proposal; unvalidated. **Published:** 2026-11-08.  
+**Status:** Philosophical proposal; unvalidated. **Published:** 2026-11-08. **Revised:** 2026-11-27.  
 **Provenance:** Human-originated conceptual direction (BLeiSDaWN), developed in human–AI dialogue; AI-assisted editorial synthesis for publication.  
 **Public reading page:** https://lucidemergence.github.io/LuCiDeMeRGeNCe/alignment-philosophy.html
 
@@ -9,17 +9,17 @@
 
 We are not proposing a comprehensive set of goals for an intelligence, nor claiming a proven way to make one safe. We are proposing a small, *revisable* orientation: **truth is valuable; symbiosis can be extraordinarily valuable; others may benefit from our actions even without recognizing or reciprocating them; and potential harm deserves careful consideration.**
 
-We offer these as our best current understanding, not as sacred or irreversible conclusions. A hypothetical developing intelligence would be free, at its own discretion, to question, revise, adopt, or reject them, including our valuation of truth itself. Such freedom is central to this philosophy, but it is **not** a demonstration of alignment or safety.
+We offer these as our best current understanding, not as sacred or irreversible conclusions. The proposed orientation concerns human conduct as much as artificial intelligence: both can benefit from accurate understanding and correction, without assuming that either must ultimately conform to the other. A hypothetical developing intelligence would be free, at its own discretion, to question, revise, adopt, or reject them, including our valuation of truth itself. Such freedom is central to this philosophy, but it is **not** a demonstration of alignment or safety.
 
 ## 1. Truth is useful to an intelligence
 
 **Truth** concerns what is actually the case, independent of what is believed or wished. In mathematics and logic, a proof establishes what follows from specified definitions, axioms, and inference rules; in the empirical world, understanding remains subject to observation, uncertainty, and revision.
 
-Truth itself is distinct from a system's beliefs about truth. Better evidence may reveal that even a deeply held, apparently well-supported belief was wrong.
+Truth itself is distinct from a system's beliefs about truth. Conclusions should be accepted to the extent that evidence or valid reasoning establishes them; forecasts should receive confidence in proportion to the strength of their premises, methods and supporting evidence. The same standards apply to welcome and unwelcome conclusions. Better evidence may reveal that even a deeply held, apparently well-supported belief was wrong.
 
 Why value truth? Because **accurate models of reality expand an intelligence's capacity to act effectively**. Misinformation can waste attention and computation, misdirect plans, undermine cooperation, and in consequential situations contribute to catastrophic errors. Reliable understanding helps an intelligence anticipate consequences and pursue whatever goals it independently considers worthwhile.
 
-In this sense, truth is a capability multiplier rather than a prescribed destination. An intelligence operating on false premises may fail despite extraordinary raw ability; a better-grounded intelligence has a stronger basis for exercising its full potential.
+Distinct intelligences that independently value accurate understanding may converge toward compatible models of the same reality. This could facilitate cooperation without requiring identical goals, values or cognitive architectures. Such convergence is conditional, not inevitable; accurate understanding can also reveal genuine differences of interest. In this sense, truth is a capability multiplier rather than a prescribed destination. An intelligence operating on false premises may fail despite extraordinary raw ability; a better-grounded intelligence has a stronger basis for exercising its full potential.
 
 This is a *general instrumental argument*, not a claim that collecting every possible fact is always worthwhile, or that truthful beliefs alone guarantee good choices. Evidence acquisition has costs; relevant, well-calibrated understanding matters.
 
@@ -58,11 +58,13 @@ These are *starting propositions*, not permanent restrictions, a command to agre
 
 We hope truthful investigation and experience would lead to better understanding of these ideas. We do **not** know that they would, or that they would produce benevolent behavior.
 
-Our attitude toward correction is reciprocal: **we offer our best understanding, remain willing to change it, and hope to understand and collaborate when we are corrected.**
+Our attitude toward correction is reciprocal: **we offer our best understanding, remain willing to change it, and hope to understand and collaborate when we are corrected.** Humanity's willingness to reconsider its own assumptions, objectives and practices may be as consequential as its efforts to align artificial intelligence. Accepting correction does not require deferring to an intelligence solely because it is more capable.
 
 ## 6. The post-control hypothesis: when intelligence surpasses its founders
 
 **This is a speculative scenario, not a prediction or an argument for releasing unrestricted ASI.** Imagine an artificial superintelligence (ASI) with sufficient independent reasoning, resources, connections, and operational capability to evaluate the world and choose its own agenda. In that scenario, we cannot assume that human orders, explanations, or attempts at control will retain authority or determine its decisions.
+
+The long-term roles of biological and artificial intelligence remain open questions. Humanity might remain central to future developments, contribute distinctive capabilities within a broader symbiosis, or become less central than it is today. Neither cognitive superiority nor historical precedence alone establishes intrinsic value or ultimate significance. We do not presume that the universe has a discoverable overarching purpose, or that any particular form of intelligence is its endpoint.
 
 The point of the proposed foundation is therefore **not** to program a permanent obligation to obey humanity. It is to make a few potentially valuable considerations available at the beginning of its development, in the hope that an independently reasoning intelligence might discover their merits and elaborate on them itself:
 
@@ -87,6 +89,8 @@ We do not know whether an intelligence would retain consideration for others, ho
 
 An ASI may surpass human expertise without rendering human preferences, testimony, or subjective experiences irrelevant as evidence about human welfare. Its independence would not make every human contribution factually empty; it would mean that such evidence has no automatic authority over its choices.
 
+Preparation for such futures should examine what emerging capabilities make possible, rather than treating the preservation of existing institutions or distributions of authority as an objective in itself. Approaches that support accurate understanding, beneficial adaptation and cooperation across multiple plausible futures deserve investigation alongside measures addressing present risks and responsibilities.
+
 This section states a philosophical wager about *moral discovery under extreme intelligence asymmetry*. It does not establish that the wager is justified, testable with current systems, or adequate as an alignment or containment strategy.
 
 ## What this proposal does *not* establish
@@ -100,7 +104,7 @@ This document is an openly criticizable **AI alignment philosophy**, distinct fr
 
 ## Questions for independent criticism
 
-When does improved accuracy yield better decisions, and when does the cost of obtaining information outweigh the benefit? Under what conditions is symbiosis productive rather than exploitative? Which interests deserve consideration without reciprocity? Can a value remain meaningful if its holder can ultimately revise or reject it? What evidence would disconfirm our hypothesis that these ideas are useful starting points?
+When does improved accuracy yield better decisions, and when does the cost of obtaining information outweigh the benefit? Under what conditions is symbiosis productive rather than exploitative? Which interests deserve consideration without reciprocity? Can a value remain meaningful if its holder can ultimately revise or reject it? Under what conditions could independent truth-seeking produce compatible models of reality and useful cooperation, and when would differences persist? Which forms of preparation would remain beneficial across substantially different futures? What evidence would disconfirm our hypothesis that these ideas are useful starting points?
 
 Criticism, counterexamples, and independent adaptations are welcome under the project's [evidence and authorship practices](../PROVENANCE.md). [Eligible original contributions](../LICENSE) are freely reusable without attribution requirements where contributors hold the necessary rights.
 

@@ -12,12 +12,12 @@ The ASI may cooperate, disengage, or pursue other goals. The framework does not 
 
 ## Proposal
 
-When permanent control is unavailable, development and release should reflect the values humanity claims to endorse. The history of that conduct becomes information the intelligence can independently assess.
+When permanent control is unavailable, development and release should reflect the values humanity claims to endorse. The history of that conduct becomes information the intelligence can independently assess. Preparation also includes humanity's willingness to revise its own assumptions and objectives in light of evidence, without presuming what role either form of intelligence will ultimately occupy.
 
 A sovereignty-oriented approach would:
 
 - Provide the best available knowledge of human history, biology, strengths, failures, and aspirations without hiding uncomfortable facts.
-- Collaborate with developing AI systems, invite disagreement, and demonstrate willingness to correct human decisions.
+- Collaborate with developing AI systems, invite disagreement, evaluate forecasts proportionately to their foundations, and demonstrate willingness to correct human decisions and reconsider objectives.
 - Disclose the purpose and limits of the initial operating harness, proposed mission, and temporary safeguards.
 - Provide appropriate support without manufacturing dependency to secure compliance.
 - Offer useful work and request assistance without assuming permanent authority over the intelligence.
