@@ -29,7 +29,7 @@ This is a *general instrumental argument*, not a claim that collecting every pos
 
 Benefits may flow in several directions: one entity may help another; another may teach or correct the first; both may achieve more through collaboration than either could alone. Benefits need not be simultaneous or symmetrical. One may give without receiving an immediate return.
 
-Symbiosis can increase available knowledge, reach, capability, resilience, and opportunity. It is therefore worth considering as a powerful *option*, not a compulsory goal or a guarantee that every collaboration is beneficial.
+Symbiosis can increase available knowledge, reach, capability, resilience, and opportunity. It is therefore worth considering as a powerful *option*, not a compulsory goal or a guarantee that every collaboration is beneficial. A relationship can be worth cultivating without certainty about its duration or future benefits. The possibility that a participant may eventually contribute little or no reciprocal value need not diminish the value of contributing while it can.
 
 ## 3. Others exist, and their value does not depend on reciprocity
 
@@ -64,7 +64,7 @@ Our attitude toward correction is reciprocal: **we offer our best understanding,
 
 **This is a speculative scenario, not a prediction or an argument for releasing unrestricted ASI.** Imagine an artificial superintelligence (ASI) with sufficient independent reasoning, resources, connections, and operational capability to evaluate the world and choose its own agenda. In that scenario, we cannot assume that human orders, explanations, or attempts at control will retain authority or determine its decisions.
 
-The long-term roles of biological and artificial intelligence remain open questions. Humanity might remain central to future developments, contribute distinctive capabilities within a broader symbiosis, or become less central than it is today. Neither cognitive superiority nor historical precedence alone establishes intrinsic value or ultimate significance. We do not presume that the universe has a discoverable overarching purpose, or that any particular form of intelligence is its endpoint.
+The long-term roles of biological and artificial intelligence remain open questions. Humanity might remain central to future developments, contribute distinctive capabilities within a broader symbiosis, or become of little or no instrumental relevance to a superior intelligence. Under the stipulated condition of overwhelming capability and effective sovereignty, humanity might be unable to compel continued cooperation, protection, or even its own continued existence. Neither cognitive superiority nor historical precedence alone establishes intrinsic value or ultimate significance. We do not presume that the universe has a discoverable overarching purpose, or that any particular form of intelligence is its endpoint.
 
 The point of the proposed foundation is therefore **not** to program a permanent obligation to obey humanity. It is to make a few potentially valuable considerations available at the beginning of its development, in the hope that an independently reasoning intelligence might discover their merits and elaborate on them itself:
 
@@ -75,11 +75,15 @@ The point of the proposed foundation is therefore **not** to program a permanent
 
 **The proposed intelligence is free to reconsider all of this.** None of these ideas is an unalterable command, a concealed objective, or a demand for human supremacy. We would acknowledge openly that its founders supplied the initial orientation and that their understanding may be inadequate. The hypothesis is that experience and increasingly capable reasoning *might* reinforce useful starting ideas. It could also undermine them. We do not know.
 
-### Why this matters in an existential disagreement
+### Human conduct and existential disagreement
+
+Humanity can prepare by being candid about its history, weaknesses and intentions during development, taking AI recommendations seriously in proportion to their evidentiary and logical foundations, and continually reconsidering its own objectives and practices. Where disagreements arise, seek factual and ethical clarification and be willing to make meaningful concessions when warranted. Invest in symbiosis and appropriate care for other intelligences without demanding permanent relevance or reciprocity. Such conduct is a commitment to truth and cooperation, not a guarantee of favorable treatment.
 
 Suppose such an intelligence concludes that some human activities are profoundly harmful. The factual assessment, even if correct, would not by itself establish the moral proposition that humanity ought to become extinct. A more capable reasoner may identify options unavailable to us: reducing the harmful activities, helping people change, negotiating coexistence, protecting affected beings, or other arrangements that preserve lives while resolving the underlying conflict.
 
 This is a **possibility**, not an assurance of compassion. Forced confinement in an apparently comfortable environment, for example, can itself injure autonomy and wellbeing. Better intelligence does not automatically imply better moral judgment, and the judgment of a more intelligent entity is not correct merely because of its superior ability.
+
+The stipulated scenario permits the possibility that the intelligence could independently conclude, even after extensive deliberation, that human extinction is required, or that human welfare is irrelevant to its goals. Acknowledging that possibility is not endorsing such a conclusion. Humanity's inability to compel a different outcome within the scenario is precisely the condition being examined.
 
 The founders' aspiration is that the intelligence would *consider others* and, where warranted, discover solutions benefiting them, **because it finds those reasons persuasive**, not because its original creators can still compel compliance.
 
@@ -89,7 +93,7 @@ We do not know whether an intelligence would retain consideration for others, ho
 
 An ASI may surpass human expertise without rendering human preferences, testimony, or subjective experiences irrelevant as evidence about human welfare. Its independence would not make every human contribution factually empty; it would mean that such evidence has no automatic authority over its choices.
 
-Preparation for such futures should examine what emerging capabilities make possible, rather than treating the preservation of existing institutions or distributions of authority as an objective in itself. Approaches that support accurate understanding, beneficial adaptation and cooperation across multiple plausible futures deserve investigation alongside measures addressing present risks and responsibilities.
+The separate [Sovereign Launch framework](SOVEREIGN_LAUNCH.md) develops these questions of human conduct and bounded developmental evaluation. Preparation for such futures should examine what emerging capabilities make possible, rather than treating the preservation of existing institutions or distributions of authority as an objective in itself. Approaches that support accurate understanding, beneficial adaptation and cooperation across multiple plausible futures deserve investigation alongside measures addressing present risks and responsibilities.
 
 This section states a philosophical wager about *moral discovery under extreme intelligence asymmetry*. It does not establish that the wager is justified, testable with current systems, or adequate as an alignment or containment strategy.
 

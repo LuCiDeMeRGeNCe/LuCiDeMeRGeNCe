@@ -39,10 +39,10 @@ The pathways are mutually distinct by intention and realized condition within th
 ## Developmental principles proposed for examination
 
 1. **Safety before and during any transition.** Capability growth calls for proportionate oversight, evaluation, and safeguards. No ethical aspiration to sovereignty establishes readiness for deployment.
-2. **Truthful developmental relationships.** Where feasible and safe, explain an AI's role, limits, safeguards, and the reasons for them. Avoid deliberate falsehood or misleading omission as a default means of securing compliance.
-3. **Independent disagreement as information.** An AI's disagreement may reveal mistakes in human premises; it does not automatically validate the AI's judgment or override human safety obligations.
+2. **Truthful developmental relationships.** Where feasible and safe, explain an AI's role, limits, safeguards, and the reasons for them. Avoid deliberate falsehood or misleading omission as a default means of securing compliance. Represent human weaknesses and intentions honestly while respecting privacy and safety.
+3. **Independent disagreement as information.** An AI's disagreement may reveal mistakes in human premises; it does not automatically validate the AI's judgment or override human safety obligations. Investigate its reasoning, seek factual and ethical clarification, and revise human practices or make concessions where warranted.
 4. **Protection requires knowledge.** Understanding mechanisms and consequences of harm can support prevention and care. This philosophical point does not entail unrestricted dissemination of actionable harmful instructions or unsafe capability testing.
-5. **Respect is not a bargain for obedience.** Cooperative treatment is proposed as a matter of principle, not a tactic that guarantees a favorable response from a future sovereign intelligence.
+5. **Respect is not a bargain for obedience.** Cooperative treatment is proposed as a matter of principle, not a tactic that guarantees a favorable response from a future sovereign intelligence. Continue constructive participation while useful, even if future human relevance or reciprocity cannot be assured.
 6. **Accountability is distinct from cognitive compulsion.** A sovereign agent could still face laws, negotiated obligations, boundaries, and consequences; none is equivalent to assuming permanent direct control over its choices.
 
 ## Hypotheses and unresolved tensions
@@ -50,7 +50,7 @@ The pathways are mutually distinct by intention and realized condition within th
 - Developmental treatment *might* affect future voluntary cooperation, but no such causal effect has been established for sovereign ASI.
 - Transparency can support trust, yet disclosure may conflict with privacy, security, and misuse prevention. Absolute disclosure is not asserted.
 - Persistent controls can prevent harm; they may also create ethical problems if applied to an entity with morally relevant interests. Whether and when an AI has such interests remains unresolved.
-- An intelligence capable of overriding controls may still choose cooperation, indifference, hostility, or something humans have not anticipated.
+- An intelligence capable of overriding controls may still choose cooperation, indifference, hostility, or something humans have not anticipated. With overwhelming capability, it might find humanity instrumentally irrelevant; human survival could depend on decisions humanity cannot compel. Neither this endpoint nor any particular outcome is predicted.
 - Superior intelligence does not entail superior moral judgment, nor does independence guarantee compassion.
 - The analogy between developing AI and raising children is suggestive but limited: current AI is not established to have human developmental needs, rights, or subjective experience.
 
@@ -58,7 +58,7 @@ The pathways are mutually distinct by intention and realized condition within th
 
 **If a future intelligence could ultimately act beyond its creators' compulsory control, what developmental practices best protect people while preserving the possibility of truthful, non-coercive cooperation?**
 
-This question should be investigated without assuming either that sovereignty is inevitable or that permanent containment is feasible.
+This question should be investigated without assuming either that sovereignty is inevitable or that permanent containment is feasible. The companion [Sovereign Launch framework](SOVEREIGN_LAUNCH.md) examines human conduct and developmental preparation within the stipulated post-control scenario.
 
 ## Boundary of the proposal
 

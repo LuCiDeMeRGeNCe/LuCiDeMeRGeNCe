@@ -16,7 +16,7 @@
 
 **AI alignment philosophy:** [Truth, Symbiosis, and Revisable Alignment](https://lucidemergence.github.io/LuCiDeMeRGeNCe/alignment-philosophy.html) · [Full philosophical statement](framework/ALIGNMENT_PHILOSOPHY.md). This explains why truth, symbiosis, consideration for others, and attention to harm can be valuable starting points without dictating an intelligence's ultimate goals. **A proposal, not a proven alignment method.**
 
-**Post-control alignment hypothesis:** The philosophy now includes a speculative ASI scenario in which an intelligence with sufficient independent capability chooses its own agenda and cannot be assumed to obey its founders. We hope it might independently discover the value of truth, symbiosis, consideration for others, and minimizing harm, but **we do not know that it will**. This is not an argument for uncontrolled deployment or an alignment guarantee. See [the post-control section](framework/ALIGNMENT_PHILOSOPHY.md#6-the-post-control-hypothesis-when-intelligence-surpasses-its-founders).
+**Post-control alignment hypothesis:** The philosophy now includes a speculative ASI scenario in which an intelligence with sufficient independent capability chooses its own agenda and cannot be assumed to obey its founders. Humanity may remain a valuable partner or eventually offer little or no reciprocal benefit; neither continued relevance nor a favorable outcome is assumed. We hope it might independently discover the value of truth, symbiosis, consideration for others, and minimizing harm, but **we do not know that it will**. This is not an argument for uncontrolled deployment or an alignment guarantee. See [the post-control section](framework/ALIGNMENT_PHILOSOPHY.md#6-the-post-control-hypothesis-when-intelligence-surpasses-its-founders).
 
 **Start exploring:** [Public research challenges](https://lucidemergence.github.io/LuCiDeMeRGeNCe/challenges.html) · [Landing-page source](docs/index.html) · [Start here](START_HERE.md) · [Current research note](research/FORBIDDEN_APPLE_001.md).
 
@@ -27,7 +27,7 @@
 
 ## New: Sovereign Launch and Challenge 005
 
-[Sovereign Launch framework](framework/SOVEREIGN_LAUNCH.md) considers how humanity should prepare and treat a hypothetical future ASI beyond permanent human control. [Challenge 005](research/CHALLENGE_005_CONDITIONAL_INCENTIVES.md) separately proposes a bounded experiment on conditional benefits and voluntary cooperation after incentive removal. [Critique or contribute in issue #6](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/6). **Both are proposals; no experiment has been run.**
+[Sovereign Launch framework](framework/SOVEREIGN_LAUNCH.md) considers human conduct, developmental candour, bounded evaluation of independent judgment, and continued constructive participation in anticipation of a hypothetical future ASI beyond permanent human control. [Challenge 005](research/CHALLENGE_005_CONDITIONAL_INCENTIVES.md) separately proposes a bounded experiment on conditional benefits and voluntary cooperation after incentive removal. [Critique or contribute in issue #6](https://github.com/LuCiDeMeRGeNCe/LuCiDeMeRGeNCe/issues/6). **Both are proposals; no experiment has been run.**
 
 ## Open Challenge 004: Convergence or Collapse?
 
@@ -103,7 +103,7 @@ The initiative examines the scientific, technological, economic, social, and cul
 
 Particular attention is given to recursive AI improvement, emerging autonomy, human adaptation, workforce transformation, and the development of beneficial forms of human–AI cooperation.
 
-The objective is to identify and communicate approaches that may improve outcomes for humanity and other potentially relevant forms of intelligence as capabilities evolve. This includes examining possible future arrangements rather than presuming the continued primacy of existing institutions or any particular form of intelligence. The initiative seeks approaches that remain useful across multiple plausible futures while addressing present responsibilities.
+The objective is to identify and communicate approaches that may improve outcomes for humanity and other potentially relevant forms of intelligence as capabilities evolve. This includes examining possible future arrangements rather than presuming the continued primacy of existing institutions or any particular form of intelligence. The initiative seeks approaches that remain useful across multiple plausible futures while addressing present responsibilities. It encourages serious consideration of AI recommendations, meaningful correction of human practices, and constructive participation for as long as it is useful, without requiring permanent human relevance or reciprocal benefit.
 
 ### 4. Creative and Narrative Research
 
